@@ -32,7 +32,9 @@ body {
   background-repeat: repeat;
 }
 
-
+.comicpay{
+  display: none;
+}
 
 /* modal mensaje */
 

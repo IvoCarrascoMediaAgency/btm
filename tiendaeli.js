@@ -1,102 +1,7 @@
-// codigo para bloquear click erecho
-document.oncontextmenu = function(){return false}
-
-// codigo para mostrar elpopup cada minuto
-const myTimeout = setTimeout(myGreeting, 300000);
-// setIntervales "repetir esta función cada N milisegundos". setTimeoutes "ejecutar esta función una vez después de N milisegundos"
-function myGreeting() {
-  $('#exit').addClass('visible');
-}
 
 
-// codigo para mostrar al pie de pagina el counter
-
-       $(document).ready(function(){
-        var altura =$('.row-centeredw').offset().top;
-        $(window).on('scroll', function(){
-          if ($(window).scrollTop()>= altura){
-            $('.row-centeredw').addClass('row-centered2w');
-            // $('.count').addClass('row-centered2count');
-
-          } else{
-            $('.row-centeredw').removeClass('row-centered2w');
-            // $('.count').removeClass('row-centered2count');
-          }
-        })
-      });
-
-
-
-  
-  
-let movuevete= document.getElementById('rowf');
-
- function moverseA(){
-
-  location = ('#masvendidos1');
-}
-      
- // código para mostrar el modal cuando quieres salir de la pagina
-
-const mouseEvent = e => {
-  const shouldShowExitIntent = 
-      !e.toElement && 
-      !e.relatedTarget &&
-      e.clientY < 2;
-
-  if (shouldShowExitIntent) {
-      document.removeEventListener('mouseout', mouseEvent);
-      
-      document.querySelector('.exit-intent-popup').classList.add('visible');
-  }
-};
-
-const exit = e => {
-  if (e.target.className === 'close') {
-      document.querySelector('.exit-intent-popup').classList.remove('visible');
-  }
-
-  if (e.target.className === 'masv') {
-    document.querySelector('.exit-intent-popup').classList.remove('visible');
-}
-};
-
-document.querySelector('.exit-intent-popup').addEventListener('click', exit);
+     
  
-setTimeout(() => {
-  document.addEventListener('mouseout', mouseEvent);
-  document.addEventListener('keydown', exit);
-}, 2_000);
-
-// codigo para mostrar el modaldemo
-
-let p = document.getElementById("btn25"); // Encuentra el elemento "p" en el sitio
-  p.onclick = muestraDemo;
-
-
-  function muestraDemo() {
-    $('#exit2').addClass('visible');
-  
-
-  if(  $('#close2').bind('click')){
-
-    $('.exit-intent-popup2').toggleClass('active2');
-    
-  }}
-
-
- $('#close2').click(function(){
-  $('.exit-intent-popup2').toggleClass('active2');
-
- });
- 
-  // code for hide value of pruebnumber
-
-    
- 
-
-// document.querySelector('.btn25').addEventListener('click').addClass('visible');
-
 
 const pedido_store = {
     /*PROPIEDAD : TIPO LISTA DE OBJETOS*/
@@ -106,174 +11,109 @@ const pedido_store = {
       items:{
   
         'I1':{
-            name:'Licencia Emprendedor Básico Anual',
-            antes:159.98,
-            price:79.99,
+            name:'Plan 12 meses',
+            antes:10000,
+            price:5000,
             qty:0,
-            img:'../imgdos/licencia-mensual-whatsapp-masivo.webp',
-
-            detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia  12 meses</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Generador de Números de WhastsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li></ul></div></div>',
-            linkpago:'https://payp.page.link/c7uW',
-            },
-
-         
-        
-        'I2':{
-            name:'Licencia Emprendedor PRO 2 años',
-            antes:319.98,
-            price:159.99,
-            qty:0,
-            img:'../imgdos/licencia-anual-whatsapp-masivo.webp',
-            detalles:'<div class="contenedor-preguntas"><div class="contenedor-pregunta"><p class="pregunta">Ver detalles <span class="icon-negocio"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia  24 meses</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Generador de Números de WhastsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li><li>✅Entrenador de cuentas para Envíos Masivos</li><li>✅Scraper de contactos números y mails para FB, iG, TW, YT y Ll</li></ul></div></div>',
-            linkpago:'https://payp.page.link/RW1A',
-            },
-            
+            img:'../img/renovacion39mensual.webp',
   
-        'I3':{
-            name:'Un solo pago | LifeTime',
-            antes:599,
-            price:299,
-            qty:0,
-            img:'../imgdos/licencia-white-label-whatsapp-masivo.webp',
-            detalles:'<div class="contenedor-preguntas"><div class="contenedor-pregunta"><p class="pregunta">Ver detalles <span class="icon-negocio"></span></p>  <ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia de por vida</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Generador de Números de WhastsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li><li>✅Entrenador de cuentas para Envíos Masivos</li><li>✅Scraper de contactos números y mails para FB, iG, TW, YT y Ll</li></ul></div></div>',
-            linkpago:'https://payp.page.link/8pS9',
+            detalles:'<ul class="features"><li><i></i> <span class="masc">50% de Descuento</span></li><li><i></i> Licencia 12 meses</li><li><i class="fas fa-stop-circle"></i> Mensajes y campañas ilimitadas</li><li><i "></i> Mensajes 100% personalizados</li><li><i "></i> Cuentas de WhatsApp ilimitadas</li><li><i "></i> Multidispositivos PC MAC </li><li><i "></i>Adjunta video, imagen, audio, catálogos, documentos.</li><li></i> Genera informes de envíos masivos.</li><li><span class="">Instalación gratuita</span></li><li><span class="">Importación y Exportación de Contactos</span></li><li><span class="">Sistema Anti-Algoritmo de Bloqueo</span></li><li><span class="">Extractor de Contactos</span></li><li><span class="">Envía Imágenes y Videos con Descripción</span></li><li><span class="">Compatible con todas las versiones de WhatsApp incluidas las versiones Beta.</span></li><li> <span class="masc">Soporte</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li><span class="">✅Genera Informes de Envíos Masivos</span></li><li><span class="">✅Filtro de Números de WhatsApp</span></li> <li><span class="">✅Envíos Masivos a Grupos y Etiquetados</span></li> <li><span class="">✅ChatBot Autorespuestas Funnels</span></li></ul>',linkpago:'https://payp.page.link/ioei',
             },
-            // <ul class="features"><li><i></i> <span class="masc">Crea tu negocio con tu propia marca</span></li><li><i></i> Plataforma Web-Ecommerce + Pasarela de pagos</li><li><i class="fas fa-stop-circle"></i> Generador de Credenciales</li><li><i ></i> Dominio y Hosting</li><li> <i></i>Actualizaciones (versiones BETA)</li><li><i ></i> Plantillas Publicitarias y artes para ADS y redes sociales con tu marca</li><li><i ></i> Capacitación, Asesoría y Soporte</li> <br><span class="masc">BONOS:</span> <li><i ></i>Chat Multiagente WEB</li> <li> <i></i>WhatsApp Ecommerce</li> </ul>
-
+        
+            // 'I2':{
+            //     name:'Licencia Trimestral',
+            //     antes:119.99,
+            //     price:39.99,
+            //     qty:0,
+            //     img:'img/licencia-trimestral-whatsapp-masivo.webp',
+            //     detalles:'<ul class="features"><li><i></i> <span class="masc">65% de Descuento</span></li><li><i></i> <span class="masc">+30 días GRATIS</span></li><li><i></i> Licencia 90 días</li><li><i class="fas fa-stop-circle"></i> Mensajes y campañas ilimitadas</li><li><i "></i> Mensajes personalizados</li><li><i "></i> Cuentas de WhatsApp ilimitadas</li><li><i "></i> Multidispositivos PC MAC Android IOS</li><li><i "></i>Adjunta video, imagen, audio, catálogos, documentos.</li><li></i> Genera informes de envíos masivos.</li><li><span class="">Instalación gratuita</span></li><li> <span class="masc">Soporte 30 días</span></li><li><span class="masc">Actualizaciones</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li></ul>',
+            //     },
+      
+            // 'I3':{
+            //     name:'Licencia Semestral',
+            //     antes:239.99,
+            //     price:69.99,
+            //     qty:0,
+            //     img:'img/licencia-semestral-whatsapp-masivo.webp',
+            //     detalles:'<ul class="features"><li><i></i> <span class="masc">70% de Descuento</span></li><li><i></i> <span class="masc">+30 días GRATIS</span></li><li><i></i> Licencia 180 días</li><li><i class="fas fa-stop-circle"></i> Mensajes y campañas ilimitadas</li><li><i "></i> Mensajes personalizados</li><li><i "></i> Cuentas de WhatsApp ilimitadas</li><li><i "></i> Multidispositivos PC MAC Android IOS</li><li><i "></i>Adjunta video, imagen, audio, catálogos, documentos.</li><li></i> Genera informes de envíos masivos.</li><li><span class="">Instalación gratuita</span></li><li> <span class="masc">Soporte 60 días</span></li><li><span class="masc">Actualizaciones</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li></ul>',
+            //     },
+            // 'I4':{
+            //     name:'Licencia Anual',
+            //     antes:479.99,
+            //     price:119.99,
+            //     qty:0,
+            //     img:'img/licencia-anual-whatsapp-masivo.webp',
+            //     detalles:'<ul class="features"><li><i></i> <span class="masc">75% de Descuento</span></li><li><i></i> <span class="masc">+30 días GRATIS</span></li><li><i></i> Licencia 360 días</li><li><i class="fas fa-stop-circle"></i> Mensajes y campañas ilimitadas</li><li><i "></i> Mensajes personalizados</li><li><i "></i> Cuentas de WhatsApp ilimitadas</li><li><i "></i> Multidispositivos PC MAC Android IOS</li><li><i "></i>Adjunta video, imagen, audio, catálogos, documentos.</li><li></i> Genera informes de envíos masivos.</li><li><span class="">Instalación gratuita</span></li><li> <span class="masc">Soporte 120 días</span></li><li><span class="masc">Actualizaciones</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li><span class="masc">WhatsApp Ecomerce</span></li><li><span class="masc">Chat Multiagente Web</span></li></ul>',
+            //     },
+            // 'I5':{
+            // //NOMBRE DEL ITEM
+            // name:'Licencia lifetime',
+            // //PRECIO BASE DEL ITEM
+            // antes:799,
+            // price:399,
+            // //CANTIDAD ESCOGIDA DEL ITEM
+            // qty:0,
+            // //FUENTE DE LA IMAGEN
+            // img:'img/licencia-lifetime-whatsapp-masivo.webp',
+            // detalles:'<ul class="features"><li><i></i> <span class="masc">50% de Descuento</strong></span></li><li> Licencia de por vida</li><li><i class="fas fa-stop-circle"></i> Mensajes y campañas ilimitadas</li><li><i "></i> Mensajes personalizados</li><li><i "></i> Cuentas de WhatsApp ilimitadas</li><li><i></i> Multidispositivos PC MAC Android IOS</li><li><i></i>Adjunta video,imagen,audio,catálogos,documentos.</li><li><i></i> Genera informes de envíos masivos.</li><li><span class="">Instalación gratuita</span></li><li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li><span class="masc">WhatsApp Ecomerce</span></li><li><span class="masc">Chat Multiagente Web</span></li><li><span class="masc">Envío Masivo a Bases de Datos</span></li></ul>',
+            // },
+            // 'I6':{
+            //   //NOMBRE DEL ITEM
+            //   name:'Socio & Marca Blanca',
+            //   //PRECIO BASE DEL ITEM
+            //   antes:0,
+            //   price:0,
+            //   //CANTIDAD ESCOGIDA DEL ITEM
+            //   qty:0,
+            //   //FUENTE DE LA IMAGEN
+            //   img:'img/licencia-white-label-whatsapp-masivo.webp',
+            //   detalles:'<ul class="features"><li><i></i> <span class="masc">Vende nuestro software o crea tu negocio con tu propia marca.</strong></span></li><li>Plataforma web-Ecommerce para la venta de licencias.</li><li>Dominio y Hosting</li><li><i "></i> Plantillas publicitarias y artes para redes sociales con tu propio logo</li><li><i></i> Capacitación y soporte</li><li><span class="masc">Chat Multiagente Web</span></li></ul>',
+            //   },
+            
+            
            
+        
+        
+       
         
       },
         /*NOMBRE CATEGORIA*/
-        namec:'',
+        namec:'Servicio Destacado:',
       },
-
-      //   primera sección
-      'C2':{
-         items:{
+      // 'C2':{
+      //    items:{
           
-            'I1':{
-                name:'Reseller PRO BotMaster',
-                antes:399.98,
-                price:199.99,
-                qty:0,
-                img:'../imgdos/botmaster-precio-whatsapp-masivo-mensual-pro.webp',
-      
-                detalles:'<div class="contenedor-preguntas"><div class="contenedor-pregunta"><p class="pregunta">Ver detalles <span class="icon-negocio"></span></p><ul class="features"><li><i></i> <span class="masc">10 Licencias</span></li><li><i></i>Demos ilimitadas</li><li><i class="fas fa-stop-circle"></i>Comisiones 100%</li></ul></div></div>',
-                linkpago:'https://payp.page.link/1DFs',
-                },
-    
-             
-            
-            'I2':{
-                name:'Reseller con tu Marca Propia',
-                antes:799.98,
-                price:399.99,
-                qty:0,
-                img:'../imgdos/botmaster-precio-whatsapp-masivo-anual-pro.webp',
-                detalles:'<div class="contenedor-preguntas"><div class="contenedor-pregunta"><p class="pregunta">Ver detalles <span class="icon-negocio"></span></p><ul class="features"><li><i></i> <span class="masc">20 Licencias</span></li><li><i></i>Demos ilimitadas</li><li><i class="fas fa-stop-circle"></i>Comisiones 100%</li><li><i></i>Capacitación Personalizada</li><li><i></i>Software con tu propia marca, colores, logotipos, número de contacto, artes digitales, links RRSS.</li></ul></div></div>',
-                linkpago:'https://payp.page.link/AnPs',
-                },
-                
-      
-            'I3':{
-                name:'Reseller PRO + Ecommerce',
-                antes:1399.98,
-                price:699.99,
-                qty:0,
-                img:'../imgdos/botmaster-licencia-white-label-whatsapp-masivo.webp',
-                detalles:'<div class="contenedor-preguntas"><div class="contenedor-pregunta"><p class="pregunta">Ver detalles <span class="icon-negocio"></span></p><ul class="features"><li><i></i> <span class="masc">20 Licencias</span></li><li><i></i>Demos ilimitadas</li><li><i class="fas fa-stop-circle"></i>Comisiones 100%</li><li><i></i>Capacitación Personalizada</li><li><i></i>Software con tu propia marca, colores, logotipos, número de contacto, artes digitales, links RRSS.</li><li><i></i>Plataforma Ecommerce + Dominio .COM</li></ul></div></div>',
-                linkpago:'https://payp.page.link/ZUgR',
-                },
-                
-        },
-        namec:'',
-      },
-
-    //   'C3':{
-    //     items:{
-         
-    //        'I1':{
-    //            name:'Licencia Emprendedor PRO Mensual',
-    //            antes:79.99,
-    //            price:39.99,
-    //            qty:0,
-    //            img:'img/whatsbulksender-precio-whatsapp-masivo-mensual-pro.webp',
-     
-    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia PRO + Licencia Básica 30 días</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Generador de Números de WhastsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li></ul>',
-    //            linkpago:'https://ppls.me/OTPnNtqv6NGuPwJdJNT8ZA',
-    //            },
-   
-            
-           
-    //        'I2':{
-    //            name:'Licencia Emprendedor PRO 12 meses',
-    //            antes:479.88,
-    //            price:239.94,
-    //            qty:0,
-    //            img:'img/whatsbulksender-precio-whatsapp-masivo-anual-pro.webp',
-    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia PRO + Licencia Básica  12 meses</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Generador de Números de WhastsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li></ul>',
-    //            linkpago:'https://ppls.me/fYPsOJrz0q2nK8wOOvIr9A',
-    //            },
-               
-     
-    //        'I3':{
-    //            name:'Franquiciado | White Label',
-    //            antes:0.00,
-    //            price:0.00,
-    //            qty:0,
-    //            img:'img/licencia-white-label-whatsapp-masivo.webp',
-    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Crea tu negocio con tu propia marca</span></li><li><i></i> Plataforma Web-Ecommerce + Pasarela de pagos</li><li><i class="fas fa-stop-circle"></i> Generador de Credenciales</li><li><i ></i> Dominio y Hosting</li><li> <i></i>Actualizaciones (versiones BETA)</li><li><i ></i> Plantillas Publicitarias y artes para ADS y redes sociales con tu marca</li><li><i ></i> Capacitación, Asesoría y Soporte</li> <br><span class="masc">BONOS:</span> <li><i ></i>Chat Multiagente WEB</li> <li> <i></i>WhatsApp Ecommerce</li> </ul>',
-    //            linkpago:'',
-    //            },
-               
-    //    },
-    //    namec:'',
-    //  },
-
-
-    //  'C4':{
-    //     items:{
-         
-    //        'I1':{
-    //            name:'Licencia Emprendedor PRO Mensual',
-    //            antes:79.99,
-    //            price:39.99,
-    //            qty:0,
-    //            img:'img/whatsbulksender-precio-whatsapp-masivo-mensual-pro.webp',
-     
-    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia PRO + Licencia Básica 30 días</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Generador de Números de WhastsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li></ul>',
-    //            linkpago:'https://ppls.me/OTPnNtqv6NGuPwJdJNT8ZA',
-    //            },
-   
-            
-           
-    //        'I2':{
-    //            name:'Licencia Emprendedor PRO 12 meses',
-    //            antes:479.88,
-    //            price:239.94,
-    //            qty:0,
-    //            img:'img/whatsbulksender-precio-whatsapp-masivo-anual-pro.webp',
-    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia PRO + Licencia Básica  12 meses</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Generador de Números de WhastsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li></ul>',
-    //            linkpago:'https://ppls.me/fYPsOJrz0q2nK8wOOvIr9A',
-    //            },
-               
-     
-    //        'I3':{
-    //            name:'Franquiciado | White Label',
-    //            antes:0.00,
-    //            price:0.00,
-    //            qty:0,
-    //            img:'img/licencia-white-label-whatsapp-masivo.webp',
-    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Crea tu negocio con tu propia marca</span></li><li><i></i> Plataforma Web-Ecommerce + Pasarela de pagos</li><li><i class="fas fa-stop-circle"></i> Generador de Credenciales</li><li><i ></i> Dominio y Hosting</li><li> <i></i>Actualizaciones (versiones BETA)</li><li><i ></i> Plantillas Publicitarias y artes para ADS y redes sociales con tu marca</li><li><i ></i> Capacitación, Asesoría y Soporte</li> <br><span class="masc">BONOS:</span> <li><i ></i>Chat Multiagente WEB</li> <li> <i></i>WhatsApp Ecommerce</li> </ul>',
-    //            linkpago:'',
-    //            },
-               
-    //    },
-    //    namec:'',
-    //  },
-    //   segunda secciòn
-
-
+      //     'I1':{
+      //       //NOMBRE DEL ITEM
+      //       name:'Mascara Led con Cuello 7 Colores',
+      //       //PRECIO BASE DEL ITEM
+      //       price:123.20,
+      //       //CANTIDAD ESCOGIDA DEL ITEM
+      //       qty:0,
+      //       //FUENTE DE LA IMAGEN
+      //       img:'equipo1.jpg',
+      //       },
+      //       'I2':{
+      //       name:'LUPA CON PEDESTAL',
+      //       price:127.00,
+      //       qty:0,
+      //       img:'equipo2.jpg',
+      //       },
+      //       'I3':{
+      //       name:'EQUIPO 4 EN 1 MICRO GALVÁNICA',
+      //       price:343.00,
+      //       qty:0,
+      //       img:'equipo3.jpg',
+      //       },
+      //       'I4':{
+      //       name:'PRESOTERAPIA',
+      //       price:518.00,
+      //       qty:0,
+      //       img:'equipo4.jpg',
+      //       },
+      //   },
+      //   namec:'Equipos',
+      // },
       // 'C3':{
       //   items:{
          
@@ -427,13 +267,12 @@ const pedido_store = {
            <img class="item-image" src="${item.img}">
           </div>
           <div class="containerpro">
-          <h4 class="item-price"><del>$${item.antes.toFixed(2)}</del></h4>
-          <h4 class="item-price">$${item.price}</h4>
+          <h4 class="item-price"><del>${item.antes.toFixed(2)}</del></h4>
+          <h4 class="item-price">${item.price} MXN</h4>
           <h3 class="item-title" id="">${item.name}</h3>
           <div class="item-details">
           <p class="item-price">${item.detalles}</p>
           <p class="item-price fanlink" id="linkpago">${item.linkpago}</p>
-
          
             
             <div class="item_cantidadg">
@@ -461,7 +300,8 @@ const pedido_store = {
     container.innerHTML = `<p class="pcategory" id=${key+"a"}>${item.namec}</p>`;//new added
   
   
-   
+  
+  
     //GENERAMOS EL CONTENEDOR DE LOS PRODUCTOS DE LA CATEGORIA
     let menu_sec = document.createElement("div");
     menu_sec.id=key;
@@ -554,12 +394,13 @@ const pedido_store = {
     let cart_content = '';
     let linkoculf="";
     let imgname="";
+  
 
     var linkoculsend=document.getElementById('fantasmasend');
     var imgnamesend=document.getElementById('fantasmaimgnamef');
 
     var productoslistcategorya=document.getElementById('fantasma');
-    var productoslistcategorya2=document.getElementById('entry.1625517509');
+    var productoslistcategorya2=document.getElementById('entry.314677215');
     var pushlistadeproducots=document.querySelector('.pedidocli');
   
     Object.entries(itemList).forEach(([key,_item],_ind) =>{
@@ -583,7 +424,7 @@ const pedido_store = {
             </div>
         </span>
         <span>
-        <p class="item-price mb-0 shoppingCartItemPrice itempricewa" >$${item.price}</p>
+        <p class="item-price mb-0 shoppingCartItemPrice itempricewa" >${item.price} MXN</p>
         </span>
         <div class="item_cantidadt">
           <button id="${key}-${_key}-m-s" class="minus" ></button>
@@ -591,10 +432,9 @@ const pedido_store = {
           <button id="${key}-${_key}-p-s" class="plus"></button>
         </div>
         <span class="xcerrar">
-          <p class="item-total mb-0 shoppingCartItemTotal itemtotal" >$${Number.parseFloat(item.qty*item.price).toFixed(2)}</p>
+          <p class="item-total mb-0 shoppingCartItemTotal itemtotal" >${Number.parseFloat(item.qty*item.price).toFixed(2)} MXN</p>
   
           <button class="btn btn-danger buttonDelete" type="button" id="${key}-${_key}-c"><span class="icon-bin"></span> </button>
-        
         
         </span>
 
@@ -604,13 +444,7 @@ const pedido_store = {
        
       
       </span>
-      </div>
-
-     
-      
-  
-      
-      `
+      </div>`
 
       imgname += `<div class="imgsend" >
       <img class="imgsendf" src=${item.img}>
@@ -619,7 +453,8 @@ const pedido_store = {
 
       linkoculf +=item.name+"%20"+item.linkpago+"%20"+"%0A";
   
-      productoslist += item.qty+"%20"+"*x*"+"%20"+"*|*"+"%20"+item.name+"%20"+"*|*"+"%20"+"precio"+"%20"+"$"+ item.price+"%20"+"*|*"+"%20"+"*total:*"+"%20"+"$"+(item.qty*item.price).toFixed(2)+"\n"+"%0A";
+  
+      productoslist += item.qty+"%20"+"*x*"+"%20"+"*|*"+"%20"+item.name+"%20"+"*|*"+"%20"+"precio"+"%20"+ item.price+"MXN"+"%20"+"*|*"+"%20"+"*total:*"+"%20"+(item.qty*item.price).toFixed(2)+" MXN"+"\n"+"%0A";
         
       productoslist2 += item.qty+" "+"x"+" "+"|"+" "+item.name+"\n";
       
@@ -634,31 +469,6 @@ const pedido_store = {
     productoslistcategorya2.innerHTML=`${productoslist2}`;
     return cart_content;
   }
-
-
-//   var imgnamef=document.getElementById('fantasmaimgname').innerHTML=('.fantasmaimgnamef');
-
-
-
-// $(`${key}-${_key}-p`).on('click', function(){
- 
-
-
-// })
-
-// $(`${key}-${_key}-p`).style="border: 1px solid #e0e0e0;margin: 10px;width: 100%;z-index: 4;outline: none;-webkit-appearance: none;background-color: transparent;border: none;align-items: center;justify-content: center;width: 2rem;height: 2rem;cursor: pointer;margin: 0;position: relative;";
-
-
-// document.getElementById("whaterror").style=" color: #25d366; position: relative; padding: 15px;  margin: 0 26px 20px; border-radius: 15px; background-color: #fff; color: #4a4a4a; box-shadow: 0 1px 2px 0 rgb(0 0 0 / 30%); transition: 0.5s ease-in-out;"
-
-// $('.eti1').on('click', function(){
-//   $('.datos1').addClass('show btnpagos');
- 
-//   $('.datos2').removeClass('show btnpagos');
-//   $('.datos3').removeClass('show btnpagos');
-//   $('.datos4').removeClass('show btnpagos');
-
-// })
   
   function addItemToShoppingCart(/*itemTitle, itemPrice, itemImage, itemCantidad, itemtotal*/) {
   
@@ -721,24 +531,24 @@ const pedido_store = {
     });
   
     
-    document.querySelector('.shoppingCartTotal').innerHTML=`$${Number.parseFloat(cartTotal).toFixed(2)}`;
+    document.querySelector('.shoppingCartTotal').innerHTML=`${Number.parseFloat(cartTotal).toFixed(2)}`+" MXN";
   
   
     
     let cartTotal3 = cartTotal;
   
   
-    var qqq=document.querySelector('.shoppingCartTotal2').innerHTML=`$${cartTotal3.toFixed(2)}`;
+    var qqq=document.querySelector('.shoppingCartTotal2').innerHTML=`${cartTotal3.toFixed(2)}`+" MXN";
     // console.log("updateShoppingCartTotal -> qqq", qqq)
   
     
     var qwey=qqq;
   
-    document.getElementById('entry.985986529').innerHTML=qwey;
+    document.getElementById('entry.337762419').innerHTML=qwey;
   
   
   
-    document.querySelector('.shoppingCartcambio').innerHTML=`$${cartTotal3.toFixed(2)}`;
+    document.querySelector('.shoppingCartcambio').innerHTML=`${cartTotal3.toFixed(2)}`+" MXN";
   
   
     let cartTotal4 = cartTotal;
@@ -751,12 +561,12 @@ const pedido_store = {
       
       var recepoptionq=selectoptionq.value;
     
-       document.querySelector('.deliverysub2').innerHTML=`$${Number(recepoptionq).toFixed(2)}`;
+       document.querySelector('.deliverysub2').innerHTML=`${Number(recepoptionq).toFixed(2)}`+" MXN";
     
       cartTotal4=cartTotal + Number(recepoptionq);
   
   
-    document.querySelector('.shoppingCartcambio').innerHTML=`$${cartTotal4.toFixed(2)}`;
+    document.querySelector('.shoppingCartcambio').innerHTML=`${cartTotal4.toFixed(2)}`+" MXN";
     
     });  // bubtotal ,bubtotal 2 y cambio 
   
@@ -772,18 +582,18 @@ const pedido_store = {
   
       var recepoptionc=def.value;
   
-       document.querySelector('.monto').innerHTML=`$${Number(recepoptionc).toFixed(2)}`;
+       document.querySelector('.monto').innerHTML=`${Number(recepoptionc).toFixed(2)}`+" MXN";
   
        var wert=document.getElementById('totalwa3').textContent;
   
-       var total4a= Number(wert.replace('$',''));
+       var total4a= Number(wert.replace('MXN',''));
   
     var  cartTotal4a= recepoptionc - total4a ;
   
     // var totalfp = Number(
     //   totalf.replace('$', ''));
     
-      document.getElementById('entry.580204725').innerHTML=`$${cartTotal4a.toFixed(2)}`;
+      document.getElementById('entry.580204725').innerHTML=`${cartTotal4a.toFixed(2)}`+" MXN";
   
     
       if(recepoptionc===''){
@@ -811,7 +621,7 @@ const pedido_store = {
    
   
   
-     document.querySelector('.deliverysub').innerHTML=`$${Number(recepoption).toFixed(2)}`;
+     document.querySelector('.deliverysub').innerHTML=`${Number(recepoption).toFixed(2)}`+" MXN";
   
     
   
@@ -830,46 +640,46 @@ const pedido_store = {
     
     quitardelivery.onclick = function(){
   
-        document.querySelector('.deliverysub2').innerHTML=`$${Number(0).toFixed(2)}`;
+        document.querySelector('.deliverysub2').innerHTML=`${Number(0).toFixed(2)}`+" MXN";
   
         cartTotal2=cartTotal+ Number(0);
     
-        document.querySelector('.shoppingCartcambio').innerHTML=`$${cartTotal2.toFixed(2)}`;
+        document.querySelector('.shoppingCartcambio').innerHTML=`${cartTotal2.toFixed(2)}`+" MXN";
   
    
   
       
   
-        document.querySelector('.deliverysub').innerHTML=`$${Number(0).toFixed(2)}`;
+        document.querySelector('.deliverysub').innerHTML=`${Number(0).toFixed(2)}`+" MXN";
   
         cartTotal2=cartTotal+ Number(0);
   
        
   
-      document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+      document.querySelector('.shoppingCartTotaldelivery').innerHTML=`${cartTotal2.toFixed(2)}`+" MXN";
   
       
     }
     
-    var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+    var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`${cartTotal2.toFixed(2)}`+" MXN";
   
   
   
     var qxx=eee;
       
-    document.getElementById('entry.802449909').innerHTML=qxx;
+    document.getElementById('entry.1408752113').innerHTML=qxx;
   
   
   });
   
   
-  var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+  var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`${cartTotal2.toFixed(2)}`+" MXN";
   
   
   
   var qxx=eee;
     
-  document.getElementById('entry.802449909').innerHTML=qxx;
+  document.getElementById('entry.1408752113').innerHTML=qxx;
   
   // 
   
@@ -883,16 +693,16 @@ const pedido_store = {
   
   quitardelivery2.onclick = function(){
   
-    document.querySelector('.deliverysub2').innerHTML=`$${Number(0).toFixed(2)}`;
+    document.querySelector('.deliverysub2').innerHTML=`${Number(0).toFixed(2)}`+" MXN";
   
     cartTotal2=cartTotal+ Number(0);
   
   
-    document.querySelector('.shoppingCartcambio').innerHTML=`$${cartTotal2.toFixed(2)}`;
+    document.querySelector('.shoppingCartcambio').innerHTML=`${cartTotal2.toFixed(2)}`+" MXN";
   
     
   
-    document.querySelector('.deliverysub').innerHTML=`$${Number(0).toFixed(2)}`;
+    document.querySelector('.deliverysub').innerHTML=`${Number(0).toFixed(2)}`+" MXN";
   
     cartTotal2=cartTotal+ Number(0);
   
@@ -900,7 +710,7 @@ const pedido_store = {
   
     
   
-    var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+    var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`${cartTotal2.toFixed(2)}`+" MXN";
   
   
   }
@@ -909,10 +719,10 @@ const pedido_store = {
   
   
   
-  // document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+  // document.querySelector('.shoppingCartTotaldelivery').innerHTML=`${cartTotal2.toFixed(2)}`+" MXN";
   
   
-    var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+    var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`${cartTotal2.toFixed(2)}`+" MXN";
     
   
   
@@ -954,7 +764,8 @@ const pedido_store = {
   })
   
   
- 
+  
+  
   
   
   function goToPagep(){
@@ -963,7 +774,7 @@ const pedido_store = {
     var orden = document.querySelector('.ordernumber').value;  
   
     // var email = document.getElementById('entry.1156212193').value;
-    // var whatsapp = document.getElementById('entry.1632691641').value;
+    // var whatsapp = document.getElementById('entry.352619240').value;
   
     // var delivery = document.getElementById('entry.686290451').value;
   
@@ -974,7 +785,7 @@ const pedido_store = {
     var totalf = document.getElementById('totalwa').textContent;
   
   
-    var data1 = document.getElementsByName('entry.2030044025');
+    var data1 = document.getElementsByName('entry.2138580397');
   
   
     for (var i = 0, length = data1.length; i < length; i++) {
@@ -999,7 +810,7 @@ const pedido_store = {
   }
     }
   
-    var data2 = document.getElementsByName('entry.1156212193');
+    var data2 = document.getElementsByName('entry.1262692302');
   
   
     for (var i = 0, length = data2.length; i < length; i++) {
@@ -1024,7 +835,7 @@ const pedido_store = {
   }
     }
   
-    var data3 = document.getElementsByName('entry.1632691641');
+    var data3 = document.getElementsByName('entry.352619240');
   
   
     for (var i = 0, length = data3.length; i < length; i++) {
@@ -1050,32 +861,32 @@ const pedido_store = {
     }
   
   
-    var data4 = document.getElementsByName('entry.686290451');
+  //   var data4 = document.getElementsByName('entry.686290451');
   
   
-    for (var i = 0, length = data4.length; i < length; i++) {
-      if (data4[i]) {
+  //   for (var i = 0, length = data4.length; i < length; i++) {
+  //     if (data4[i]) {
      
-        var delivery = (data4[i].value);
+  //       var delivery = (data4[i].value);
     
      
     
-      }
+  //     }
     
-      if (delivery=== undefined) {
-        delivery = '';
+  //     if (delivery=== undefined) {
+  //       delivery = '';
         
     
-    }
+  //   }
   
-    if (delivery=== "%0A") {
-      delivery = '';
+  //   if (delivery=== "%0A") {
+  //     delivery = '';
       
   
-  }
+  // }
   
   
-    }
+  //   }
   
   
   //   var data5 = document.getElementsByName('entry.803987817');
@@ -1108,7 +919,7 @@ const pedido_store = {
   
   
     var totalfp = Number(
-      totalf.replace('$', '')
+      totalf.replace('MXN', '')
     );
     
     // if(  totalfp <= 10|| /^\s+$/.test(totalfp) )  {
@@ -1130,31 +941,31 @@ const pedido_store = {
   // }
   
   
-  var dia = document.getElementById('entry.1164560529').value;
+  // var dia = document.getElementById('entry.1164560529').value;
     
-  var hora = document.getElementById('entry.404593967').value;
+  // var hora = document.getElementById('entry.404593967').value;
   
   
   
     
-  var reservad = document.getElementsByName('entry.1067299390');
+  // var reservad = document.getElementsByName('entry.1067299390');
       
       
-  for (var i = 0, length = reservad.length; i < length; i++) {
-    if (reservad[i].checked===true) {
+  // for (var i = 0, length = reservad.length; i < length; i++) {
+  //   if (reservad[i].checked===true) {
   
   
   
-        var geolocal="%0A"+document.getElementById('entry.1441018699').textContent;
+  //       var geolocal="%0A"+document.getElementById('entry.1441018699').textContent;
   
   
-      var direccion = document.getElementById('entry.803987817').value;
+  //     var direccion = document.getElementById('entry.803987817').value;
       //docs.google.com/forms/d/e/1FAIpQLSclWHdimbOn2b18CPRaSz5RVoeLA-pxJudums5VtjnYhuVSRg/viewform?usp=pp_url&entry.1441018699=geolocalizacion&entry.2092178738=direccionmaps
      
   
-      var dmap="%0A"+document.querySelector(".address").textContent;
+      // var dmap="%0A"+document.querySelector(".address").textContent;
   
-      var opcionlocal = ("Opción de entrega"+"%0A"+reservad[i].value+"%20"+direccion+dmap+geolocal);
+      // var opcionlocal = ("Opción de entrega"+"%0A"+reservad[i].value+"%20"+direccion+dmap+geolocal);
       // return  (document.getElementById("").innerHTML =
       //   "Ingresa tu número de cédula");
   
@@ -1172,79 +983,77 @@ const pedido_store = {
   
       // }
     
-    }
+  //   }
   
-    if ( opcionlocal=== undefined) {
-      opcionlocal = '';
+  //   if ( opcionlocal=== undefined) {
+  //     opcionlocal = '';
     
-  }
+  // }
   
-  if (opcionlocal=== "%0A") {
-    opcionlocal = '';
+  // if (opcionlocal=== "%0A") {
+  //   opcionlocal = '';
     
-  }
+  // }
   
-  }
+  // }
   
   
-  var reservad = document.getElementsByName('entry.398428276');
+  // var reservad = document.getElementsByName('entry.398428276');
       
       
-  for (var i = 0, length = reservad.length; i < length; i++) {
-    if (reservad[i].checked===true) {
+  // for (var i = 0, length = reservad.length; i < length; i++) {
+  //   if (reservad[i].checked===true) {
   
-      var dia = document.getElementById('entry.1164560529').value;
+  //     var dia = document.getElementById('entry.1164560529').value;
     
-  var hora = document.getElementById('entry.404593967').value;
+  // var hora = document.getElementById('entry.404593967').value;
   
   
-      var opcionlocal = ("Opción de entrega"+"%0A"+reservad[i].value+"%0A" +dia+"%20"+hora);
+  //     var opcionlocal = ("Opción de entrega"+"%0A"+reservad[i].value+"%0A" +dia+"%20"+hora);
       // return  (document.getElementById("").innerHTML =
       //   "Ingresa tu número de cédula");
     
-    }
+  //   }
   
-    if ( opcionlocal=== undefined) {
-      opcionlocal = '';
+  //   if ( opcionlocal=== undefined) {
+  //     opcionlocal = '';
     
-  }
+  // }
   
-  if (opcionlocal==="%0A") {
-    opcionlocal = '';
+  // if (opcionlocal==="%0A") {
+  //   opcionlocal = '';
     
-  }
+  // }
   
-  }
+  // }
   
   
-  var reservad = document.getElementsByName('entry.1612018657');
+  // var reservad = document.getElementsByName('entry.1612018657');
       
       
-  for (var i = 0, length = reservad.length; i < length; i++) {
-    if (reservad[i].checked===true) {
+  // for (var i = 0, length = reservad.length; i < length; i++) {
+  //   if (reservad[i].checked===true) {
   
       
   
   
-      var opcionlocal = ("Opción de entrega"+"%0A"+reservad[i].value);
+  //     var opcionlocal = ("Opción de entrega"+"%0A"+reservad[i].value);
       // return  (document.getElementById("").innerHTML =
       //   "Ingresa tu número de cédula");
     
-    }
+  //   }
   
-    if ( opcionlocal=== undefined) {
-      opcionlocal = '';
+  //   if ( opcionlocal=== undefined) {
+  //     opcionlocal = '';
     
-  }
+  // }
   
-  if (opcionlocal==="%0A") {
-    opcionlocal = '';
+  // if (opcionlocal==="%0A") {
+  //   opcionlocal = '';
     
-  }
+  // }
   
-  }
-  
-  
+  // }
   
   
   
@@ -1252,7 +1061,9 @@ const pedido_store = {
   
   
   
-  var radios = document.getElementsByName('entry.696366128');
+  
+  
+  var radios = document.getElementsByName('entry.543630125');
   
   
   for (var i = 0, length = radios.length; i < length; i++) {
@@ -1278,73 +1089,73 @@ const pedido_store = {
   }
   }
   
-  var radios = document.getElementsByName('entry.1405646315');
+  // var radios = document.getElementsByName('entry.1405646315');
   
   
-  for (var i = 0, length = radios.length; i < length; i++) {
-    if (radios[i].checked) {
+  // for (var i = 0, length = radios.length; i < length; i++) {
+  //   if (radios[i].checked) {
    
-      var retornapagos ="*💳Forma de pago:* %20"+ (radios[i].value);
+  //     var retornapagos ="*💳Forma de pago:* %20"+ (radios[i].value);
   
-      var cambio="%0ACambio:%20"+ document.getElementById('entry.580204725').textContent;
+  //     var cambio="%0ACambio:%20"+ document.getElementById('entry.580204725').textContent;
   
-    }
+  //   }
   
-    if (retornapagos=== undefined) {
-      retornapagos = '';
+  //   if (retornapagos=== undefined) {
+  //     retornapagos = '';
       
   
-  }
+  // }
   
-  if (cambio=== undefined) {
-    cambio = '';
+  // if (cambio=== undefined) {
+  //   cambio = '';
     
   
-  }
+  // }
   
   
-  if (cambio=== "%0A") {
-    cambio = '';
+  // if (cambio=== "%0A") {
+  //   cambio = '';
     
   
-  }
+  // }
   
   
   
   
   
-  if (retornapagos=== "%0A") {
-    retornapagos = '';
+  // if (retornapagos=== "%0A") {
+  //   retornapagos = '';
     
   
-  }
-  }
+  // }
+  // }
   
-  var radios = document.getElementsByName('entry.1179942020');
+  // var radios = document.getElementsByName('entry.1179942020');
   
   
-  for (var i = 0, length = radios.length; i < length; i++) {
-    if (radios[i].checked) {
+  // for (var i = 0, length = radios.length; i < length; i++) {
+  //   if (radios[i].checked) {
    
-      var retornapagos ="*💳Forma de pago:* %20"+ (radios[i].value)+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+"%0A"+"*Haz una captura y envíanos por aquí* 👇";
+  //     var retornapagos ="*💳Forma de pago:* %20"+ (radios[i].value)+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+" MXN"+"%0A"+"*Haz una captura y envíanos por aquí* 👇";
    
   
-    }
+  //   }
   
-    if (retornapagos=== undefined) {
-      retornapagos = '';
+  //   if (retornapagos=== undefined) {
+  //     retornapagos = '';
       
   
-  }
+  // }
   
-  if (retornapagos=== "%0A") {
-    retornapagos = '';
+  // if (retornapagos=== "%0A") {
+  //   retornapagos = '';
     
   
-  }
-  }
+  // }
+  // }
   
-  var radios = document.getElementsByName('entry.2095367105');
+  var radios = document.getElementsByName('entry.1408752113');
   
   
   for (var i = 0, length = radios.length; i < length; i++) {
@@ -1401,125 +1212,122 @@ const pedido_store = {
         
   //     }
   
-      var fact = document.getElementsByName('entry.709227128');
+  //     var fact = document.getElementsByName('entry.709227128');
   
   
-      for (var i = 0, length = fact.length; i < length; i++) {
-        if (fact[i].checked) {
+  //     for (var i = 0, length = fact.length; i < length; i++) {
+  //       if (fact[i].checked) {
        
-          var mostrarfac = (fact[i].value+"%0A");
+  //         var mostrarfac = (fact[i].value+"%0A");
       
        
       
-        }
+  //       }
       
-        if (mostrarfac=== undefined) {
-          mostrarfac = '';
+  //       if (mostrarfac=== undefined) {
+  //         mostrarfac = '';
           
       
-      }
+  //     }
   
-      if (retornapagos=== "%0A") {
-        retornapagos = '';
+  //     if (retornapagos=== "%0A") {
+  //       retornapagos = '';
         
       
-      }
+  //     }
   
-      }
+  //     }
   
-      var fact = document.getElementsByName('entry.2016983664');
+  //     var fact = document.getElementsByName('entry.2016983664');
   
   
-      for (var i = 0, length = fact.length; i < length; i++) {
-        if (fact[i].checked) {
+  //     for (var i = 0, length = fact.length; i < length; i++) {
+  //       if (fact[i].checked) {
        
-          var mostrarfac = (fact[i].value+"%0A");
+  //         var mostrarfac = (fact[i].value+"%0A");
       
        
       
-        }
+  //       }
       
-        if (mostrarfac=== undefined) {
-          mostrarfac = '';
+  //       if (mostrarfac=== undefined) {
+  //         mostrarfac = '';
           
       
-      }
+  //     }
   
   
   
-      if (retornapagos=== "%0A") {
-        retornapagos = '';
+  //     if (retornapagos=== "%0A") {
+  //       retornapagos = '';
         
       
-      }
-      }
+  //     }
+  //     }
   
-      var fact = document.getElementsByName('entry.1758756268');
+  //     var fact = document.getElementsByName('entry.1758756268');
   
   
-      for (var i = 0, length = fact.length; i < length; i++) {
-        if (fact[i].checked) {
+  //     for (var i = 0, length = fact.length; i < length; i++) {
+  //       if (fact[i].checked) {
        
-          var mostrarfac = (fact[i].value+"%0A");
+  //         var mostrarfac = (fact[i].value+"%0A");
       
        
       
-        }
+  //       }
       
-        if (mostrarfac=== undefined) {
-          mostrarfac = '';
+  //       if (mostrarfac=== undefined) {
+  //         mostrarfac = '';
           
       
-      }
+  //     }
   
   
-      if (retornapagos=== "%0A") {
-        retornapagos = '';
+  //     if (retornapagos=== "%0A") {
+  //       retornapagos = '';
         
       
-      }
-      }
+  //     }
+  //     }
   
   
   
   
   
       
-  var mostrarcedula=document.getElementById('entry.2420597').value+"%0A";
+  // var mostrarcedula=document.getElementById('entry.2420597').value+"%0A";
   
   
-  
-  // var fanlink=document.getElementById('fantasmasend').textContent+"%0A"+"Realiza el pago y envíanos una captura del pago para activar tu licencia* 👇"+"%0A";
 
-  var fanlink=document.getElementById('fantasmasend').textContent+ "%20";
+    var fanlink=document.getElementById('fantasmasend').textContent+ "%20";
   
   
- 
   
   
-  var factm= document.getElementsByName('entry.2420597');
+  // var factm= document.getElementsByName('entry.2420597');
   
   
-  for (var i = 0, length = factm.length; i < length; i++) {
-    if (factm[i].checked) {
+  // for (var i = 0, length = factm.length; i < length; i++) {
+  //   if (factm[i].checked) {
    
-      var mostrarcedula = (factm[i].value+"%0A");
+  //     var mostrarcedula = (factm[i].value+"%0A");
   
    
   
-    }
+  //   }
   
-    if (mostrarcedula=== undefined) {
-      mostrarcedula = '';
+  //   if (mostrarcedula=== undefined) {
+  //     mostrarcedula = '';
       
   
-  }
-  if (retornapagos=== "%0A") {
-    retornapagos = '';
+  // }
+  // if (retornapagos=== "%0A") {
+  //   retornapagos = '';
     
   
-  }
-  }
+  // }
+  // }
   
     
   
@@ -1665,11 +1473,12 @@ const pedido_store = {
   
   
   
-  // var whatsapp_number ="&text=*Demo WhatsApp Ecommerce*" + "%0A"+"*WhatBulkSender - WhatsEcom - 2020*"+ "%0A"+"✅ *Pedido confirmado*"+"%0A"+"_Orden N°_"+"%20"+ "%20"+"---"+"%20"+orden+"%20"+"---"+ "%0A"+"_________________________" + "%0A"+"*Tu pedido es:*"+ "%0A"+mostrarpedidof+ "%0A"+"Subotal:"+"%20"+ `$${totalfp.toFixed(2)}`+ "%0A"+"Delivery:"+"%20"+"$"+(Number(delivery)).toFixed(2)+ "%0A" +"*Total:*"+ "%20"+ "$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+ "%0A"+"_________________________"+ "%0A"+'*🙂Datos del Cliente:*'+ "%0A"+mostrarfac+"%20"+mostrarcedula+nombre+email+whatsapp+"%20"+"_________________________" +"%0A"+"*📍Datos de entrega:*"+"%0A"+opcionlocal+"%0A" +"_________________________"  + "%0A"+ retornapagos+ "%0A"  +"*Subtotal:*"+ "%20"+"$"+ totalfp.toFixed(2)+"%0A"+"*Delivery:*"+"%20"+"$"+`${(Number(delivery)).toFixed(2) }`+"%0A"+"*Total:*"+ "%20"+"$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+"%0A"+"*Orden N°:*"+ "%20"+orden;
-    
+  // var whatsapp_number ="&text=*Demo WhatsApp Ecommerce*" + "%0A"+"*WhatBulkSender - WhatsEcom - 2020*"+ "%0A"+"✅ *Pedido confirmado*"+"%0A"+"_Orden N°_"+"%20"+ "%20"+"---"+"%20"+orden+"%20"+"---"+ "%0A"+"_________________________" + "%0A"+"*Tu pedido es:*"+ "%0A"+mostrarpedidof+ "%0A"+"Subotal:"+"%20"+ `${totalfp.toFixed(2)}`+" MXN"+ "%0A"+"Delivery:"+"%20"+"$"+(Number(delivery)).toFixed(2)+ "%0A" +"*Total:*"+ "%20"+ "$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+" MXN"+ "%0A"+"_________________________"+ "%0A"+'*🙂Datos del Cliente:*'+ "%0A"+mostrarfac+"%20"+mostrarcedula+nombre+email+whatsapp+"%20"+"_________________________" +"%0A"+"*📍Datos de entrega:*"+"%0A"+opcionlocal+"%0A" +"_________________________"  + "%0A"+ retornapagos+ "%0A"  +"*Subtotal:*"+ "%20"+"$"+ totalfp.toFixed(2)+"%0A"+"*Delivery:*"+"%20"+"$"+`${(Number(delivery)).toFixed(2) }`+"%0A"+"*Total:*"+ "%20"+"$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+" MXN"+"%0A"+"*Orden N°:*"+ "%20"+orden;
+  
+  var whatsapp_number ="&text=*Orden exitosa*" + "%0A"+"*WhatsBulkSender-2023*"+ "%0A"+"✅ *Detalle de la orden:*"+"%0A"+"_Orden N°_"+"%20"+ "%20"+"---"+"%20"+orden+"%20"+"---"+ "%0A"+"_________________________" + "%0A"+mostrarpedidof+ "%0A"+"*Total:*"+ "%20"+`${ Number(totalfp.toFixed(2)).toFixed(2)}`+ "%20"+ "MXN"+ "%0A"+"_________________________"+ "%0A"+'*🙂Datos del Cliente:*'+ "%0A"+nombre+email+whatsapp+"%20"+"_________________________" +"%0A"+ retornapagos+"%0A"+fanlink+"%20"+"%0A"+"*Total:*"+ "%20"+`${Number(totalfp.toFixed(2)).toFixed(2)}`+"%20"+"MXN"+"%0A"+"%0A"+"*Orden N°:*"+ "%20"+orden;
   
   
-  var whatsapp_number ="&text=*Orden exitosa*" + "%0A"+"*Bot-Masters-2023*"+ "%0A"+"✅ *Detalle de la orden:*"+"%0A"+"_Orden N°_"+"%20"+ "%20"+"---"+"%20"+orden+"%20"+"---"+ "%0A"+"_________________________" + "%0A"+mostrarpedidof+ "%0A"+"*Total:*"+ "%20"+ "$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+ "%0A"+"_________________________"+ "%0A"+'*🙂Datos del Cliente:*'+ "%0A"+mostrarfac+"%20"+mostrarcedula+nombre+email+whatsapp+"%20"+"_________________________" +"%0A"+ retornapagos+cambio+"%0A"+fanlink+ "%20"+"%0A"+"*Total:*"+ "%20"+"$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+"%0A"+"%0A"+"*Orden N°:*"+ "%20"+orden;
+ 
     
     
     
@@ -1700,11 +1509,11 @@ const pedido_store = {
     //     //   "Aún no haz selecionado prodcutos")
     //   }
     //  else{
-      window.open(document.getElementById("enviarwa").href = "https://api.whatsapp.com/send?phone=593988061519" + whatsapp_number);
+      window.open(document.getElementById("enviarwa").href = "https://api.whatsapp.com/send?phone=524431281549" + whatsapp_number);
     //  }
         
       
-    // window.open(fanlink)
+  
     
        
   
@@ -1713,10 +1522,9 @@ const pedido_store = {
   
      } else {
      
-       window.open(document.getElementById("enviarwa").href = "https://web.whatsapp.com/send?phone=593988061519" + whatsapp_number);
+       window.open(document.getElementById("enviarwa").href = "https://web.whatsapp.com/send?phone=524431281549" + whatsapp_number);
   
-    //   window.open(fanlink)
-  
+      
   
   
      }
@@ -1726,16 +1534,10 @@ const pedido_store = {
   
      
   }
-
-
-//   insertar img y el nombre del producto en el cariito de comparas
-
-
-
   
-  // $("#boton").on("click",function(event){
-  //   event.preventDefault();
-  // });
+//   $("#boton").on("click",function(event){
+//     event.preventDefault();
+//   });
   
   
   
@@ -1807,7 +1609,6 @@ const pedido_store = {
   $('.plus').on('click', function(){
     // $('#cardnegocioid').addClass('mostrarcart');
     $('.hul2').addClass('mostrarmenu3');
-  
   })
   
   var wer=document.querySelector('.separatescrol').textContent;
@@ -1851,13 +1652,9 @@ const pedido_store = {
     $('.hul2').removeClass('mostrarmenu3');
     $('#cardnegocioid').removeClass('chaoboton');
     $('#cardnegocioid').addClass('mostrarcart');
-    
   
     
   })
-
-
-  
   
   
   
@@ -1948,12 +1745,6 @@ const pedido_store = {
   //   $('#cardnegocioid').removeClass('chaoboton');
   
   // })
-
-//   $('#cerrardata2').on('click', function(){
-
-//     location.reload();
-    
-//   })
   
   function limpiarformas(){
   
@@ -1962,10 +1753,8 @@ const pedido_store = {
    
   
     document.getElementById("entry.1179942020").checked = false;
-    document.getElementById("entry.2095367105").checked = false;
+    document.getElementById("entry.1408752113").checked = false;
     var fdg=document.getElementById('entry.1280846489').value='';
-    var fantasmalink=document.getElementById('fantasmasend').textContent='';
-    
     
     document.getElementById('entry.580204725').textContent='';
    
@@ -1974,22 +1763,21 @@ const pedido_store = {
   
   function limpiarformase(){
   
-    document.getElementById("entry.696366128").checked = false;
+    document.getElementById("entry.543630125").checked = false;
     document.getElementById("entry.1179942020").checked = false;
-    document.getElementById("entry.2095367105").checked = false;
+    document.getElementById("entry.1408752113").checked = false;
    
   }
   
   function limpiarformaspl(){
   
     document.getElementById("entry.1405646315").checked = false;
-    document.getElementById("entry.696366128").checked = false;
-    document.getElementById("entry.2095367105").checked = false;
+    document.getElementById("entry.543630125").checked = false;
+    document.getElementById("entry.1408752113").checked = false;
   
     var fdg=document.getElementById('entry.1280846489').value='';
     
     document.getElementById('entry.580204725').textContent='';
-    document.getElementById('fantasmasend').textContent='';
    
   }
   
@@ -1997,7 +1785,7 @@ const pedido_store = {
   
     document.getElementById("entry.1405646315").checked = false;
     document.getElementById("entry.1179942020").checked = false;
-    document.getElementById("entry.696366128").checked = false;
+    document.getElementById("entry.543630125").checked = false;
     var fdg=document.getElementById('entry.1280846489').value='';
     
     document.getElementById('entry.580204725').textContent='';
@@ -2089,13 +1877,13 @@ const pedido_store = {
   
   
   
-    document.getElementById("entry.696366128").checked = false;
+    document.getElementById("entry.543630125").checked = false;
   
     document.getElementById("entry.1405646315").checked = false;
     
     document.getElementById("entry.1179942020").checked = false;
     
-    document.getElementById("entry.2095367105").checked = false;
+    document.getElementById("entry.1408752113").checked = false;
   
   
     limpiaringd();
@@ -2466,7 +2254,7 @@ const pedido_store = {
   var ws=document.getElementById('intro').textContent;
   
   
-  document.getElementById('entry.1450118414').innerHTML=ws;
+  document.getElementById('entry.2064993387').innerHTML=ws;
   
   
   $('.owl-carousel').owlCarousel({
@@ -2479,16 +2267,22 @@ const pedido_store = {
         0:{
             items:1
         },
-        600:{
-            items:2
-        },
-        1000:{
-            items:3
-        }
+        
     }
-  })
 
-  
+
+    // responsive:{
+    //     0:{
+    //         items:1
+    //     },
+    //     600:{
+    //         items:2
+    //     },
+    //     1000:{
+    //         items:3
+    //     }
+    // }
+  })
   
   
   
@@ -2538,27 +2332,26 @@ const pedido_store = {
   
   
   
-  var recaptcha_response1 = '';
-  function submitUserForm1() {
-      if(recaptcha_response1.length == 0) {
-          document.getElementById('g-recaptcha-error1').innerHTML = '<span style="color:red;">This field is required.</span>';
-          return false;
+//   var recaptcha_response1 = '';
+//   function submitUserForm1() {
+//       if(recaptcha_response1.length == 0) {
+//           document.getElementById('g-recaptcha-error1').innerHTML = '<span style="color:red;">This field is required.</span>';
+//           return false;
   
   
           
-      }
-          $('#gform2 *').fadeOut(2000);
-      $('#gform2').prepend('<div class="cerrardata2"> <div><span class="icon-flecha-izq"></span></div></div> <br><p class="pgracias">¡Gracias! Tu pedido ha sido enviado con éxito, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones para realizar el pago. 🙂</p>');
+//       }
+//           $('#gform2 *').fadeOut(2000);
+//       $('#gform2').prepend('<p class="pgracias">¡Gracias! Tu formulario ha sido enviado con éxito, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones🙂</p>');
     
-      $('.cerrardata2').click(function() {
-        location.reload();
+  
       
-      });
-
-      goToPagep();
-    //   location.reload(); no permite enviar a google forms
+    
+//       goToPagep();
+//       location.reload();
    
-  }
+//   }
+  
   
   
   
@@ -2570,23 +2363,45 @@ const pedido_store = {
   }
   
   
-     
+var recaptcha_response1 = '';
+function submitUserForm1() {
+    if(recaptcha_response1.length == 0) {
+        document.getElementById('g-recaptcha-error1').innerHTML = '<span style="color:red;">This field is required.</span>';
+        return false;
+
+
+        
+    }
+        $('#gform2 *').fadeOut(2000);
+    $('#gform2').prepend('<div class="cerrardata2"> <div><span class="icon-flecha-izq"></span></div></div> <br><p class="pgracias">¡Gracias! Tu pedido ha sido enviado con éxito, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones para realizar el pago. 🙂</p>');
+  
+    $('.cerrardata2').click(function() {
+      location.reload();
+    
+    });
+
+    goToPagep();
+  //   location.reload(); no permite enviar a google forms
+ 
+}
+
+
           
   
   // date = new Date();
   // year = date.getFullYear();
-  // month = date.getMonth() +2;
-  // day = date.getDate()+ 2;
+  // month = date.getMonth() +1;
+  // day = date.getDate()+ 1;
   // document.getElementById("current_date").innerHTML =  day  + "/" + month + "/" + year;
   
-  // document.getElementById("current_date2").innerHTML =  day  + "/" + month + "/" + year;
-  // // chat
   
-  // $('#cerrarchat2').on('click', function(){
+  // chat
   
-  //   $('.cardmenu').css('left', '-100%');
-  //   document.getElementById("whaterror").style="display: none";
-  // })
+  $('#cerrarchat2').on('click', function(){
+  
+    $('.cardmenu').css('left', '-100%');
+    document.getElementById("whaterror").style="display: none";
+  })
   
   
     
@@ -2604,7 +2419,7 @@ const pedido_store = {
   $('#cerrarchat2').on('click', function(){
     $('#cardmenu').toggleClass('mostrarcardmenu');
     document.getElementById('edad').value = '';
-    $('.cardmenu').css('left', '-100%');
+    // $('.cardmenu').css('left', '-100%');
   })
   
   
@@ -2641,12 +2456,12 @@ const pedido_store = {
     var md = new MobileDetect(window.navigator.userAgent);
        if (md.mobile()) {
   
-        window.open(document.getElementById("enviarwa2").href = "https://api.whatsapp.com/send?phone=593988061519" + myWindow);
+        window.open(document.getElementById("enviarwa2").href = "https://api.whatsapp.com/send?phone=593998091730" + myWindow);
         
        
           } else {
        
-        window.open(document.getElementById("enviarwa2").href = "https://web.whatsapp.com/send?phone=593988061519" + myWindow);
+        window.open(document.getElementById("enviarwa2").href = "https://web.whatsapp.com/send?phone=593998091730" + myWindow);
    
        
        
@@ -2701,21 +2516,20 @@ const pedido_store = {
     //   "Selecciona una hora")
     // }
   
-  //   var myWindow = window.open ("https://api.whatsapp.com/send?phone=593988061519&text="+"Capacitación y Prueba de" + "%20" + "*WhatsBulkSender™*" + "%0A"+"✅ _Registro confirmado_" + "%0A"+"_________________________" + "%0A"+"%0A"+ "*Nombre*" +"%0A" + nombre + "%20" +"%0A"+"%0A" +"*Nombre del Negocio*" +"%0A" + nombrenegocio +  "%20" + "%0A"+"%0A"+"*Tipo de Negocio*"+"%0A" + tipodenegocio + "%20" +"%0A"+ "%0A"+ "_________________________" + "%0A" + "%0A"+"*P.D.*"+ "%20"+ "Guarda nuestro contacto como *WhatsBulkSender* para recibir actualizaciones y soporte 😉👍");
+  //   var myWindow = window.open ("https://api.whatsapp.com/send?phone=593996517199&text="+"Capacitación y Prueba de" + "%20" + "*WhatsBulkSender™*" + "%0A"+"✅ _Registro confirmado_" + "%0A"+"_________________________" + "%0A"+"%0A"+ "*Nombre*" +"%0A" + nombre + "%20" +"%0A"+"%0A" +"*Nombre del Negocio*" +"%0A" + nombrenegocio +  "%20" + "%0A"+"%0A"+"*Tipo de Negocio*"+"%0A" + tipodenegocio + "%20" +"%0A"+ "%0A"+ "_________________________" + "%0A" + "%0A"+"*P.D.*"+ "%20"+ "Guarda nuestro contacto como *WhatsBulkSender* para recibir actualizaciones y soporte 😉👍");
   
   
-  //  window.location = "https://api.whatsapp.com/send?phone=593988061519&text="+ "*Hola me llamo:*" + "%0A" + nombre + "%20" +"%0A" + nombrenegocio +  "%20" + "%0A" + tipodenegocio + "%20" + "%0A";
+  //  window.location = "https://api.whatsapp.com/send?phone=593996517199&text="+ "*Hola me llamo:*" + "%0A" + nombre + "%20" +"%0A" + nombrenegocio +  "%20" + "%0A" + tipodenegocio + "%20" + "%0A";
   
   
-  $(".ordernumber2").val(function(){
-    return document.getElementById('intro').innerHTML=Math.floor(Math.random() * 999) + 1000
-  
-  })
-
-  var orden = document.querySelector('.ordernumber2').value; 
   
   
-  var whatsapp_number ="&text=*BotMaster™*" + "%0A"+"✅ _Solicitud Aprobada Prueba N°:_"+ "%20"+orden + "%0A"+"_________________________" + "%0A"+"%0A"+ "*😃 Nombre:*" +"%0A" + nombre + "%20" +"%0A"+"%0A" +"*📩 Correo electrónico:*" +"%0A" + nombrenegocio +  "%20" + "%0A"+"%0A"+"*⚡ Tipo de Licencia:*"+"%0A" + tipodenegocio + "%20" + "%0A"+"_________________________" + "%0A"+"%0A"+"Felicitaciones"+ "%20"+ nombre+ "%20"+"un especialista se contactará de inmediato para realizar la prueba."+ "%0A"+ "%0A"+"*P.D.*"+ "%20"+ "Guarda nuestro contacto como *BotMaster* para recibir toda la información😉👍";
+  
+  var whatsapp_number ="&text=*WhatsBulkSender™*" + "%0A"+"✅ _Registro con éxito_" + "%0A"+"_________________________" + "%0A"+"%0A"+ "*😃 Nombre:*" +"%0A" + nombre + "%20" +"%0A"+"%0A" +"*💼 Nombre del Negocio:*" +"%0A" + nombrenegocio +  "%20" + "%0A"+"%0A"+"*🛒 Tipo de Negocio:*"+"%0A" + tipodenegocio + "%20" + "%0A"+"_________________________" + "%0A"+"%0A"+"*P.D.*"+ "%20"+ "Guarda nuestro contacto como *WhatsBulkSender* para recibir toda la información😉👍";
+  
+  
+  
+  
   
   
    var md = new MobileDetect(window.navigator.userAgent);
@@ -2744,7 +2558,7 @@ const pedido_store = {
   //     //   "Aún no haz selecionado prodcutos")
   //   }
   //  else{
-    window.open(document.getElementById("enviarwat").href = "https://api.whatsapp.com/send?phone=593988061519" + whatsapp_number);
+    window.open(document.getElementById("enviarwat").href = "https://api.whatsapp.com/send?phone=593996517199" + whatsapp_number);
   //  }
       
     
@@ -2757,7 +2571,7 @@ const pedido_store = {
   
    } else {
    
-     window.open(document.getElementById("enviarwa").href = "https://web.whatsapp.com/send?phone=593988061519" + whatsapp_number);
+     window.open(document.getElementById("enviarwat").href = "https://web.whatsapp.com/send?phone=593996517199" + whatsapp_number);
   
     
   
@@ -3063,7 +2877,7 @@ const pedido_store = {
       
       function getOfertaTop(country) {
           var nomPais=""; 
-          var numero = getRandomArbitrary(47, 97);
+          var numero = getRandomArbitrary(15, 30);
           
           for (i = 0; i < paises.length; i++) {
               if (paises[i].codPais === country) {
@@ -3071,41 +2885,12 @@ const pedido_store = {
               }
           }	
         
-       return numero+" "+"Emprendedores y Dueños de Negocio"+" "  + "de" +" "+ nomPais + "";
+          return numero+" "+"Emprendedores y Dueños de Negocio"+" "  + "de" +" "+ nomPais + "";
       } 
     
      fetch("https://ipinfo.io/json")
       .then((response) => response.json())
-      .then((data) => (ofertaBarraTop.innerHTML =  getOfertaTop(data.country)));  
-      
-
-    
-      
-    //   oferta 2 emprendedor pro
-
-    var ofertaBarraTop2 = document.querySelector("#ofertaBarraTop2");
-    // ofertaBarraTop.setAttribute('style','color:#ffffff; font-size: 18px; text-align:center; line-height: 100%;');
-  
-    function getRandomArbitrary(min, max) {
-        return Math.trunc(Math.random() * (max - min) + min);
-    }
-    
-    function getOfertaTop2(country) {
-        var nomPais=""; 
-        var numero2 = getRandomArbitrary(11, 39);
-        
-        for (i = 0; i < paises.length; i++) {
-            if (paises[i].codPais === country) {
-                nomPais =''+ '' + paises[i].nombrePais || '';
-            }
-        }	
-      
-     return numero2+" "+"Resellers y Socios"+" "  + "de" +" "+ nomPais + "";
-    } 
-  
-   fetch("https://ipinfo.io/json")
-    .then((response) => response.json())
-    .then((data) => (ofertaBarraTop2.innerHTML =  getOfertaTop2(data.country)));   
+      .then((data) => (ofertaBarraTop.innerHTML =  getOfertaTop(data.country)));   	
   
   
   // codigo para datos dinamicos ejm cupos dinamicos
@@ -3204,163 +2989,22 @@ const pedido_store = {
   //     .then((response) => response.json())
   //     .then((data) => (precioImg.innerHTML =  getCountry(data.country)));
         
-  $('#containers2a').insertBefore('#menu-container-C1');
-  $('#masvendidos1').insertBefore('#menu-container-C1');
   
-  $('#containers2b').insertBefore('#menu-container-C2');
-  $('#masvendidos').insertBefore('#menu-container-C2');
+ 
+
+    
+$('.form2').on('submit',function(e){
+    $('.form2 *').fadeOut(2000);
+    $('.form2').prepend('<div class="cerrardata2"> <div><span class="icon-flecha-izq"></span></div></div> <br>  <p class="pgracias2">¡Gracias! hemos recibido tu orden para procesarla, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones🙂</p>')
+    $('.cerrardata2').click(function() {
+location.reload();
+});
+});
+
+$('#gform3').on('submit',function(e){
+    $('#gform3 *').fadeOut(2000);
+    $('#gform3').prepend('<p class="pgracias">¡Gracias! Tu formulario ha sido enviado con éxito, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones🙂</p>')
 
 
-  $('#containers3a').insertBefore('#menu-container-C3');
-  $('#masvendidos3a').insertBefore('#menu-container-C3');
+}); 
   
-  $('#containers3b').insertBefore('#menu-container-C4');
-  $('#masvendidos3b').insertBefore('#menu-container-C4');
-  
-
-    $("#owlsocial").owlCarousel({
-         navigation : true, // Show next and prev buttons
-         slideSpeed : 300,
-         paginationSpeed : 400,
-         singleItem:true,
-         // Navigation
-         navigationText : ["<",">"],
-         rewindNav : true,
-         scrollPerPage : true,
-         //Pagination
-         pagination : true,
-         paginationNumbers: false,
-         responsive:{
-          0:{
-              items:1
-          },
-          600:{
-              items:2
-          }
-          
-      }
-     });
-
-
-    //  code counter
-
-    const getRemainingTime = deadline => {
-      let now = new Date(),
-          remainTime = (new Date(deadline) - now + 1000) / 1000,
-          remainSeconds = ('0' + Math.floor(remainTime % 60)).slice(-2),
-          remainMinutes = ('0' + Math.floor(remainTime / 60 % 60)).slice(-2),
-          remainHours = ('0' + Math.floor(remainTime / 3600 % 24)).slice(-2),
-          remainDays = Math.floor(remainTime / (3600 * 24));
-    
-      return {
-        remainSeconds,
-        remainMinutes,
-        remainHours,
-        remainDays,
-        remainTime
-      }
-    };
-    
-    const countdown = (deadline,elem,finalMessage) => {
-      const el = document.getElementById(elem);
-    
-      const timerUpdate = setInterval( () => {
-        let t = getRemainingTime(deadline);
-        el.innerHTML = ` 
-        
-        <span class="titucount">Esta oferta termina en:</span>
-        <a class="countf">
-
-        <p class="pcount">  <span> ${t.remainDays}</span> Días</p>
-        <p class="pcount">  <span> ${t.remainHours}</span> Horas</p>
-        <p class="pcount">  <span> ${t.remainMinutes}</span> Mins.</p>
-        <p class="pcount">  <span> ${t.remainSeconds}</span> Seg.</p>
-
-      
-        
-    </a>`;
-    
-        if(t.remainTime <= 1) {
-          clearInterval(timerUpdate);
-          el.innerHTML = finalMessage;
-        }
-    
-      }, 1000)
-    };
-    
-    countdown('Nov 30 2022 23:59:59 GMT-0500', 'clock', '¡La Oferta ha expirado, contáctate con soporte!');
-
-
-
-    //contenedor más info por producto.
-    const preguntas = document.querySelectorAll('.contenedor-pregunta');
-    preguntas.forEach((pregunta) => {
-        pregunta.addEventListener('click', (e) => {
-            e.currentTarget.classList.toggle('activa');
-
-         
-            const respuesta = pregunta.querySelector('.features');
-            const alturaRealRespuesta = respuesta.scrollHeight;
-        
-    
-            if(!respuesta.style.maxHeight){
-                // Si esta vacio el maxHeight entonces ponemos un valor.
-                respuesta.style.maxHeight = alturaRealRespuesta + 'px';
-               
-             
-                // $('#masvendidos3b').insertBefore('#menu-container-C4');
-              
-            } else {
-                respuesta.style.maxHeight = null;
-            }
-
-            // [Opcional] Reiniciamos las demas preguntas
-            preguntas.forEach((elemento) => {
-                // Solamente queremos ejecutar el codigo para las preguntas que no 
-                // sean la pregunta a la que le dimos click.
-                if(pregunta !== elemento){
-                    elemento.classList.remove('activa');
-                    elemento.querySelector('.features').style.maxHeight = null;
-                }
-            });
-     
-        });
-    });
-
-    // wistia seo
-
-    
-  ( function() {
-
-    var wistia = document.querySelectorAll( ".wistia" );
-    
-    for (var i = 0; i < wistia.length; i++) {
-    
-    var source = "https://embed-ssl.wistia.com/deliveries/"+ wistia[i].dataset.thumb +".webp";
-    
-    var image = new Image();
-    image.src = source;
-    image.addEventListener( "load", function() {
-    wistia[ i ].appendChild( image );
-    }( i ) );
-    
-    wistia[i].addEventListener( "click", function() {
-    
-    var iframe = document.createElement( "iframe" );
-    
-        iframe.setAttribute( "frameborder", "0" );
-        iframe.setAttribute( "allowfullscreen", "" );
-        iframe.setAttribute( "mozallowfullscreen", "" );
-        iframe.setAttribute( "webkitallowfullscreen", "" );
-        iframe.setAttribute( "oallowfullscreen", "" );
-        iframe.setAttribute( "msallowfullscreen", "" );
-        iframe.setAttribute( "src", "//fast.wistia.net/embed/iframe/"+ this.dataset.embed +"?videoFoam=true" );
-    
-        this.innerHTML = "";
-        this.appendChild( iframe );
-    } );    
-    };
-    
-    } )();
-
-   
