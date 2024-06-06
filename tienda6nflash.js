@@ -1,1 +1,3592 @@
-var _$_c25f=["shift","push","#exit","top","scroll","on","rowf","visible","close","remove",".exit-intent-popup","querySelector","className","target","click","Licencia Emprendedor","img24/botmaster-whitelabel.webp","https://payp.page.link/BWnF","","img3/1-licencia-anual.webp","img3/1-licencia-lifetime.webp","https://payp.page.link/ErS9","Reseller BotMasters","https://payp.page.link/ELh7","Reseller con tu Marca Propia","myFirstDialog","getElementById","forEach","categories","entries","innerHTML","qty","log","-","items","-qty","</p>\x0A          <p class=\"item-price fanlink\" id=\"linkpago\">","linkpago","-m\" class=\"minus\" ></button>\x0A              <input class=\"quantity item_cantidad \" type=\"number\" name=\"\" min=\"0\" value=","-p\" class=\"plus\"></button>\x0A            </div>    \x0A            </div>                     \x0A          </div>\x0A          </div>\x0A        </div>\x0A      </div>","section","createElement","id","menu-container-","a",">","owl-carousel","appendChild","slides-container","-m","-p",".comprarButton","addEventListener","fantasmaimgnamef",".pedidocli","<div class=\" shoppingCartItem\">\x0A        <span>\x0A            <div class=\"shopping-cart-item\" >\x0A                <img class=\"imgpedido\" src=","-p-s\" class=\"plus\"></button>\x0A        </div>\x0A        <span class=\"xcerrar\">\x0A          <p class=\"item-total mb-0 shoppingCartItemTotal itemtotal\" >$","name","%20","$","*total:*","\x0A"," ","x","|","-p-s","-c",".unowhat",".shoppingCartTotal2","toFixed","change","value","keyup","textContent","totalwa3","replace",".shoppingCartTotaldelivery","entry.802449909",".shoppingCartcambio","checked","display","random",".ordernumber","length","%0A","getElementsByName","entry.1632691641","entry.1067299390","Opci\xF3n de entrega","\ud83d\udcb3*Forma de pago:* %20","entry.1179942020","*Haz una captura y env\xEDanos por aqu\xED* \ud83d\udc47","entry.2016983664","test","Ingresa tu mejor correo electr\xF3nico \ud83d\ude05","href","enviarwa","addClass",".datos1",".datos3","show btnpagos","removeClass",".datos2",".datos4","is","input",".input-group","closest",".btn-plus, .btn-minus","stepUp","chaoboton","mostrarmenu2",".hul2","querySelectorAll",".item_cantidadg",".container-img",".img-show","alt","classList","show","src","move","entry.2095367105",".feepaypal","entry.696366128",".comicpay","style","entry.1405646315","entry.1758756268","entry.2420597","entry.709227128","entry.1441018699","entry.686290451","0","entry.398428276","entry.1164560529","entry.1612018657","entry.803987817","entry.2092178738","entry.1280846489","showinputcedula",".faccedula",".clientefac",".diahora","showpocion","verdiahora","quitarformasdepago","showcanvas",".mapalocor",".mapcanvas",".mapalocor2","LatLng","div","borderColor","5px","200px","marginTop","pointer","center","Click to center map on your location","13px","color","paddingLeft","8px","Pulsa aqu\xED para seleccionar tu ubicaci\xF3n","geolocation","coords","#latitude","(",")","maps","OK","geocode","Animation","Marker",".owl-carousel","<div class=\"cerrardata2\"> <div><span class=\"icon-flecha-izq\"></span></div></div> <br><p class=\"pgracias\">\xA1Gracias! Tu pedido ha sido enviado con \xE9xito, <strong>espera unos segundos,</strong> enseguida recibir\xE1s un WhatsApp con las instruciones para realizar el pago. \ud83d\ude42</p>","#cardmenu",".cardnegocio2","mostrarcardmenu",".unowhat2"," color: #25d366; position: relative; padding: 15px;  margin: 0 26px 20px; border-radius: 15px; background-color: #fff; color: #4a4a4a; box-shadow: 0 1px 2px 0 rgb(0 0 0 / 30%); transition: 0.5s ease-in-out;","edad","enviarwa2","css","#menu-container-B0",".cerrardata2","Uzbekist\xE1n","entry.516082604","_________________________","</p>\x0A  \x0A          <button class=\"btn btn-danger buttonDelete\" type=\"button\" id=\"","remainDays","onclick","#gform2 *","setCenter","Islas Ultramarinas Menores de Estados Unidos","removeEventListener",".direcreg",".deliveryope","Reseller PRO BotMaster Anual","*\ud83d\ude03 Nombre:*","entry.2030044025","entry.751884520",".continuar,.but34","1000","3622773yTzfHI","---","entry.580204725","#nav","Georgia","Niger","Tokelau","Puerto Rico","Macao","entry.1156212193","</h4>\x0A          <h3 class=\"item-title\" id=\"\">","menu-sections","img24/botmaster-whatsapp-software.webp","Egipto","Cuba","</p>\x0A        </span>\x0A        <div class=\"item_cantidadt\">\x0A          <button id=\"","Camer\xFAn",".bx.bx-x","Alemania","val","fontFamily","Gab\xF3n","L\xEDbano","#gform2","#menu-container-C0","Madagascar","Vanuatu","Curazao","Santa Elena","Estados Unidos","Tuvalu","whaterror","Rusia","&text=*BotMaster\u2122*","event","Guatemala","#container2aa","Gibraltar","Kenia","Camboya","Togo","San Marino","Isla Norfolk","Sri lanka","<h4>","Licencia Anual","Serbia","left","Namibia","3092420qdnLtU","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i>1 Licencia Semestral</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Env\xEDa Im\xE1genes y Videos con Descripci\xF3n</li>  <li> <li> <li> <span class=\"masc\">Soporte </span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n con videos tutoriales</span></li></ul></div></div>","Guyana","Jersey","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i>1 Licencia LifeTime personal</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Env\xEDa Im\xE1genes y Videos con Descripci\xF3n</li>  <li> <li> <li> <span class=\"masc\">Soporte </span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n con videos tutoriales</span></li><li></i>\u2705Extractor de contactos.</li><li><li></i>\u2705Filtro de N\xFAmeros de WhatsApp</li><li><li></i>\u2705Auto-Replys</li><li><li></i>\u2705Actualizaciones</li><li><li></i>\u2705Auditor de Cuentas WA</li></ul></div></div>",".modalv","<div class=\"section-item\"><a href=\"#","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i>1 Licencia personal 12 meses</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Env\xEDa Im\xE1genes y Videos con Descripci\xF3n</li>  <li> <li> <li> <span class=\"masc\">Soporte </span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n con videos tutoriales</span></li><li></i>\u2705Extractor de contactos.</li><li><li></i>\u2705Filtro de N\xFAmeros de WhatsApp</li><li><li></i>\u2705Auto-Replys</li><li><li></i>\u2705Actualizaciones</li><li><li></i>\u2705Auditor de Cuentas WA</li></ul></div></div>","fadeIn","3761296GlQQHf",".fantasma","https://payp.page.link/jh4y","Senegal",".eti1","\xBFComo podemos ayudarte? \ud83d\ude3d\ud83d\udc47",".item-title",".separatescrol","Chad","maxHeight","Zambia","entry.404593967","Resellers y Socios","</h4>","Islas V\xEDrgenes de los Estados Unidos","//fast.wistia.net/embed/iframe/","getCurrentPosition","Islas Feroe","cursor","msinproductos","Geocoder","frameborder","Bolivia","https://maps.google.com/?q=","Andorra","stepDown","Guinea Ecuatorial","slice","Eslovenia","Reseller PRO + Ecommerce","\u2705 _Solicitud Aprobada Prueba N\xB0:_","Indonesia","longitude","</span> Seg.</p>\x0A\x0A      \x0A        \x0A    </a>","Reino Unido","Israel",".address","Multilicencia PRO Business","nombrePais","Malasia","Sint Maarten","Laos","https://payp.page.link/bqKp","Guinea","toggleClass","zIndex","mozallowfullscreen",".consumidorsinfac","<div class=\"contenedor-preguntas\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver detalles <span class=\"icon-negocio\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">  Pack 10 licencias unipersonales y 10 multilicencias</span></li><li><i></i>Demos ilimitadas</li><li><i class=\"fas fa-stop-circle\"></i>Comisiones 100%</li></ul></div></div>","*Orden N\xB0:*","https://payp.page.link/yYcb","Nueva Zelanda","#menu-container-C4","Jamaica","Felicitaciones","<p class=\"pcategory\" id=","</p>\x0A\x0A       \x0A      \x0A      </span>\x0A      </div>\x0A\x0A     \x0A      \x0A  \x0A      \x0A      ","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i>1 Licencia personal Mes</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Env\xEDa Im\xE1genes y Videos con Descripci\xF3n</li>  <li> <li> <li> <span class=\"masc\">Soporte </span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n con videos tutoriales</span></li></ul></div></div>",".datosfacturacion","#containers3a","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i>1 Pack 10 licencias</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Env\xEDa Im\xE1genes y Videos con Descripci\xF3n</li>  <li> <li> <li> <span class=\"masc\">Soporte </span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n con videos tutoriales</span></li><li></i>\u2705Extractor de contactos.</li><li><li></i>\u2705Filtro de N\xFAmeros de WhatsApp</li><li><li></i>\u2705Auto-Replys</li><li><li></i>\u2705Actualizaciones</li><li><li></i>\u2705Auditor de Cuentas WA</li></ul></div></div>","fontSize",".webp","Mongolia","entry.150273747","Finlandia",".row-centered","white","map-canvas","Uruguay","Tailandia","un especialista se contactar\xE1 de inmediato para realizar la prueba.","Geocoder failed due to ","Corea del Norte","#ofertaBarraTop2","Uganda","-qty\">\x0A          <button id=\"","Liechtenstein","Licencia Semestral","Tu direcci\xF3n de entrega es: ",".plus","Aruba","Isla Bouvet","Swazilandia","Rep\xFAblica del Congo","\u2705 *Detalle de la orden:*","Noruega","&text=*Orden exitosa*","clock","TOP_CENTER","*Total:*","Licencia 2 a\xF1os","Sierra Leona","Martinica","keydown","thumb","allowfullscreen","Clientes",">\x0A      <h6 class=\"titulesend\" id=\"\">","parseFloat","Multilicencia PRO Business Anual","102081qUSMZS","load","Gambia","#containers2b","</h6>\x0A  </div>","https://api.whatsapp.com/send?phone=593985590259",".wistia","Francia","Pap\xFAa Nueva Guinea","Brun\xE9i","entry.1450118414","Islas de \xC5land","Emprendedores y Due\xF1os de Negocio","Libia","Emiratos \xC1rabes Unidos","Zimbabue","userAgent","Nigeria","Paraguay","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i>1 Licencia 2 a\xF1os</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Env\xEDa Im\xE1genes y Videos con Descripci\xF3n</li>  <li> <li> <li> <span class=\"masc\">Soporte </span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n con videos tutoriales</span></li></ul></div></div>","Santa Luc\xEDa","Antigua y Barbuda","$0,00","Mali","Marruecos","#ofertaBarraTop0","Bosnia y Herzegovina","mostrarmenu3","Nicaragua","https://payp.page.link/HxXK","China","Irak","*\ud83d\udce9 Correo electr\xF3nico:*","item-menu","Moldavia","Un solo pago | LifeTime","18TSJScQ","fantasma","Eslovaquia","Bulgaria","solid",".psinproductos","#cerrarchat2","Polonia","&text=","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i>1 Licencia Anual</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Env\xEDa Im\xE1genes y Videos con Descripci\xF3n</li>  <li> <li> <li> <span class=\"masc\">Soporte </span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n con videos tutoriales</span></li></ul></div></div>","#ofertaBarraTop","controls","San Crist\xF3bal y Nieves",".shoppingCartTotal","San Bartolom\xE9",".googlemaps","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i> Multilicencia LIfetime</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n y Exportaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Im\xE0gens y Videos con Descripci\xF2n</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class=\"masc\">Soporte 24/7</span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n en Marketing Masivo</span></li><li></i>\u2705Genera Informes de Env\xEDos Masivos.</li><li><li></i>\u2705Filtro de N\xFAmeros de WhatsApp</li><li><li></i>\u2705Env\xEDos Masivos a Grupos</li><li><li></i>\u2705ChatBot Autorespuestas Funnels</li><li><li></i>\u2705Contestar desde la App</li><li><li></i>\u2705Transferir a otro Dispositivo</li><li><li></i>\u2705Auditor de Cuentas WA</li></ul></div></div>","<div class=\"contenedor-preguntas\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver detalles <span class=\"icon-negocio\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Licencias Ilimitadas</span></li><li><i></i>Demos ilimitadas</li><li><i class=\"fas fa-stop-circle\"></i>Comisiones 100%</li><li><i></i>Capacitaci\xF3n Personalizada</li><li><i></i>Software con tu propia marca, colores, logotipos, n\xFAmero de contacto, artes digitales, links RRSS.</li><li><i></i>Plataforma Ecommerce + Dominio .COM</li></ul></div></div>",".shoppingCartItemsContainer","https://payp.page.link/24CP",".copy",".ordernumber2","insertBefore","Malta","https://payp.page.link/81YK","*P.D.*","*\ud83d\udcb3Forma de pago:* %20","10px","#gform3",".features","currentTarget","No address could be retrieved.","Espa\xF1a","</span> Horas</p>\x0A        <p class=\"pcount\">  <span> ","Kazajist\xE1n","Suiza","18kBdRLQ","borderRadius","</a></div>","<div class=\"imgsend\" >\x0A      <img class=\"imgsendf\" src=","img24/botmaster-id.webp","formatted_address","Kiribati","San Pedro y Miquel\xF3n","Bahrein","img3/ecommerce.webp","Eritrea","-m-s\" class=\"minus\" ></button>\x0A          <input class=\"quantity item_cantidad \" type=\"number\" name=\"\" min=\"0\" value=","img24/whatsbotmaster.webp","<span style=\"color:red;\">This field is required.</span>","Somalia",".cardmenu","Sud\xE1frica","Lesoto","#masvendidos","fantasmasend","#masvendidos3b","#cedulafac","Rep\xFAblica Centroafricana","  id=\"","Islas Georgias del Sur y Sandwich del Sur","codPais","</span> D\xEDas</p>\x0A        <p class=\"pcount\">  <span> ","scrollTop","backgroundColor","img3/franquiciado-1-a\xF1o.webp","Canad\xE1",".deliverysub","mouseout","#masvendidos0","Per\xFA",".contenedor-pregunta","Polinesia Francesa","Albania","Singapur",".eti3","</h6>\x0A            </div>\x0A        </span>\x0A        <span>\x0A        <p class=\"item-price mb-0 shoppingCartItemPrice itempricewa\" >$","g-recaptcha-error2","Guam","Sud\xE1n","Om\xE1n","Llena el campo con tus nombres completos \ud83d\ude05","activa","owlCarousel","Hungr\xEDa","Chipre","then","</p>\x0A\x0A         \x0A            \x0A            <div class=\"item_cantidadg\">\x0A            <div class=\"item_cantidadt\">\x0A              <button id=\"","#masvendidos1","Angola","Yibuti","setAttribute","trunc","Honduras","Anguila","height 0",".seguirc,.cerrardata","<p class=\"pgracias\">\xA1Gracias! Tu formulario ha sido enviado con \xE9xito, <strong>espera unos segundos,</strong> enseguida recibir\xE1s un WhatsApp con las instruciones\ud83d\ude42</p>","Austria","textAlign",".formasdepagos","Fiyi","Licencia B\xE1sica Anual","getAttribute","user_data","<div class=\"contenedor-preguntas\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver detalles <span class=\"icon-negocio\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\"> Licencias ilimitadas</span></li><li><i></i>Demos ilimitadas</li><li><i class=\"fas fa-stop-circle\"></i>Comisiones 100%</li><li><i></i>Capacitaci\xF3n Personalizada</li><li><i></i>Software con tu propia marca, colores, logotipos, n\xFAmero de contacto, artes digitales, links RRSS.</li></ul></div></div>","Arial,sans-serif","mobile","Jordania","Belice","Islas Pitcairn","Afganist\xE1n","https://payp.page.link/a8L6","https://ipinfo.io/json","Bangladesh","#owlsocial","Yemen","#containers3b","Bielorrusia","msallowfullscreen","oncontextmenu","img3/multilicencia-lifetime.webp","A\xFAn no seleccionas productos \ud83d\ude05","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i>1 Licencia Trimestral</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Env\xEDa Im\xE1genes y Videos con Descripci\xF3n</li>  <li> <li> <li> <span class=\"masc\">Soporte </span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n con videos tutoriales</span></li></ul></div></div>","Samoa","add","Islas Turcas y Caicos","width","intro","borderWidth",".deliveryoperr","DROP","#menu-container-C2",".eti2","Azerbaiy\xE1n","#containers2a","Guernsey","childElementCount","Kirguist\xE1n","Panam\xE1","B\xE9lgica","img3/marca-blanca.webp","img3/multilicencia-anual.webp","remainHours","img3/multilicencia-1-mes.webp","Brasil","\">\x0A          </div>\x0A          <div class=\"containerpro\">\x0A          <h4 class=\"item-price\"><del>$","Rep\xFAblica Democr\xE1tica del Congo","Burundi","Islas Marianas del Norte","40px","*Bot-Masters-2023*","Nueva Caledonia","fadeOut",".eti4","</del></h4>\x0A          <h4 class=\"item-price\">$","reload","Ben\xEDn","entry.985986529","Portugal","#25d366","Samoa Americana","</h3>\x0A          <div class=\"item-details\">\x0A          <p class=\"item-price\">","Malawi","row-centered2","Licencia Lifetime","json","Vietnam","paddingRight","<div class=\"item-card\">\x0A  \x0A        <div class=\"item shadow mb-4\">\x0A          \x0A          <div class=\"modal-container\">\x0A     \x0A           <img class=\"item-image\" src=\"","_Orden N\xB0_",".datafac","Guadalupe","Surin\xE1m","</p>","height","Maced\xF4nia","toggle","ready","Colombia","cart_amt","*|*","https://embed-ssl.wistia.com/deliveries/","#cardnegocioid",".btn-minus","Islas Cocos (Keeling)","-qty\">\x0A              <button id=\"","Nov 30 2022 23:59:59 GMT-0500","detalles","precio","https://payp.page.link/49n3","</span> Mins.</p>\x0A        <p class=\"pcount\">  <span> ","img3/reseller-una-sola-licencia.webp","*\ud83d\ude42Datos del Cliente:*","webkitallowfullscreen","*x*",".item-image","title","#menu-container-C3","1px","googledisplay","Cabo Verde","entry.1625517509","#menu-container-C1",".item-price","Islas Cook","country","Irlanda","Qatar","Comoras","img","M\xF3naco","Etiop\xEDa","Costa Rica","Tayikist\xE1n","Siria",".deliveryoper , .deliveryoperr","Venezuela","701106lHNVlB","https://payp.page.link/oKFz","navigator","namec","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i> Multilicencia Anual</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n y Exportaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Im\xE0gens y Videos con Descripci\xF2n</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class=\"masc\">Soporte 24/7</span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n en Marketing Masivo</span></li><li></i>\u2705Genera Informes de Env\xEDos Masivos.</li><li><li></i>\u2705Filtro de N\xFAmeros de WhatsApp</li><li><li></i>\u2705Env\xEDos Masivos a Grupos</li><li><li></i>\u2705ChatBot Autorespuestas Funnels</li><li><li></i>\u2705Contestar desde la App</li><li><li></i>\u2705Transferir a otro Dispositivo</li><li><li></i>\u2705Auditor de Cuentas WA</li></ul></div></div>"," \x0A        \x0A        <span class=\"titucount\">Esta oferta termina en:</span>\x0A        <a class=\"countf\">\x0A\x0A        <p class=\"pcount\">  <span> ","Sahara Occidental","none","Reuni\xF3n","Barbados","Pa\xEDses Bajos","Isla de Man","*\u26a1 Tipo de Licencia:*","Jap\xF3n","entry.865577691","Montserrat","50px","antes","row-centered2w","Islas Bermudas","relatedTarget","Montenegro","Licencia Trimestral","<div class=\"contenedor-preguntas activo\"><div class=\"contenedor-pregunta\"><p class=\"pregunta\">Ver Detalles<span class=\"icon-negocio ty\"></span></p><ul class=\"features\"><li><i></i> <span class=\"masc\">Instalaci\xF3n GRATIS</span></li><li><i></i> Multilicencia 1 Mes</li><li><i class=\"fas fa-stop-circle\"></i> Mensajes y Campa\xF1as Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos</li><li><i ></i>Adjunta Video, Imagen, Audio, Cat\xE1logos, Documentos</li> <li> <i></i>Importaci\xF3n y Exportaci\xF3n de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Im\xE0gens y Videos con Descripci\xF2n</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class=\"masc\">Soporte 24/7</span></li><li><span class=\"masc\">Actualizaciones GRATIS</span></li><li><span class=\"masc\">Capacitaci\xF3n en Marketing Masivo</span></li><li></i>\u2705Genera Informes de Env\xEDos Masivos.</li><li><li></i>\u2705Filtro de N\xFAmeros de WhatsApp</li><li><li></i>\u2705Env\xEDos Masivos a Grupos</li><li><li></i>\u2705ChatBot Autorespuestas Funnels</li><li><li></i>\u2705Contestar desde la App</li><li><li></i>\u2705Transferir a otro Dispositivo</li><li><li></i>\u2705Auditor de Cuentas WA</li></ul></div></div>","a\">",".deliverysub2","Rep\xFAblica Checa","Ecuador","Guayana Francesa","Islas V\xEDrgenes Brit\xE1nicas","find","masv","cardnegocioid","price","Ant\xE1rtida","dataset","datoschao","block","El Salvador","Niue","addDomListener","nosvemos2","floor","Ruanda","prepend"," class=\"shopping-cart-image\">\x0A                <h6 class=\"shopping-cart-item-title shoppingCartItemTitle text-truncate ml-3 mb-0  \" id=\"itemtitulowa\">","-c\"><span class=\"icon-bin\"></span> </button>\x0A        \x0A        \x0A        </span>\x0A\x0A        <span class=\"linkocul\">\x0A        <p class=\"linkoculp\" >$","Letonia","Hong kong","Burkina Faso","https://payp.page.link/QMPm",".deliveryoper","ControlPosition","#gform3 *","San Vicente y las Granadinas","Taiw\xE1n","img24/botmaster-io.webp","Map","open","https://web.whatsapp.com/send?phone=593985590259","https://payp.page.link/Aapf","toElement","San Mart\xEDn (Francia)","g-recaptcha-error1","-100%",".monto","Dominica","Turqu\xEDa",".row-centeredw","cart_list","clientY","entry.116133504","Islas Malvinas","remainMinutes","offset","borderStyle","Ingresa tu n\xFAmero de WhatsApp \ud83d\ude05","row","-m-s","1389928deMeMD","latitude","Ciudad del Vaticano",".opedetalle","Isla de Navidad","mostrarcart","Filipinas","8580960qLjbfV","Guarda nuestro contacto como *BotMaster* para recibir toda la informaci\xF3n\ud83d\ude09\ud83d\udc4d","enviarwat","AF","AL","DE","AD","AO","AI","AQ","AG","Arabia Saudita","SA","Argelia","DZ","Argentina","AR","Armenia","AM","AW","Australia","AU","AT","AZ","BE","Bahamas","BS","BH","BD","BB","BZ","BJ","Bhut\xE1n","BT","BY","Birmania","MM","BO","BA","Botsuana","BW","BR","BN","BG","BF","BI","CV","KH","CM","CA","TD","Chile","CL","CN","CY","VA","CO","KM","CG","CD","KP","Corea del Sur","KR","Costa de Marfil","CI","CR","Croacia","HR","CU","CW","Dinamarca","DK","DM","EC","EG","SV","AE","ER","SK","SI","ES","US","Estonia","EE","ET","PH","FI","FJ","FR","GA","GM","GE","Ghana","GH","GI","Granada","GD","Grecia","GR","Groenlandia","GL","GP","GU","GT","GF","GG","GN","GQ","Guinea-Bissau","GW","GY","Hait\xED","HT","HN","HK","HU","India","IN","ID","Ir\xE1n","IR","IQ","IE","BV","IM","CX","NF","Islandia","IS","BM","Islas Caim\xE1n","KY","CC","CK","AX","FO","GS","Islas Heard y McDonald","HM","Islas Maldivas","MV","FK","MP","Islas Marshall","MH","PN","Islas Salom\xF3n","SB","TC","UM","VG","VI","IL","Italia","IT","JM","JP","JE","JO","KZ","KE","KG","KI","Kuwait","KW","LB","LA","LS","LV","Liberia","LR","LY","LI","Lituania","LT","Luxemburgo","LU","M\xE9xico","MX","MC","MO","MK","MG","MY","MW","ML","MT","MA","MQ","Mauricio","MU","Mauritania","MR","Mayotte","YT","Micronesia","FM","MD","MN","ME","MS","Mozambique","MZ","NA","Nauru","NR","Nepal","NP","NI","NE","NG","NU","NO","NC","NZ","OM","NL","Pakist\xE1n","PK","Palau","PW","Palestina","PS","PA","PG","PY","PE","PF","PL","PT","PR","QA","GB","CF","CZ","Rep\xFAblica Dominicana","DO","Rep\xFAblica de Sud\xE1n del Sur","SS","RE","RW","Ruman\xEDa","RO","RU","EH","WS","AS","BL","KN","SM","MF","PM","VC","SH","LC","Santo Tom\xE9 y Pr\xEDncipe","ST","SN","RS","Seychelles","SC","SL","SG","SX","SY","SO","LK","ZA","SD","Suecia","SE","CH","SR","Svalbard y Jan Mayen","SJ","SZ","TJ","TH","TW","Tanzania","TZ","Territorio Brit\xE1nico del Oc\xE9ano \xCDndico","IO","Territorios Australes y Ant\xE1rticas Franceses","TF","Timor Oriental","TL","TG","TK","Tonga","TO","Trinidad y Tobago","TT","Tunez","TN","Turkmenist\xE1n","TM","TR","TV","Ucrania","UA","UG","UY","UZ","VU","VE","VN","Wallis y Futuna","WF","YE","DJ","ZM","ZW","de","#container2bb","#masvendidosbb","#masvendidos3a","<","remainSeconds","remainTime","\u26a0ATENCI\xD4N! ten cuidaddo con software malisioso <br> de la India empieza con +91, adquiere software original. ","scrollHeight","px","iframe","oallowfullscreen","embed","?videoFoam=true"];var _0x45ca87=_0x4528;(function(_0x260C7,_0x260B1){var _0x260F3=_0x4528,_0x2609B=_0x260C7();while(!![]){try{var _0x260DD=parseInt(_0x260F3(0x14c))/ 0x1* (parseInt(_0x260F3(0x176))/ 0x2)+ -parseInt(_0x260F3(0x27c))/ 0x3+ -parseInt(_0x260F3(0x346))/ 0x4+ parseInt(_0x260F3(0x33a))/ 0x5+ parseInt(_0x260F3(0x1a0))/ 0x6* (parseInt(_0x260F3(0x301))/ 0x7)+ -parseInt(_0x260F3(0x2e1))/ 0x8+ -parseInt(_0x260F3(0x2eb))/ 0x9;if(_0x260DD=== _0x260B1){break}else {_0x2609B[_$_c25f[1]](_0x2609B[_$_c25f[0]]())}}catch(_0x352938){_0x2609B[_$_c25f[1]](_0x2609B[_$_c25f[0]]())}}}(_0x39ac,0xc088f),document[_0x45ca87(0x207)]= function(){return ![]});const myTimeout=setTimeout(myGreeting,0x493e0);function myGreeting(){var _0x27AA5=_0x45ca87;$(_$_c25f[2])[_0x27AA5(0x297)](_0x27AA5(0x2a3))}$(document)[_0x45ca87(0x24b)](function(){var _0x2611F=_0x45ca87,_0x26109=$(_0x2611F(0x2d1))[_0x2611F(0x2dc)]()[_$_c25f[3]];$(window)[_$_c25f[5]](_$_c25f[4],function(){var _0x26135=_0x2611F;$(window)[_0x26135(0x1bf)]()>= _0x26109?$(_0x26135(0x2d1))[_0x26135(0x297)](_0x26135(0x292)):$(_0x26135(0x2d1))[_0x26135(0x231)](_0x26135(0x292))})});let movuevete=document[_0x45ca87(0x1bb)](_$_c25f[6]);function moverseA(){var _0x27A8F=_0x45ca87;location= _0x27A8F(0x1de)}const mouseEvent=(_0x26177)=>{var _0x2614B=_0x45ca87;const _0x26161=!_0x26177[_0x2614B(0x2c6)]&&  !_0x26177[_0x2614B(0x295)] && _0x26177[_0x2614B(0x2d6)]< 0x2;_0x26161&& (document[_0x2614B(0x2f8)](_0x2614B(0x1c4),mouseEvent),document[_0x2614B(0x35f)](_0x2614B(0x228))[_0x2614B(0x241)][_0x2614B(0x20c)](_$_c25f[7]))},exit=(_0x2618D)=>{var _0x261A3=_0x45ca87;_0x2618D[_0x261A3(0x320)][_0x261A3(0x350)]=== _$_c25f[8]&& document[_$_c25f[11]](_$_c25f[10])[_0x261A3(0x241)][_$_c25f[9]](_0x261A3(0x2a3)),_0x2618D[_$_c25f[13]][_$_c25f[12]]=== _0x261A3(0x2a2)&& document[_$_c25f[11]](_0x261A3(0x228))[_0x261A3(0x241)][_0x261A3(0x335)](_0x261A3(0x2a3))};document[_0x45ca87(0x35f)](_0x45ca87(0x228))[_0x45ca87(0x18d)](_$_c25f[14],exit),setTimeout(()=>{var _0x261B9=_0x45ca87;document[_0x261B9(0x18d)](_0x261B9(0x1c4),mouseEvent),document[_0x261B9(0x18d)](_0x261B9(0x144),exit)},0x7d0);const pedido_store={'categories':{'B0':{'items':{'I1':{'name':_$_c25f[15],'antes':19.98,'price':9.99,'qty':0x0,'img':_0x45ca87(0x1a4),'detalles':_0x45ca87(0x388),'linkpago':_0x45ca87(0x190)},'I2':{'name':_0x45ca87(0x298),'antes':49.98,'price':24.99,'qty':0x0,'img':_0x45ca87(0x2c1),'detalles':_0x45ca87(0x20a),'linkpago':_0x45ca87(0x18a)},'I3':{'name':_0x45ca87(0x130),'antes':0x5e,'price':0x2f,'qty':0x0,'img':_0x45ca87(0x1ad),'detalles':_0x45ca87(0x33b),'linkpago':_0x45ca87(0x27d)},'I4':{'name':_0x45ca87(0x333),'antes':0xc6,'price':0x63,'qty':0x0,'img':_$_c25f[16],'detalles':_0x45ca87(0x17f),'linkpago':_0x45ca87(0x348)},'I5':{'name':_0x45ca87(0x140),'antes':0x14e,'price':0xa7,'qty':0x0,'img':_0x45ca87(0x30d),'detalles':_0x45ca87(0x162),'linkpago':_$_c25f[17]}},'namec':_$_c25f[18]},'C0':{'items':{'I1':{'name':_0x45ca87(0x1ee),'antes':0xc6,'price':0x63,'qty':0x0,'img':_$_c25f[19],'detalles':_0x45ca87(0x342),'linkpago':_0x45ca87(0x381)},'I2':{'name':_0x45ca87(0x23c),'antes':0x18e,'price':0xc7,'qty':0x0,'img':_$_c25f[20],'detalles':_0x45ca87(0x33e),'linkpago':_$_c25f[21]},'I3':{'name':_$_c25f[22],'antes':0x18e,'price':0xc7,'qty':0x0,'img':_0x45ca87(0x25c),'detalles':_0x45ca87(0x38b),'linkpago':_0x45ca87(0x16d)}},'namec':_$_c25f[18]},'C1':{'items':{'I1':{'name':_0x45ca87(0x370),'antes':79.98,'price':39.99,'qty':0x0,'img':_0x45ca87(0x222),'detalles':_0x45ca87(0x29a),'linkpago':_0x45ca87(0x1fd)},'I2':{'name':_0x45ca87(0x14b),'antes':479.76,'price':239.88,'qty':0x0,'img':_0x45ca87(0x220),'detalles':_0x45ca87(0x282),'linkpago':_0x45ca87(0x2c5)},'I3':{'name':_0x45ca87(0x174),'antes':0x4ae,'price':0x257,'qty':0x0,'img':_0x45ca87(0x208),'detalles':_0x45ca87(0x186),'linkpago':_$_c25f[23]}},'namec':_$_c25f[18]},'C2':{'items':{'I1':{'name':_0x45ca87(0x2fb),'antes':0x256,'price':0x12b,'qty':0x0,'img':_0x45ca87(0x1c1),'detalles':_0x45ca87(0x37f),'linkpago':_0x45ca87(0x2ba)},'I2':{'name':_$_c25f[24],'antes':0x31e,'price':0x18f,'qty':0x0,'img':_0x45ca87(0x21f),'detalles':_0x45ca87(0x1f2),'linkpago':_0x45ca87(0x259)},'I3':{'name':_0x45ca87(0x367),'antes':0x4ae,'price':0x257,'qty':0x0,'img':_0x45ca87(0x1aa),'detalles':_0x45ca87(0x188),'linkpago':_0x45ca87(0x377)}},'namec':_$_c25f[18]}},'user_data':{'user_name':{'value':_$_c25f[18],'error':_$_c25f[18]},'user_phone':{'value':_$_c25f[18],'error':_$_c25f[18]},'user_dir':{'value':_$_c25f[18],'error':_$_c25f[18]},'user_zone':{'value':_$_c25f[18],'error':_$_c25f[18]},'user_mail':{'value':_$_c25f[18],'error':_$_c25f[18]}}};var dialog=document[_0x45ca87(0x1bb)](_$_c25f[25]);let menu_sections=_$_c25f[18];const categories=document[_$_c25f[26]](_0x45ca87(0x30c));Object[_$_c25f[29]](pedido_store[_$_c25f[28]])[_$_c25f[27]](([_0x3eb0e2,_0x5a8c14],_0x41c151)=>{var _0x261CF=_0x45ca87;menu_sections= menu_sections+ (_0x261CF(0x341)+ _0x3eb0e2+ _0x261CF(0x29b)+ _0x5a8c14[_0x261CF(0x280)]+ _0x261CF(0x1a2))}),categories[_$_c25f[30]]= menu_sections;const newCancel=(_0x2623D,_0x26227)=>{var _0x26253=_0x45ca87;pedido_store[_0x26253(0x227)][_$_c25f[18]+ _0x26227][_0x26253(0x13d)][_$_c25f[18]+ _0x2623D][_$_c25f[31]]= 0x0,console[_$_c25f[32]](pedido_store[_0x26253(0x227)][_$_c25f[18]+ _0x26227][_0x26253(0x13d)][_$_c25f[18]+ _0x2623D][_$_c25f[31]]),document[_0x26253(0x1bb)](_0x26227+ _$_c25f[33]+ _0x2623D+ _0x26253(0x2a8))[_0x26253(0x272)]= pedido_store[_0x26253(0x227)][_$_c25f[18]+ _0x26227][_0x26253(0x13d)][_$_c25f[18]+ _0x2623D][_0x26253(0x1fb)],addItemToShoppingCart()},newPlus=(_0x26269,_0x26295)=>{var _0x2627F=_0x45ca87;pedido_store[_0x2627F(0x227)][_$_c25f[18]+ _0x26295][_0x2627F(0x13d)][_$_c25f[18]+ _0x26269][_0x2627F(0x1fb)]++,document[_0x2627F(0x1bb)](_0x26295+ _$_c25f[33]+ _0x26269+ _0x2627F(0x2a8))[_0x2627F(0x272)]= pedido_store[_0x2627F(0x227)][_$_c25f[18]+ _0x26295][_0x2627F(0x13d)][_$_c25f[18]+ _0x26269][_0x2627F(0x1fb)],addItemToShoppingCart()},newMinus=(_0x262AB,_0x262D7)=>{var _0x262C1=_0x45ca87;pedido_store[_$_c25f[28]][_$_c25f[18]+ _0x262D7][_$_c25f[34]][_$_c25f[18]+ _0x262AB][_$_c25f[31]]- 0x1>= 0x0&& (pedido_store[_0x262C1(0x227)][_$_c25f[18]+ _0x262D7][_0x262C1(0x13d)][_$_c25f[18]+ _0x262AB][_0x262C1(0x1fb)]--,document[_$_c25f[26]](_0x262D7+ _$_c25f[33]+ _0x262AB+ _$_c25f[35])[_0x262C1(0x272)]= pedido_store[_$_c25f[28]][_$_c25f[18]+ _0x262D7][_$_c25f[34]][_$_c25f[18]+ _0x262AB][_0x262C1(0x1fb)],addItemToShoppingCart())},ItemCreator=(_0x26303,_0x26319)=>{var _0x262ED=_0x45ca87;let _0x2632F=_$_c25f[18];return Object[_0x262ED(0x2e8)](_0x26303)[_$_c25f[27]](([_0x356e32,_0x1b55ba],_0x5f5400)=>{var _0x26371=_0x262ED;_0x2632F= _0x2632F+ (_0x26371(0x240)+ _0x1b55ba[_0x26371(0x271)]+ _0x26371(0x224)+ _0x1b55ba[_0x26371(0x28f)][_0x26371(0x2d8)](0x2)+ _0x26371(0x22f)+ _0x1b55ba[_0x26371(0x2a5)]+ _0x26371(0x30b)+ _0x1b55ba[_0x26371(0x27b)]+ _0x26371(0x238)+ _0x1b55ba[_0x26371(0x257)]+ _$_c25f[36]+ _0x1b55ba[_$_c25f[37]]+ _0x26371(0x1dd)+ _0x26319+ _$_c25f[33]+ _0x356e32+ _$_c25f[38]+ _0x1b55ba[_0x26371(0x1fb)]+ _0x26371(0x1b9)+ _0x26319+ _$_c25f[33]+ _0x356e32+ _0x26371(0x254)+ _0x26319+ _$_c25f[33]+ _0x356e32+ _$_c25f[39])}),_0x2632F};Object[_0x45ca87(0x2e8)](pedido_store[_0x45ca87(0x227)])[_0x45ca87(0x291)](([_0x2adcf1,_0x105819],_0x282155)=>{var _0x263C9=_0x45ca87;let _0x2639D=document[_$_c25f[41]](_$_c25f[40]);_0x2639D[_$_c25f[42]]= _$_c25f[43]+ _0x2adcf1,_0x2639D[_0x263C9(0x241)][_0x263C9(0x20c)](_0x263C9(0x171)),_0x2639D[_0x263C9(0x20d)]= _0x263C9(0x386)+ (_0x2adcf1+ _$_c25f[44])+ _$_c25f[45]+ _0x105819[_0x263C9(0x280)]+ _0x263C9(0x246);let _0x26421=document[_0x263C9(0x273)](_0x263C9(0x290));_0x26421[_$_c25f[42]]= _0x2adcf1,_0x26421[_0x263C9(0x241)][_0x263C9(0x20c)](_0x263C9(0x2df)),_0x26421[_0x263C9(0x241)][_0x263C9(0x20c)](_$_c25f[46]);let _0x2640B=ItemCreator(_0x105819[_0x263C9(0x13d)],_0x2adcf1);_0x26421[_0x263C9(0x20d)]= _0x2640B,_0x2639D[_0x263C9(0x344)](_0x26421),document[_$_c25f[26]](_$_c25f[48])[_$_c25f[47]](_0x2639D)}),Object[_0x45ca87(0x2e8)](pedido_store[_0x45ca87(0x227)])[_0x45ca87(0x291)](([_0x468521,_0x98709e],_0xbecd5b)=>{var _0x2644D=_0x45ca87;Object[_0x2644D(0x2e8)](_0x98709e[_0x2644D(0x13d)])[_0x2644D(0x291)](([_0x5e5c4c,_0x33f282],_0x48e309)=>{var _0x264A5=_0x2644D;document[_0x264A5(0x1bb)](_0x468521+ _$_c25f[33]+ _0x5e5c4c+ _$_c25f[49])[_0x264A5(0x18d)](_$_c25f[14],()=>{newMinus(_0x5e5c4c,_0x468521)}),document[_0x264A5(0x1bb)](_0x468521+ _$_c25f[33]+ _0x5e5c4c+ _$_c25f[50])[_0x264A5(0x18d)](_0x264A5(0x2cc),()=>{newPlus(_0x5e5c4c,_0x468521)})})}),Object[_0x45ca87(0x2e8)](pedido_store[_0x45ca87(0x1f0)])[_0x45ca87(0x291)](([_0x5ce7ee,_0x56a193],_0xe4e249)=>{var _0x264E7=_0x45ca87;document[_0x264E7(0x1bb)](_$_c25f[18]+ _0x5ce7ee)[_0x264E7(0x18d)](_0x264E7(0x12b),(_0x26555)=>{var _0x2653F=_0x264E7;pedido_store[_0x2653F(0x1f0)][_$_c25f[18]+ _0x5ce7ee]= _0x26555[_$_c25f[13]][_0x2653F(0x272)]})});const comprarButton=document[_$_c25f[11]](_$_c25f[51]);comprarButton[_$_c25f[52]](_0x45ca87(0x2cc),comprarButtonClicked);const shoppingCartItemsContainer=document[_0x45ca87(0x35f)](_0x45ca87(0x189)),ItemCheckout=(_0x2656B)=>{var _0x26597=_0x45ca87;let _0x2661B=_$_c25f[18],_0x26605=_$_c25f[18],_0x265D9=_$_c25f[18],_0x265AD=_$_c25f[18],_0x265C3=_$_c25f[18],_0x2665D=_$_c25f[18];var _0x26673=document[_0x26597(0x1bb)](_0x26597(0x1b4)),_0x265EF=document[_0x26597(0x1bb)](_$_c25f[53]),_0x26631=document[_0x26597(0x1bb)](_0x26597(0x177)),_0x26581=document[_$_c25f[26]](_0x26597(0x268)),_0x26647=document[_$_c25f[11]](_$_c25f[54]);return Object[_0x26597(0x2e8)](_0x2656B)[_0x26597(0x291)](([_0x8cfacc,_0x5ad7a7],_0x1a3a85)=>{var _0x266B5=_0x26597;let _0x26689=_$_c25f[18];Object[_0x266B5(0x2e8)](_0x5ad7a7[_0x266B5(0x13d)])[_0x266B5(0x291)](([_0x592a5b,_0x1c6c25],_0x91981b)=>{var _0x26723=_0x266B5;_0x26689=== _$_c25f[18]&& _0x1c6c25[_0x26723(0x1fb)]> 0x0&& (_0x26689= _0x26723(0x332)+ _0x5ad7a7[_0x26723(0x280)]+ _0x26723(0x355),_0x265AD= _0x265AD+ _0x26689)}),Object[_$_c25f[29]](_0x5ad7a7[_0x266B5(0x13d)])[_0x266B5(0x291)](([_0x45efb9,_0x176620],_0x1ff904)=>{var _0x2677B=_0x266B5;_0x176620[_$_c25f[31]]> 0x0&& (_0x265AD= _0x265AD+ (_$_c25f[55]+ _0x176620[_0x2677B(0x271)]+ _0x2677B(0x2b3)+ _0x176620[_0x2677B(0x27b)]+ _0x2677B(0x1d0)+ _0x176620[_0x2677B(0x2a5)]+ _0x2677B(0x310)+ _0x8cfacc+ _$_c25f[33]+ _0x45efb9+ _0x2677B(0x1ac)+ _0x176620[_0x2677B(0x1fb)]+ _0x2677B(0x1b9)+ _0x8cfacc+ _$_c25f[33]+ _0x45efb9+ _0x2677B(0x12e)+ _0x8cfacc+ _$_c25f[33]+ _0x45efb9+ _$_c25f[56]+ Number[_0x2677B(0x14a)](_0x176620[_$_c25f[31]]* _0x176620[_0x2677B(0x2a5)])[_0x2677B(0x2d8)](0x2)+ _0x2677B(0x2f2)+ _0x8cfacc+ _$_c25f[33]+ _0x45efb9+ _0x2677B(0x2b4)+ _0x176620[_0x2677B(0x1c7)]+ _0x2677B(0x387)),_0x2665D+= _0x2677B(0x1a3)+ _0x176620[_0x2677B(0x271)]+ _0x2677B(0x149)+ _0x176620[_0x2677B(0x27b)]+ _0x2677B(0x150),_0x265C3+= _0x176620[_$_c25f[57]]+ _0x2677B(0x137)+ _0x176620[_0x2677B(0x1c7)]+ _0x2677B(0x137)+ _0x2677B(0x353),_0x2661B+= _0x176620[_0x2677B(0x1fb)]+ _0x2677B(0x137)+ _0x2677B(0x25f)+ _$_c25f[58]+ _0x2677B(0x24e)+ _$_c25f[58]+ _0x176620[_0x2677B(0x27b)]+ _0x2677B(0x137)+ _0x2677B(0x24e)+ _0x2677B(0x137)+ _0x2677B(0x258)+ _0x2677B(0x137)+ _$_c25f[59]+ _0x176620[_0x2677B(0x2a5)]+ _0x2677B(0x137)+ _0x2677B(0x24e)+ _$_c25f[58]+ _$_c25f[60]+ _0x2677B(0x137)+ _$_c25f[59]+ (_0x176620[_0x2677B(0x1fb)]* _0x176620[_0x2677B(0x2a5)])[_0x2677B(0x2d8)](0x2)+ _$_c25f[61]+ _0x2677B(0x353),_0x26605+= _0x176620[_0x2677B(0x1fb)]+ _$_c25f[62]+ _$_c25f[63]+ _$_c25f[62]+ _$_c25f[64]+ _$_c25f[62]+ _0x176620[_0x2677B(0x27b)]+ _$_c25f[61])})}),_0x265EF[_$_c25f[30]]= _$_c25f[18]+ _0x2665D,_0x26673[_0x26597(0x20d)]= _$_c25f[18]+ _0x265C3,_0x26631[_0x26597(0x20d)]= _$_c25f[18]+ _0x2661B,_0x26581[_0x26597(0x20d)]= _$_c25f[18]+ _0x26605,_0x265AD};function addItemToShoppingCart(){var _0x26F37=_0x45ca87;document[_0x26F37(0x1bb)](_0x26F37(0x2d5))[_$_c25f[30]]= ItemCheckout(pedido_store[_0x26F37(0x227)]);let _0x26F4D=0x0;Object[_0x26F37(0x2e8)](pedido_store[_0x26F37(0x227)])[_$_c25f[27]](([_0x10a737,_0x1ae597],_0x3a6092)=>{var _0x26FA5=_0x26F37;Object[_0x26FA5(0x2e8)](_0x1ae597[_0x26FA5(0x13d)])[_0x26FA5(0x291)](([_0x9aa34b,_0x1811f5],_0x582368)=>{var _0x26FD1=_0x26FA5;_0x1811f5[_0x26FD1(0x1fb)]> 0x0&& (document[_0x26FD1(0x1bb)](_0x10a737+ _$_c25f[33]+ _0x9aa34b+ _0x26FD1(0x2e0))[_$_c25f[52]](_0x26FD1(0x2cc),()=>{newMinus(_0x9aa34b,_0x10a737)}),document[_0x26FD1(0x1bb)](_0x10a737+ _$_c25f[33]+ _0x9aa34b+ _$_c25f[65])[_0x26FD1(0x18d)](_0x26FD1(0x2cc),()=>{newPlus(_0x9aa34b,_0x10a737)}),document[_0x26FD1(0x1bb)](_0x10a737+ _$_c25f[33]+ _0x9aa34b+ _$_c25f[66])[_$_c25f[52]](_0x26FD1(0x2cc),()=>{newCancel(_0x9aa34b,_0x10a737)}),_0x26F4D+= _0x1811f5[_0x26FD1(0x1fb)])})}),_0x26F4D> 0x0?(document[_$_c25f[26]](_0x26F37(0x24d))[_$_c25f[30]]= _$_c25f[18]+ _0x26F4D,setTimeout(function(){var _0x27013=_0x26F37;$(_0x27013(0x165))[_0x27013(0x343)](0x3e8)},0x1f4)):setTimeout(function(){var _0x27029=_0x26F37;$(_$_c25f[67])[_0x27029(0x22d)](0x3e8)},0x1f4),updateShoppingCartTotal(pedido_store[_0x26F37(0x227)])}function ertd(){var _0x2706B=_0x45ca87,_0x27055=document[_$_c25f[26]](_0x2706B(0x2a4))[_0x2706B(0x20d)]= shoppingCartItemsContainer[_0x2706B(0x21b)]}function updateShoppingCartTotal(_0x27CE1){var _0x27C47=_0x45ca87;let _0x27BC3=0x0;Object[_0x27C47(0x2e8)](_0x27CE1)[_0x27C47(0x291)](([_0x43c20b,_0x5b84d1],_0x1824bf)=>{var _0x27D4F=_0x27C47;Object[_0x27D4F(0x2e8)](_0x5b84d1[_0x27D4F(0x13d)])[_0x27D4F(0x291)](([_0x115718,_0x15d12a],_0x33f95e)=>{var _0x27DD3=_0x27D4F;_0x27BC3+= _0x15d12a[_0x27DD3(0x2a5)]* _0x15d12a[_0x27DD3(0x1fb)]})}),document[_$_c25f[11]](_0x27C47(0x183))[_0x27C47(0x20d)]= _$_c25f[59]+ Number[_0x27C47(0x14a)](_0x27BC3)[_0x27C47(0x2d8)](0x2);let _0x27C31=_0x27BC3;var _0x27C89=document[_0x27C47(0x35f)](_$_c25f[68])[_0x27C47(0x20d)]= _$_c25f[59]+ _0x27C31[_$_c25f[69]](0x2),_0x27CCB=_0x27C89;document[_0x27C47(0x1bb)](_0x27C47(0x233))[_0x27C47(0x20d)]= _0x27CCB,document[_0x27C47(0x35f)](_0x27C47(0x161))[_0x27C47(0x20d)]= _$_c25f[59]+ _0x27C31[_0x27C47(0x2d8)](0x2);let _0x27D0D=_0x27BC3;var _0x27C5D=document[_0x27C47(0x1bb)](_0x27C47(0x2cf));_0x27C5D[_0x27C47(0x18d)](_$_c25f[70],function(){var _0x27DE9=_0x27C47,_0x27DFF=_0x27C5D[_$_c25f[71]];document[_0x27DE9(0x35f)](_0x27DE9(0x29c))[_0x27DE9(0x20d)]= _$_c25f[59]+ Number(_0x27DFF)[_$_c25f[69]](0x2),_0x27D0D= _0x27BC3+ Number(_0x27DFF),document[_0x27DE9(0x35f)](_0x27DE9(0x161))[_0x27DE9(0x20d)]= _$_c25f[59]+ _0x27D0D[_0x27DE9(0x2d8)](0x2)});var _0x27C05=document[_$_c25f[11]](_0x27C47(0x2cb));_0x27C05[_0x27C47(0x18d)](_$_c25f[72],function(){var _0x27E15=_0x27C47,_0x27E41=_0x27C05[_0x27E15(0x272)];document[_0x27E15(0x35f)](_0x27E15(0x2cb))[_0x27E15(0x20d)]= _$_c25f[59]+ Number(_0x27E41)[_0x27E15(0x2d8)](0x2);var _0x27E2B=document[_0x27E15(0x1bb)](_$_c25f[74])[_$_c25f[73]],_0x27E57=Number(_0x27E2B[_$_c25f[75]](_$_c25f[59],_$_c25f[18])),_0x27E6D=_0x27E41- _0x27E57;document[_0x27E15(0x1bb)](_0x27E15(0x303))[_0x27E15(0x20d)]= _$_c25f[59]+ _0x27E6D[_$_c25f[69]](0x2),_0x27E41=== _$_c25f[18]&& (document[_0x27E15(0x1bb)](_0x27E15(0x303))[_0x27E15(0x20d)]= _0x27E15(0x166))});let _0x27CB5=_0x27BC3;var _0x27C9F=document[_0x27C47(0x1bb)](_0x27C47(0x2cf));_0x27C9F[_0x27C47(0x18d)](_0x27C47(0x12b),function(){var _0x27EAF=_0x27C47,_0x27EC5=_0x27C9F[_$_c25f[71]];document[_0x27EAF(0x35f)](_0x27EAF(0x1c3))[_0x27EAF(0x20d)]= _$_c25f[59]+ Number(_0x27EC5)[_$_c25f[69]](0x2),_0x27CB5= _0x27BC3+ Number(_0x27EC5);var _0x27EDB=document[_0x27EAF(0x35f)](_0x27EAF(0x2bb));_0x27EDB[_0x27EAF(0x2f4)]= function(){var _0x27EF1=_0x27EAF;document[_$_c25f[11]](_0x27EF1(0x29c))[_0x27EF1(0x20d)]= _$_c25f[59]+ Number(0x0)[_0x27EF1(0x2d8)](0x2),_0x27CB5= _0x27BC3+ Number(0x0),document[_$_c25f[11]](_0x27EF1(0x161))[_0x27EF1(0x20d)]= _$_c25f[59]+ _0x27CB5[_$_c25f[69]](0x2),document[_0x27EF1(0x35f)](_0x27EF1(0x1c3))[_$_c25f[30]]= _$_c25f[59]+ Number(0x0)[_0x27EF1(0x2d8)](0x2),_0x27CB5= _0x27BC3+ Number(0x0),document[_$_c25f[11]](_$_c25f[76])[_0x27EF1(0x20d)]= _$_c25f[59]+ _0x27CB5[_$_c25f[69]](0x2)};var _0x27E99=document[_0x27EAF(0x35f)](_0x27EAF(0x264))[_$_c25f[30]]= _$_c25f[59]+ _0x27CB5[_0x27EAF(0x2d8)](0x2),_0x27E83=_0x27E99;document[_0x27EAF(0x1bb)](_$_c25f[77])[_0x27EAF(0x20d)]= _0x27E83});var _0x27CF7=document[_0x27C47(0x35f)](_0x27C47(0x264))[_0x27C47(0x20d)]= _$_c25f[59]+ _0x27CB5[_$_c25f[69]](0x2),_0x27C1B=_0x27CF7;document[_$_c25f[26]](_0x27C47(0x37a))[_$_c25f[30]]= _0x27C1B;var _0x27BD9=document[_0x27C47(0x35f)](_0x27C47(0x214));_0x27BD9[_0x27C47(0x2f4)]= function(){var _0x27F07=_0x27C47;document[_0x27F07(0x35f)](_0x27F07(0x29c))[_0x27F07(0x20d)]= _$_c25f[59]+ Number(0x0)[_0x27F07(0x2d8)](0x2),_0x27CB5= _0x27BC3+ Number(0x0),document[_0x27F07(0x35f)](_$_c25f[78])[_$_c25f[30]]= _$_c25f[59]+ _0x27CB5[_0x27F07(0x2d8)](0x2),document[_0x27F07(0x35f)](_0x27F07(0x1c3))[_0x27F07(0x20d)]= _$_c25f[59]+ Number(0x0)[_0x27F07(0x2d8)](0x2),_0x27CB5= _0x27BC3+ Number(0x0);var _0x27F1D=document[_$_c25f[11]](_0x27F07(0x264))[_0x27F07(0x20d)]= _$_c25f[59]+ _0x27CB5[_$_c25f[69]](0x2)};var _0x27CF7=document[_0x27C47(0x35f)](_0x27C47(0x264))[_$_c25f[30]]= _$_c25f[59]+ _0x27CB5[_0x27C47(0x2d8)](0x2),_0x27D23=_0x27BC3,_0x27C73=document[_0x27C47(0x1bb)](_0x27C47(0x281));_0x27C73[_0x27C47(0x2f4)]= _0x27BEF;function _0x27BEF(){var _0x27FB7=_0x27C47;if(_0x27C73[_$_c25f[79]]===  !![]){var _0x27FA1=_0x27D23,_0x27F75=(parseFloat(_0x27FA1)* 0.054+ 0.3)[_0x27FB7(0x2d8)](0x2),_0x27F49=document[_0x27FB7(0x35f)](_0x27FB7(0x311))[_0x27FB7(0x20d)]= _$_c25f[18]+ Number(_0x27F75)[_0x27FB7(0x2d8)](0x2),_0x27FCD=parseFloat(_0x27F75)+ parseFloat(_0x27FA1),_0x27F33=document[_$_c25f[11]](_0x27FB7(0x264))[_0x27FB7(0x20d)]= _$_c25f[59]+ parseFloat(_0x27FCD)[_0x27FB7(0x2d8)](0x2),_0x27F5F=document[_$_c25f[26]](_0x27FB7(0x1b4))[_0x27FB7(0x211)]= _$_c25f[18],_0x27F8B=document[_0x27FB7(0x35f)](_0x27FB7(0x293));_0x27F8B[_0x27FB7(0x1d4)][_$_c25f[80]]= _0x27FB7(0x2aa)}}}function removeShoppingCartItem(_0x27B3F){var _0x27B55=_0x45ca87;updateShoppingCartTotal(pedido_store[_0x27B55(0x227)])}function quantityChanged(_0x27B29){var _0x27B13=_0x45ca87;updateShoppingCartTotal(pedido_store[_0x27B13(0x227)])}function comprarButtonClicked(){var _0x2703F=_0x45ca87;shoppingCartItemsContainer[_0x2703F(0x20d)]= _$_c25f[18],updateShoppingCartTotal()}$(_$_c25f[82])[_0x45ca87(0x315)](function(){var _0x267A7=_0x45ca87;return document[_0x267A7(0x1bb)](_0x267A7(0x210))[_0x267A7(0x20d)]= Math[_0x267A7(0x2b0)](Math[_$_c25f[81]]()* 0x3e7)+ 0x3e8});function goToPagep(){var _0x274F9=_0x45ca87,_0x27659=document[_0x274F9(0x35f)](_$_c25f[82])[_0x274F9(0x272)],_0x27685=document[_0x274F9(0x35f)](_0x274F9(0x264))[_0x274F9(0x211)],_0x2750F=document[_0x274F9(0x187)](_0x274F9(0x2fd));for(var _0x27601=0x0,_0x2757D=_0x2750F[_$_c25f[83]];_0x27601< _0x2757D;_0x27601++){if(_0x2750F[_0x27601]){var _0x27593=_0x2750F[_0x27601][_$_c25f[71]]+ _$_c25f[84]};_0x27593=== undefined&& (_0x27593= _$_c25f[18]),_0x27593=== _$_c25f[84]&& (_0x27593= _$_c25f[18])};var _0x27643=document[_$_c25f[85]](_0x274F9(0x30a));for(var _0x27601=0x0,_0x2757D=_0x27643[_0x274F9(0x2d4)];_0x27601< _0x2757D;_0x27601++){if(_0x27643[_0x27601]){var _0x2778D=_0x27643[_0x27601][_$_c25f[71]]+ _0x274F9(0x353)};_0x2778D=== undefined&& (_0x2778D= _$_c25f[18]),_0x2778D=== _0x274F9(0x353)&& (_0x2778D= _$_c25f[18])};var _0x2762D=document[_0x274F9(0x187)](_$_c25f[86]);for(var _0x27601=0x0,_0x2757D=_0x2762D[_0x274F9(0x2d4)];_0x27601< _0x2757D;_0x27601++){if(_0x2762D[_0x27601]){var _0x2766F=_0x2762D[_0x27601][_0x274F9(0x272)]+ _$_c25f[84]};_0x2766F=== undefined&& (_0x2766F= _$_c25f[18]),_0x2766F=== _0x274F9(0x353)&& (_0x2766F= _$_c25f[18])};var _0x27735=document[_0x274F9(0x187)](_0x274F9(0x2cf));for(var _0x27601=0x0,_0x2757D=_0x27735[_$_c25f[83]];_0x27601< _0x2757D;_0x27601++){if(_0x27735[_0x27601]){var _0x2771F=_0x27735[_0x27601][_0x274F9(0x272)]};_0x2771F=== undefined&& (_0x2771F= _$_c25f[18]),_0x2771F=== _0x274F9(0x353)&& (_0x2771F= _$_c25f[18])};var _0x275A9=Number(_0x27685[_0x274F9(0x299)](_$_c25f[59],_$_c25f[18])),_0x274E3=document[_0x274F9(0x1bb)](_0x274F9(0x1ff))[_0x274F9(0x272)],_0x27761=document[_$_c25f[26]](_0x274F9(0x352))[_0x274F9(0x272)],_0x275D5=document[_$_c25f[85]](_$_c25f[87]);for(var _0x27601=0x0,_0x2757D=_0x275D5[_0x274F9(0x2d4)];_0x27601< _0x2757D;_0x27601++){if(_0x275D5[_0x27601][_$_c25f[79]]===  !![]){var _0x27617=_0x274F9(0x353)+ document[_0x274F9(0x1bb)](_0x274F9(0x361))[_$_c25f[73]],_0x276F3=document[_$_c25f[26]](_0x274F9(0x32c))[_0x274F9(0x272)],_0x2753B=_0x274F9(0x353)+ document[_0x274F9(0x35f)](_0x274F9(0x36f))[_0x274F9(0x211)],_0x27567=_$_c25f[88]+ _0x274F9(0x353)+ _0x275D5[_0x27601][_0x274F9(0x272)]+ _0x274F9(0x137)+ _0x276F3+ _0x2753B+ _0x27617};_0x27567=== undefined&& (_0x27567= _$_c25f[18]),_0x27567=== _0x274F9(0x353)&& (_0x27567= _$_c25f[18])};var _0x275D5=document[_0x274F9(0x187)](_0x274F9(0x23b));for(var _0x27601=0x0,_0x2757D=_0x275D5[_0x274F9(0x2d4)];_0x27601< _0x2757D;_0x27601++){if(_0x275D5[_0x27601][_0x274F9(0x193)]===  !![]){var _0x274E3=document[_0x274F9(0x1bb)](_0x274F9(0x1ff))[_0x274F9(0x272)],_0x27761=document[_0x274F9(0x1bb)](_0x274F9(0x352))[_0x274F9(0x272)],_0x27567=_$_c25f[88]+ _0x274F9(0x353)+ _0x275D5[_0x27601][_0x274F9(0x272)]+ _$_c25f[84]+ _0x274E3+ _0x274F9(0x137)+ _0x27761};_0x27567=== undefined&& (_0x27567= _$_c25f[18]),_0x27567=== _0x274F9(0x353)&& (_0x27567= _$_c25f[18])};var _0x275D5=document[_0x274F9(0x187)](_0x274F9(0x1a6));for(var _0x27601=0x0,_0x2757D=_0x275D5[_$_c25f[83]];_0x27601< _0x2757D;_0x27601++){if(_0x275D5[_0x27601][_0x274F9(0x193)]===  !![]){var _0x27567=_0x274F9(0x205)+ _0x274F9(0x353)+ _0x275D5[_0x27601][_0x274F9(0x272)]};_0x27567=== undefined&& (_0x27567= _$_c25f[18]),_0x27567=== _0x274F9(0x353)&& (_0x27567= _$_c25f[18])};var _0x27777=document[_0x274F9(0x187)](_0x274F9(0x265));for(var _0x27601=0x0,_0x2757D=_0x27777[_0x274F9(0x2d4)];_0x27601< _0x2757D;_0x27601++){if(_0x27777[_0x27601][_0x274F9(0x193)]){var _0x276C7=_$_c25f[89]+ _0x27777[_0x27601][_0x274F9(0x272)]};_0x276C7=== undefined&& (_0x276C7= _$_c25f[18]),_0x276C7=== _0x274F9(0x353)&& (_0x276C7= _$_c25f[18])};var _0x27777=document[_0x274F9(0x187)](_0x274F9(0x326));for(var _0x27601=0x0,_0x2757D=_0x27777[_$_c25f[83]];_0x27601< _0x2757D;_0x27601++){if(_0x27777[_0x27601][_0x274F9(0x193)]){var _0x276C7=_0x274F9(0x194)+ _0x27777[_0x27601][_0x274F9(0x272)],_0x27709=document[_0x274F9(0x1bb)](_0x274F9(0x303))[_0x274F9(0x211)]};_0x276C7=== undefined&& (_0x276C7= _$_c25f[18]),_0x27709=== undefined&& (_0x27709= _$_c25f[18]),_0x27709=== _$_c25f[84]&& (_0x27709= _$_c25f[18]),_0x276C7=== _0x274F9(0x353)&& (_0x276C7= _$_c25f[18])};var _0x27777=document[_$_c25f[85]](_$_c25f[90]);for(var _0x27601=0x0,_0x2757D=_0x27777[_0x274F9(0x2d4)];_0x27601< _0x2757D;_0x27601++){if(_0x27777[_0x27601][_0x274F9(0x193)]){var _0x276C7=_0x274F9(0x194)+ _0x27777[_0x27601][_0x274F9(0x272)]+ (_$_c25f[18]+ (Number(_0x2771F)+ Number(_0x275A9[_0x274F9(0x2d8)](0x2)))[_0x274F9(0x2d8)](0x2))+ _$_c25f[84]+ _$_c25f[91]};_0x276C7=== undefined&& (_0x276C7= _$_c25f[18]),_0x276C7=== _0x274F9(0x353)&& (_0x276C7= _$_c25f[18])};var _0x27777=document[_0x274F9(0x187)](_0x274F9(0x27e));for(var _0x27601=0x0,_0x2757D=_0x27777[_0x274F9(0x2d4)];_0x27601< _0x2757D;_0x27601++){if(_0x27777[_0x27601][_0x274F9(0x193)]){var _0x276C7=_0x274F9(0x194)+ _0x27777[_0x27601][_0x274F9(0x272)]};_0x276C7=== undefined&& (_0x276C7= _$_c25f[18]),_0x276C7=== _0x274F9(0x353)&& (_0x276C7= _$_c25f[18])};var _0x27551=document[_0x274F9(0x187)](_0x274F9(0x1e5));for(var _0x27601=0x0,_0x2757D=_0x27551[_$_c25f[83]];_0x27601< _0x2757D;_0x27601++){if(_0x27551[_0x27601][_$_c25f[79]]){var _0x27525=_0x27551[_0x27601][_0x274F9(0x272)]+ _0x274F9(0x353)};_0x27525=== undefined&& (_0x27525= _$_c25f[18]),_0x276C7=== _0x274F9(0x353)&& (_0x276C7= _$_c25f[18])};var _0x27551=document[_0x274F9(0x187)](_$_c25f[92]);for(var _0x27601=0x0,_0x2757D=_0x27551[_0x274F9(0x2d4)];_0x27601< _0x2757D;_0x27601++){if(_0x27551[_0x27601][_0x274F9(0x193)]){var _0x27525=_0x27551[_0x27601][_0x274F9(0x272)]+ _0x274F9(0x353)};_0x27525=== undefined&& (_0x27525= _$_c25f[18]),_0x276C7=== _0x274F9(0x353)&& (_0x276C7= _$_c25f[18])};var _0x27551=document[_0x274F9(0x187)](_0x274F9(0x1f8));for(var _0x27601=0x0,_0x2757D=_0x27551[_0x274F9(0x2d4)];_0x27601< _0x2757D;_0x27601++){if(_0x27551[_0x27601][_0x274F9(0x193)]){var _0x27525=_0x27551[_0x27601][_0x274F9(0x272)]+ _0x274F9(0x353)};_0x27525=== undefined&& (_0x27525= _$_c25f[18]),_0x276C7=== _0x274F9(0x353)&& (_0x276C7= _$_c25f[18])};var _0x2769B=document[_0x274F9(0x1bb)](_0x274F9(0x1fc))[_0x274F9(0x272)]+ _0x274F9(0x353),_0x2774B=document[_0x274F9(0x1bb)](_0x274F9(0x1b4))[_0x274F9(0x211)]+ _0x274F9(0x137),_0x276DD=document[_0x274F9(0x187)](_0x274F9(0x1fc));for(var _0x27601=0x0,_0x2757D=_0x276DD[_$_c25f[83]];_0x27601< _0x2757D;_0x27601++){if(_0x276DD[_0x27601][_0x274F9(0x193)]){var _0x2769B=_0x276DD[_0x27601][_0x274F9(0x272)]+ _0x274F9(0x353)};_0x2769B=== undefined&& (_0x2769B= _$_c25f[18]),_0x276C7=== _0x274F9(0x353)&& (_0x276C7= _$_c25f[18])};var _0x275BF=document[_0x274F9(0x35f)](_0x274F9(0x347))[_0x274F9(0x211)];if(_0x275BF== null|| _0x275BF[_$_c25f[83]]== 0x0|| /^\s+$/[_$_c25f[93]](_0x275BF)){return alert(_0x274F9(0x209)),![]};if(_0x27593== null|| _0x27593[_0x274F9(0x2d4)]== 0x0|| /^\s+$/[_0x274F9(0x212)](_0x27593)){return alert(_0x274F9(0x1d6)),![]};if(_0x2778D== null|| _0x2778D[_0x274F9(0x2d4)]== 0x0|| /^\s+$/[_0x274F9(0x212)](_0x2778D)){return alert(_$_c25f[94]),![]};if(_0x2766F== null|| _0x2766F[_0x274F9(0x2d4)]== 0x0|| /^\s+$/[_0x274F9(0x212)](_0x2766F)){return alert(_0x274F9(0x2de)),![]};var _0x275EB=_0x274F9(0x13b)+ _$_c25f[84]+ _0x274F9(0x22b)+ _0x274F9(0x353)+ _0x274F9(0x139)+ _0x274F9(0x353)+ _0x274F9(0x242)+ _0x274F9(0x137)+ _0x274F9(0x137)+ _0x274F9(0x302)+ _$_c25f[58]+ _0x27659+ _$_c25f[58]+ _0x274F9(0x302)+ _0x274F9(0x353)+ _0x274F9(0x2f1)+ _0x274F9(0x353)+ _0x275BF+ _0x274F9(0x353)+ _0x274F9(0x13f)+ _$_c25f[58]+ _$_c25f[59]+ (_$_c25f[18]+ (Number(_0x2771F)+ Number(_0x275A9[_0x274F9(0x2d8)](0x2)))[_0x274F9(0x2d8)](0x2))+ _0x274F9(0x353)+ _0x274F9(0x2f1)+ _0x274F9(0x353)+ _0x274F9(0x25d)+ _0x274F9(0x353)+ _0x27525+ _0x274F9(0x137)+ _0x2769B+ _0x27593+ _0x2778D+ _0x2766F+ _0x274F9(0x137)+ _0x274F9(0x2f1)+ _0x274F9(0x353)+ _0x276C7+ _0x27709+ _0x274F9(0x353)+ _0x2774B+ _$_c25f[58]+ _$_c25f[84]+ _0x274F9(0x13f)+ _0x274F9(0x137)+ _$_c25f[59]+ (_$_c25f[18]+ (Number(_0x2771F)+ Number(_0x275A9[_0x274F9(0x2d8)](0x2)))[_0x274F9(0x2d8)](0x2))+ _0x274F9(0x353)+ _0x274F9(0x353)+ _0x274F9(0x380)+ _0x274F9(0x137)+ _0x27659,_0x276B1= new MobileDetect(window[_0x274F9(0x27f)][_0x274F9(0x15e)]);_0x276B1[_0x274F9(0x1f4)]()?window[_0x274F9(0x2c3)](document[_$_c25f[26]](_0x274F9(0x340))[_$_c25f[95]]= _0x274F9(0x151)+ _0x275EB):window[_0x274F9(0x2c3)](document[_0x274F9(0x1bb)](_$_c25f[96])[_$_c25f[95]]= _0x274F9(0x2c4)+ _0x275EB)}$(_0x45ca87(0x34a))[_$_c25f[5]](_$_c25f[14],function(){var _0x267BD=_0x45ca87;$(_$_c25f[98])[_$_c25f[97]](_0x267BD(0x1cc)),$(_0x267BD(0x2d9))[_0x267BD(0x231)](_0x267BD(0x1cc)),$(_$_c25f[99])[_0x267BD(0x231)](_0x267BD(0x1cc)),$(_0x267BD(0x159))[_0x267BD(0x231)](_0x267BD(0x1cc))}),$(_0x45ca87(0x217))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x267D3=_0x45ca87;$(_0x267D3(0x2d9))[_0x267D3(0x297)](_0x267D3(0x1cc)),$(_0x267D3(0x376))[_0x267D3(0x231)](_0x267D3(0x1cc)),$(_$_c25f[99])[_0x267D3(0x231)](_$_c25f[100]),$(_0x267D3(0x159))[_0x267D3(0x231)](_0x267D3(0x1cc))}),$(_0x45ca87(0x1ce))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x267E9=_0x45ca87;$(_0x267E9(0x1cf))[_$_c25f[97]](_0x267E9(0x1cc)),$(_0x267E9(0x376))[_0x267E9(0x231)](_0x267E9(0x1cc)),$(_$_c25f[102])[_$_c25f[101]](_0x267E9(0x1cc)),$(_0x267E9(0x159))[_0x267E9(0x231)](_$_c25f[100])}),$(_0x45ca87(0x22e))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x267FF=_0x45ca87;$(_$_c25f[103])[_0x267FF(0x297)](_0x267FF(0x1cc)),$(_0x267FF(0x376))[_0x267FF(0x231)](_0x267FF(0x1cc)),$(_0x267FF(0x2d9))[_0x267FF(0x231)](_0x267FF(0x1cc)),$(_0x267FF(0x1cf))[_$_c25f[101]](_0x267FF(0x1cc))}),$(_$_c25f[108])[_$_c25f[5]](_0x45ca87(0x2cc),function(_0x26841){var _0x2682B=_0x45ca87;const _0x26857=$(_0x26841[_$_c25f[13]])[_0x2682B(0x331)](_0x2682B(0x252))[_$_c25f[104]](_0x2682B(0x252)),_0x26815=$(_0x26841[_0x2682B(0x320)])[_$_c25f[107]](_$_c25f[106])[_0x2682B(0x2a1)](_$_c25f[105]);_0x26815[_$_c25f[104]](_0x2682B(0x1b8))&& _0x26815[0x0][_0x26857?_0x2682B(0x363):_0x2682B(0x1c9)]()}),$(_0x45ca87(0x249))[_$_c25f[5]](_0x45ca87(0x2cc),function(_0x26899){var _0x268AF=_0x45ca87;const _0x2686D=$(_0x26899[_0x268AF(0x320)])[_$_c25f[107]](_0x268AF(0x252))[_$_c25f[104]](_0x268AF(0x252)),_0x26883=$(_0x26899[_$_c25f[13]])[_0x268AF(0x331)](_0x268AF(0x2b5))[_0x268AF(0x2a1)](_0x268AF(0x1b8));_0x26883[_$_c25f[104]](_0x268AF(0x1b8))&& _0x26883[0x0][_0x2686D?_0x268AF(0x363):_$_c25f[109]]()}),$(document)[_0x45ca87(0x24b)](function(){var _0x268DB=_0x45ca87,_0x268C5=$(_0x268DB(0x391))[_0x268DB(0x2dc)]()[_$_c25f[3]];$(window)[_$_c25f[5]](_0x268DB(0x2e2),function(){var _0x268F1=_0x268DB;$(window)[_0x268F1(0x1bf)]()>= _0x268C5?$(_0x268F1(0x391))[_0x268F1(0x297)](_0x268F1(0x23a)):$(_0x268F1(0x391))[_$_c25f[101]](_0x268F1(0x23a))})}),$(_0x45ca87(0x132))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26907=_0x45ca87;$(_0x26907(0x1d7))[_0x26907(0x297)](_0x26907(0x16b))});var wer=document[_$_c25f[11]](_0x45ca87(0x34d))[_$_c25f[73]];function sdf(){var _0x27B6B=_0x45ca87;(wer= _$_c25f[18])&& $(_0x27B6B(0x17b))[_0x27B6B(0x297)](_0x27B6B(0x35b))}$(_0x45ca87(0x251))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x2691D=_0x45ca87;$(_0x2691D(0x304))[_0x2691D(0x297)](_0x2691D(0x255)),$(_0x2691D(0x251))[_0x2691D(0x297)](_$_c25f[110])}),$(_0x45ca87(0x2ff))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26933=_0x45ca87;$(_0x26933(0x304))[_0x26933(0x231)](_$_c25f[111]),$(_$_c25f[112])[_0x26933(0x297)](_0x26933(0x16b))}),$(_0x45ca87(0x1e8))[_$_c25f[5]](_$_c25f[14],function(){var _0x26949=_0x45ca87;$(_0x26949(0x304))[_0x26949(0x231)](_0x26949(0x255)),$(_0x26949(0x1d7))[_$_c25f[101]](_0x26949(0x16b)),$(_0x26949(0x251))[_0x26949(0x231)](_0x26949(0x173)),$(_0x26949(0x251))[_0x26949(0x297)](_0x26949(0x2e9))});const images=document[_0x45ca87(0x1f5)](_0x45ca87(0x260)),titles=document[_$_c25f[113]](_0x45ca87(0x34c)),price=document[_$_c25f[113]](_0x45ca87(0x26b)),cantidad=document[_0x45ca87(0x1f5)](_$_c25f[114]),containerimage=document[_$_c25f[11]](_$_c25f[115]),imageContainer=document[_$_c25f[11]](_$_c25f[116]),copy=document[_0x45ca87(0x35f)](_0x45ca87(0x18b)),closeModal=document[_0x45ca87(0x35f)](_0x45ca87(0x313));images[_0x45ca87(0x291)]((_0x2695F)=>{var _0x26975=_0x45ca87;_0x2695F[_0x26975(0x18d)](_0x26975(0x2cc),()=>{var _0x2698B=_0x26975;addImage(_0x2695F[_0x2698B(0x1ef)](_0x2698B(0x143)),_0x2695F[_0x2698B(0x1ef)](_$_c25f[117]))})}),titles[_0x45ca87(0x291)]((_0x269B7)=>{var _0x269A1=_0x45ca87;_0x269B7[_0x269A1(0x18d)](_$_c25f[14],()=>{})});const addImage=(_0x269CD,_0x269F9)=>{var _0x269E3=_0x45ca87;containerimage[_$_c25f[118]][_0x269E3(0x24a)](_0x269E3(0x269)),imageContainer[_0x269E3(0x241)][_0x269E3(0x24a)](_$_c25f[119]),imageContainer[_$_c25f[120]]= _0x269CD,copy[_0x269E3(0x20d)]= _0x269F9};closeModal[_0x45ca87(0x18d)](_0x45ca87(0x2cc),()=>{var _0x26A0F=_0x45ca87;containerimage[_$_c25f[118]][_0x26A0F(0x24a)](_$_c25f[121]),imageContainer[_0x26A0F(0x241)][_0x26A0F(0x24a)](_0x26A0F(0x195))});function limpiarformas(){var _0x278D7=_0x45ca87;document[_0x278D7(0x1bb)](_0x278D7(0x326))[_0x278D7(0x193)]=  ![],document[_0x278D7(0x1bb)](_0x278D7(0x281))[_0x278D7(0x193)]=  ![],document[_0x278D7(0x1bb)](_$_c25f[122])[_0x278D7(0x193)]=  ![];var _0x278C1=document[_0x278D7(0x1bb)](_0x278D7(0x175))[_0x278D7(0x272)]= _$_c25f[18];document[_0x278D7(0x1bb)](_0x278D7(0x303))[_$_c25f[73]]= _$_c25f[18],document[_0x278D7(0x35f)](_$_c25f[123])[_0x278D7(0x211)]= _$_c25f[18];var _0x27869=document[_0x278D7(0x35f)](_0x278D7(0x293));_0x27869[_0x278D7(0x1d4)][_$_c25f[80]]= _0x278D7(0x285);var _0x278AB=document[_0x278D7(0x35f)](_0x278D7(0x345))[_0x278D7(0x211)],_0x27895=parseFloat(_0x278AB[_$_c25f[75]](_$_c25f[59],_$_c25f[18])),_0x27853=document[_$_c25f[11]](_0x278D7(0x264))[_0x278D7(0x20d)]= _0x278AB,_0x2787F=document[_0x278D7(0x1bb)](_0x278D7(0x1b4))[_0x278D7(0x211)]= _$_c25f[18]}function limpiarformase(){var _0x2792F=_0x45ca87;document[_0x2792F(0x1bb)](_$_c25f[124])[_0x2792F(0x193)]=  ![],document[_$_c25f[26]](_0x2792F(0x281))[_0x2792F(0x193)]=  ![],document[_0x2792F(0x1bb)](_0x2792F(0x27e))[_0x2792F(0x193)]=  ![],document[_0x2792F(0x35f)](_0x2792F(0x311))[_$_c25f[73]]= _$_c25f[18];var _0x27945=document[_$_c25f[11]](_$_c25f[125]);_0x27945[_$_c25f[126]][_$_c25f[80]]= _0x2792F(0x285);var _0x2795B=document[_0x2792F(0x35f)](_0x2792F(0x345))[_0x2792F(0x211)],_0x27903=parseFloat(_0x2795B[_0x2792F(0x299)](_$_c25f[59],_$_c25f[18])),_0x27919=document[_$_c25f[11]](_0x2792F(0x264))[_$_c25f[30]]= _0x2795B,_0x278ED=document[_0x2792F(0x1bb)](_0x2792F(0x1b4))[_$_c25f[73]]= _$_c25f[18]}function limpiarformaspl(){var _0x27971=_0x45ca87;document[_0x27971(0x1bb)](_0x27971(0x326))[_$_c25f[79]]=  ![],document[_0x27971(0x1bb)](_$_c25f[124])[_$_c25f[79]]=  ![],document[_0x27971(0x1bb)](_0x27971(0x27e))[_0x27971(0x193)]=  ![];var _0x27987=document[_0x27971(0x1bb)](_0x27971(0x175))[_0x27971(0x272)]= _$_c25f[18];document[_$_c25f[26]](_0x27971(0x303))[_0x27971(0x211)]= _$_c25f[18],document[_$_c25f[26]](_0x27971(0x281))[_0x27971(0x211)]= _$_c25f[18]}function limpiarformaspy(){var _0x279DF=_0x45ca87;document[_$_c25f[26]](_$_c25f[127])[_$_c25f[79]]=  ![],document[_$_c25f[26]](_0x279DF(0x281))[_0x279DF(0x193)]=  ![],document[_$_c25f[26]](_0x279DF(0x265))[_0x279DF(0x193)]=  ![];var _0x279C9=document[_0x279DF(0x1bb)](_0x279DF(0x175))[_$_c25f[71]]= _$_c25f[18];document[_$_c25f[26]](_0x279DF(0x303))[_0x279DF(0x211)]= _$_c25f[18],document[_0x279DF(0x35f)](_0x279DF(0x311))[_0x279DF(0x211)]= _$_c25f[18];var _0x279F5=document[_0x279DF(0x35f)](_0x279DF(0x293));_0x279F5[_0x279DF(0x1d4)][_0x279DF(0x2e4)]= _0x279DF(0x285);var _0x2799D=document[_0x279DF(0x35f)](_0x279DF(0x345))[_0x279DF(0x211)],_0x279B3=parseFloat(_0x2799D[_0x279DF(0x299)](_$_c25f[59],_$_c25f[18])),_0x27A0B=document[_0x279DF(0x35f)](_0x279DF(0x264))[_0x279DF(0x20d)]= _0x2799D}function limpiarfac(){var _0x2783D=_0x45ca87;document[_$_c25f[26]](_0x2783D(0x2ce))[_0x2783D(0x193)]=  ![],document[_0x2783D(0x1bb)](_0x2783D(0x1f8))[_0x2783D(0x193)]=  ![]}function limpiarfac(){var _0x27827=_0x45ca87;document[_$_c25f[26]](_0x27827(0x2ce))[_$_c25f[79]]=  ![],document[_0x27827(0x1bb)](_0x27827(0x1f8))[_$_c25f[79]]=  ![]}function limpiarconsu(){var _0x27811=_0x45ca87;document[_0x27811(0x1bb)](_0x27811(0x1fc))[_0x27811(0x272)]= _$_c25f[18],document[_0x27811(0x1bb)](_0x27811(0x1e5))[_$_c25f[79]]=  ![],document[_0x27811(0x1bb)](_$_c25f[128])[_0x27811(0x193)]=  ![]}function limpiarcliente(){var _0x277FB=_0x45ca87;document[_0x277FB(0x1bb)](_$_c25f[129])[_0x277FB(0x272)]= _$_c25f[18],document[_0x277FB(0x1bb)](_$_c25f[130])[_0x277FB(0x193)]=  ![],document[_0x277FB(0x1bb)](_$_c25f[92])[_0x277FB(0x193)]=  ![],$(_0x277FB(0x389))[_0x277FB(0x297)](_0x277FB(0x2a9))}function linpiarreserdomi(){var _0x27A63=_0x45ca87;document[_0x27A63(0x1bb)](_$_c25f[131])[_0x27A63(0x211)]= _$_c25f[18],document[_0x27A63(0x1bb)](_0x27A63(0x199))[_0x27A63(0x193)]=  ![],document[_$_c25f[26]](_$_c25f[132])[_0x27A63(0x272)]= _$_c25f[133],document[_0x27A63(0x1bb)](_0x27A63(0x32c))[_$_c25f[71]]= _$_c25f[18],document[_0x27A63(0x1bb)](_$_c25f[134])[_0x27A63(0x193)]=  ![],document[_0x27A63(0x1bb)](_$_c25f[135])[_0x27A63(0x272)]= _$_c25f[133],document[_0x27A63(0x1bb)](_0x27A63(0x352))[_0x27A63(0x272)]= _$_c25f[18],limpiaringd(),limpiaringdmap(),document[_0x27A63(0x1bb)](_0x27A63(0x2bf))[_0x27A63(0x211)]= _$_c25f[18]}function linpiarreservar(){var _0x27A79=_0x45ca87;document[_0x27A79(0x1bb)](_$_c25f[134])[_0x27A79(0x193)]=  ![],document[_0x27A79(0x1bb)](_0x27A79(0x1a6))[_0x27A79(0x193)]=  ![],document[_0x27A79(0x1bb)](_0x27A79(0x1ff))[_0x27A79(0x272)]= _$_c25f[133],document[_0x27A79(0x1bb)](_0x27A79(0x352))[_0x27A79(0x272)]= _$_c25f[18]}function linpiardelivery(){var _0x27A4D=_0x45ca87;document[_0x27A4D(0x1bb)](_0x27A4D(0x265))[_0x27A4D(0x193)]=  ![],document[_0x27A4D(0x1bb)](_0x27A4D(0x326))[_0x27A4D(0x193)]=  ![],document[_0x27A4D(0x1bb)](_0x27A4D(0x281))[_0x27A4D(0x193)]=  ![],document[_0x27A4D(0x1bb)](_0x27A4D(0x27e))[_0x27A4D(0x193)]=  ![],limpiaringd(),limpiaringdmap(),document[_0x27A4D(0x1bb)](_0x27A4D(0x199))[_0x27A4D(0x193)]=  ![],document[_$_c25f[26]](_$_c25f[136])[_0x27A4D(0x193)]=  ![],document[_0x27A4D(0x1bb)](_0x27A4D(0x2cf))[_0x27A4D(0x272)]= _$_c25f[133],document[_0x27A4D(0x1bb)](_$_c25f[137])[_0x27A4D(0x272)]= _$_c25f[18],document[_0x27A4D(0x1bb)](_0x27A4D(0x361))[_0x27A4D(0x211)]= _$_c25f[18],document[_0x27A4D(0x1bb)](_$_c25f[138])[_0x27A4D(0x211)]= _$_c25f[18],document[_0x27A4D(0x1bb)](_$_c25f[131])[_0x27A4D(0x211)]= _$_c25f[18],document[_$_c25f[26]](_$_c25f[139])[_$_c25f[71]]= _$_c25f[18],document[_0x27A4D(0x1bb)](_0x27A4D(0x303))[_0x27A4D(0x211)]= _$_c25f[18]}function _0x4528(_0x26EB3,_0x26EDF){var _0x26EC9=_0x39ac();return _0x4528= function(_0x26F21,_0x26F0B){_0x26F21= _0x26F21- 0x12b;var _0x26EF5=_0x26EC9[_0x26F21];return _0x26EF5},_0x4528(_0x26EB3,_0x26EDF)}function limpiaringd(){var _0x27A21=_0x45ca87;document[_$_c25f[26]](_0x27A21(0x2bf))[_$_c25f[79]]=  ![]}function limpiaringdmap(){var _0x27A37=_0x45ca87;document[_0x27A37(0x1bb)](_0x27A37(0x38f))[_0x27A37(0x193)]=  ![]}$(_0x45ca87(0x37e))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26A25=_0x45ca87;$(_0x26A25(0x243))[_0x26A25(0x231)](_0x26A25(0x1e2)),$(_0x26A25(0x389))[_0x26A25(0x231)](_0x26A25(0x2a9)),$(_0x26A25(0x1b6))(_0x26A25(0x1e2))}),$(_$_c25f[141])[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26A3B=_0x45ca87;$(_0x26A3B(0x243))[_$_c25f[97]](_$_c25f[140]),$(_0x26A3B(0x389))[_0x26A3B(0x231)](_0x26A3B(0x2a9))}),$(_$_c25f[142])[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26A51=_0x45ca87;$(_0x26A51(0x243))[_$_c25f[101]](_0x26A51(0x1e2)),$(_0x26A51(0x389))[_0x26A51(0x297)](_0x26A51(0x2a9))}),$(_0x45ca87(0x2fa))[_$_c25f[5]](_$_c25f[14],function(){var _0x26A67=_0x45ca87;$(_0x26A67(0x2e6))[_0x26A67(0x297)](_0x26A67(0x2ee)),$(_0x26A67(0x2d2))[_0x26A67(0x231)](_0x26A67(0x37b)),$(_0x26A67(0x1ec))[_0x26A67(0x231)](_0x26A67(0x250))}),$(_0x45ca87(0x2bb))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26A7D=_0x45ca87;$(_0x26A7D(0x2d2))[_$_c25f[97]](_0x26A7D(0x37b)),$(_$_c25f[143])[_0x26A7D(0x297)](_0x26A7D(0x37b)),$(_0x26A7D(0x1ec))[_0x26A7D(0x297)](_0x26A7D(0x250))}),$(_0x45ca87(0x279))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26A93=_0x45ca87;$(_0x26A93(0x2e6))[_0x26A93(0x231)](_$_c25f[144])}),$(_0x45ca87(0x214))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26AA9=_0x45ca87;$(_$_c25f[143])[_0x26AA9(0x231)](_$_c25f[145]),$(_0x26AA9(0x1ec))[_0x26AA9(0x231)](_$_c25f[146])}),$(_$_c25f[148])[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26ABF=_0x45ca87;$(_0x26ABF(0x2f9))[_$_c25f[97]](_$_c25f[144]),$(_0x26ABF(0x2b6))[_$_c25f[101]](_$_c25f[147]),$(_0x26ABF(0x185))[_0x26ABF(0x231)](_0x26ABF(0x266))}),$(_$_c25f[150])[_$_c25f[5]](_$_c25f[14],function(){var _0x26AD5=_0x45ca87;$(_0x26AD5(0x2f9))[_$_c25f[101]](_0x26AD5(0x2ee)),$(_$_c25f[149])[_0x26AD5(0x297)](_0x26AD5(0x1f1)),$(_0x26AD5(0x185))[_0x26AD5(0x297)](_0x26AD5(0x266))});var map;function initialize(){var _0x277E5=_0x45ca87,_0x277B9={'center': new google[(_0x277E5(0x2d3))][_$_c25f[151]](-0.1769941,-78.478394,0x11),'zoom':0x11};map=  new google[(_0x277E5(0x2d3))][(_0x277E5(0x2c2))](document[_0x277E5(0x1bb)](_0x277E5(0x393)),_0x277B9);var _0x277CF=document[_0x277E5(0x273)](_0x277E5(0x290)),_0x277A3= new GeolocationControl(_0x277CF,map);map[_0x277E5(0x181)][google[_0x277E5(0x2d3)][_0x277E5(0x2bc)][_0x277E5(0x13e)]][_0x277E5(0x336)](_0x277CF)}function GeolocationControl(_0x271F7,_0x27223){var _0x27239=_0x45ca87,_0x2720D=document[_$_c25f[41]](_$_c25f[152]);_0x2720D[_$_c25f[126]][_0x27239(0x1c0)]= _0x27239(0x235),_0x2720D[_0x27239(0x1d4)][_0x27239(0x2dd)]= _0x27239(0x17a),_0x2720D[_0x27239(0x1d4)][_0x27239(0x213)]= _0x27239(0x263),_0x2720D[_0x27239(0x1d4)][_$_c25f[153]]= _0x27239(0x392),_0x2720D[_0x27239(0x1d4)][_0x27239(0x247)]= _0x27239(0x22a),_0x2720D[_0x27239(0x1d4)][_0x27239(0x1a1)]= _$_c25f[154],_0x2720D[_0x27239(0x1d4)][_0x27239(0x37c)]= _0x27239(0x300),_0x2720D[_0x27239(0x1d4)][_0x27239(0x20f)]= _$_c25f[155],_0x2720D[_0x27239(0x1d4)][_$_c25f[156]]= _0x27239(0x28e),_0x2720D[_0x27239(0x1d4)][_0x27239(0x35a)]= _$_c25f[157],_0x2720D[_0x27239(0x1d4)][_0x27239(0x1eb)]= _$_c25f[158],_0x2720D[_0x27239(0x261)]= _$_c25f[159],_0x271F7[_0x27239(0x344)](_0x2720D);var _0x271E1=document[_0x27239(0x273)](_$_c25f[152]);_0x271E1[_0x27239(0x1d4)][_0x27239(0x316)]= _0x27239(0x1f3),_0x271E1[_0x27239(0x1d4)][_0x27239(0x38c)]= _$_c25f[160],_0x271E1[_$_c25f[126]][_$_c25f[161]]= _0x27239(0x392),_0x271E1[_0x27239(0x1d4)][_$_c25f[162]]= _0x27239(0x196),_0x271E1[_0x27239(0x1d4)][_0x27239(0x23f)]= _0x27239(0x196),_0x271E1[_0x27239(0x1d4)][_0x27239(0x2ca)]= _$_c25f[163],_0x2720D[_0x27239(0x1d4)][_0x27239(0x37c)]= _0x27239(0x300),_0x271E1[_0x27239(0x20d)]= _$_c25f[164],_0x2720D[_0x27239(0x344)](_0x271E1),google[_0x27239(0x2d3)][_0x27239(0x325)][_0x27239(0x2ae)](_0x2720D,_0x27239(0x2cc),geolocate)}function geolocate(){var _0x27081=_0x45ca87;navigator[_$_c25f[165]]&& navigator[_0x27081(0x157)][_0x27081(0x358)](function(_0x27131){var _0x270C3=_0x27081,_0x27097= new google[(_0x270C3(0x2d3))][(_0x270C3(0x36c))](_0x27131[_$_c25f[166]][_0x270C3(0x2e3)],_0x27131[_0x270C3(0x1be)][_0x270C3(0x36a)]);let _0x2715D=_$_c25f[18];var _0x27173=document[_0x270C3(0x35f)](_$_c25f[167])[_0x270C3(0x20d)]= _0x27097,_0x2711B=document[_0x270C3(0x1bb)](_0x270C3(0x2e3))[_$_c25f[73]],_0x270AD=_0x2711B[_0x270C3(0x299)](_$_c25f[168],_$_c25f[18]),_0x270EF=_0x270AD[_0x270C3(0x299)](_$_c25f[169],_$_c25f[18]),_0x27147=_0x270EF[_0x270C3(0x299)](_$_c25f[62],_$_c25f[18]),_0x270D9=document[_0x270C3(0x1bb)](_0x270C3(0x361))[_$_c25f[30]]= _0x270C3(0x360)+ _0x27147,_0x27189=document[_0x270C3(0x35f)](_0x270C3(0x36f)),_0x27105= new google[_$_c25f[170]][(_0x270C3(0x35c))]();_0x27105[_$_c25f[172]]({'location':_0x27097},function(_0x271B5,_0x271CB){var _0x2719F=_0x270C3;_0x271CB=== _$_c25f[171]?_0x271B5[0x0]?_0x27189[_0x2719F(0x20d)]= _0x2719F(0x131)+ _0x271B5[0x0][_0x2719F(0x1a5)]:_0x27189[_0x2719F(0x20d)]= _0x2719F(0x19b):_0x27189[_0x2719F(0x20d)]= _0x2719F(0x397)+ _0x271CB}),marker=  new google[(_0x270C3(0x2d3))][_$_c25f[174]]({'position':_0x27097,'draggable':!![],'animation':google[_0x270C3(0x2d3)][_$_c25f[173]][_0x270C3(0x215)],'map':map}),map[_0x270C3(0x2f6)](_0x27097)})}initialize();var ws=document[_0x45ca87(0x1bb)](_0x45ca87(0x210))[_0x45ca87(0x211)];document[_0x45ca87(0x1bb)](_0x45ca87(0x156))[_0x45ca87(0x20d)]= ws,$(_$_c25f[175])[_0x45ca87(0x1d9)]({'loop':![],'margin':0xa,'nav':!![],'responsive':{0x0:{'items':0x1},0x258:{'items':0x2},0x3e8:{'items':0x3}}}),$(_0x45ca87(0x33f))[_$_c25f[5]](_$_c25f[14],function(){var _0x26AEB=_0x45ca87;$(_0x26AEB(0x33f))[_$_c25f[97]](_0x26AEB(0x2af))});var recaptcha_response1=_$_c25f[18];function submitUserForm1(){var _0x27B81=_0x45ca87;if(recaptcha_response1[_$_c25f[83]]== 0x0){return document[_0x27B81(0x1bb)](_0x27B81(0x2c8))[_$_c25f[30]]= _0x27B81(0x1ae),![]};$(_0x27B81(0x2f5))[_0x27B81(0x22d)](0x7d0),$(_0x27B81(0x319))[_0x27B81(0x2b2)](_$_c25f[176]),$(_0x27B81(0x2ed))[_0x27B81(0x2cc)](function(){var _0x27B97=_0x27B81;location[_0x27B97(0x230)]()}),goToPagep()}function verifyCaptcha1(_0x27FE3){var _0x27FF9=_0x45ca87;recaptcha_response1= _0x27FE3,document[_$_c25f[26]](_0x27FF9(0x2c8))[_0x27FF9(0x20d)]= _$_c25f[18]}$(_$_c25f[178])[_$_c25f[14]](function(){var _0x26B01=_0x45ca87;$(_$_c25f[177])[_0x26B01(0x146)](_0x26B01(0x338),_$_c25f[133])}),$(_0x45ca87(0x191))[_$_c25f[5]](_0x45ca87(0x2cc),function(){var _0x26B17=_0x45ca87;$(_0x26B17(0x134))[_0x26B17(0x297)](_$_c25f[179])}),$(_0x45ca87(0x17c))[_$_c25f[5]](_$_c25f[14],function(){var _0x26B2D=_0x45ca87;$(_0x26B2D(0x134))[_0x26B2D(0x379)](_0x26B2D(0x237)),document[_0x26B2D(0x1bb)](_0x26B2D(0x25b))[_0x26B2D(0x272)]= _$_c25f[18],$(_0x26B2D(0x1b0))[_0x26B2D(0x146)](_0x26B2D(0x338),_0x26B2D(0x2c9))}),setTimeout(function(){var _0x26B43=_0x45ca87;$(_$_c25f[180])[_0x26B43(0x343)](0x3e8)},0x2134);function obtenerdatos2(){var _0x27ABB=_0x45ca87,_0x27AFD=document[_0x27ABB(0x1bb)](_0x27ABB(0x25b))[_0x27ABB(0x272)];if(_0x27AFD== null|| _0x27AFD[_0x27ABB(0x2d4)]== 0x0|| /^\s+$/[_0x27ABB(0x212)](_0x27AFD)){return document[_0x27ABB(0x1bb)](_0x27ABB(0x322))[_0x27ABB(0x20d)]= _0x27ABB(0x34b),document[_0x27ABB(0x1bb)](_0x27ABB(0x322))[_0x27ABB(0x1d4)]= _$_c25f[181]};document[_0x27ABB(0x1bb)](_0x27ABB(0x25b))[_0x27ABB(0x272)]= _$_c25f[18],document[_$_c25f[26]](_$_c25f[182])[_0x27ABB(0x1d4)]= _0x27ABB(0x1e7);var _0x27AD1=_0x27ABB(0x17e)+ _0x27AFD,_0x27AE7= new MobileDetect(window[_0x27ABB(0x27f)][_0x27ABB(0x15e)]);_0x27AE7[_0x27ABB(0x1f4)]()?window[_0x27ABB(0x2c3)](document[_0x27ABB(0x1bb)](_$_c25f[183])[_0x27ABB(0x2ab)]= _0x27ABB(0x151)+ _0x27AD1):window[_0x27ABB(0x2c3)](document[_0x27ABB(0x1bb)](_0x27ABB(0x373))[_0x27ABB(0x2ab)]= _0x27ABB(0x2c4)+ _0x27AD1),$(_0x27ABB(0x1b0))[_$_c25f[184]](_0x27ABB(0x338),_0x27ABB(0x2c9))}function _0x39ac(){var _0x26E9D=[_$_c25f[185],_$_c25f[186],_$_c25f[144],_$_c25f[187],_$_c25f[188],_$_c25f[189],_$_c25f[190],_$_c25f[191],_$_c25f[192],_$_c25f[193],_$_c25f[194],_$_c25f[195],_$_c25f[196],_$_c25f[197],_$_c25f[198],_$_c25f[199],_$_c25f[200],_$_c25f[201],_$_c25f[202],_$_c25f[203],_$_c25f[204],_$_c25f[205],_$_c25f[206],_$_c25f[207],_$_c25f[208],_$_c25f[209],_$_c25f[210],_$_c25f[211],_$_c25f[212],_$_c25f[213],_$_c25f[214],_$_c25f[215],_$_c25f[216],_$_c25f[217],_$_c25f[218],_$_c25f[219],_$_c25f[220],_$_c25f[123],_$_c25f[221],_$_c25f[222],_$_c25f[223],_$_c25f[224],_$_c25f[225],_$_c25f[226],_$_c25f[227],_$_c25f[228],_$_c25f[229],_$_c25f[230],_$_c25f[231],_$_c25f[232],_$_c25f[233],_$_c25f[234],_$_c25f[13],_$_c25f[235],_$_c25f[236],_$_c25f[237],_$_c25f[238],_$_c25f[239],_$_c25f[127],_$_c25f[240],_$_c25f[241],_$_c25f[242],_$_c25f[243],_$_c25f[244],_$_c25f[137],_$_c25f[245],_$_c25f[246],_$_c25f[247],_$_c25f[248],_$_c25f[107],_$_c25f[249],_$_c25f[250],_$_c25f[251],_$_c25f[9],_$_c25f[1],_$_c25f[81],_$_c25f[252],_$_c25f[253],_$_c25f[254],_$_c25f[255],_$_c25f[256],_$_c25f[257],_$_c25f[258],_$_c25f[259],_$_c25f[96],_$_c25f[260],_$_c25f[261],_$_c25f[262],_$_c25f[47],_$_c25f[68],_$_c25f[263],_$_c25f[264],_$_c25f[265],_$_c25f[266],_$_c25f[267],_$_c25f[268],_$_c25f[269],_$_c25f[270],_$_c25f[271],_$_c25f[272],_$_c25f[12],_$_c25f[273],_$_c25f[274],_$_c25f[84],_$_c25f[275],_$_c25f[276],_$_c25f[277],_$_c25f[278],_$_c25f[279],_$_c25f[280],_$_c25f[281],_$_c25f[282],_$_c25f[283],_$_c25f[284],_$_c25f[285],_$_c25f[11],_$_c25f[286],_$_c25f[131],_$_c25f[287],_$_c25f[288],_$_c25f[289],_$_c25f[290],_$_c25f[291],_$_c25f[292],_$_c25f[293],_$_c25f[294],_$_c25f[295],_$_c25f[296],_$_c25f[151],_$_c25f[297],_$_c25f[298],_$_c25f[299],_$_c25f[300],_$_c25f[301],_$_c25f[302],_$_c25f[183],_$_c25f[303],_$_c25f[304],_$_c25f[98],_$_c25f[305],_$_c25f[306],_$_c25f[307],_$_c25f[77],_$_c25f[145],_$_c25f[308],_$_c25f[309],_$_c25f[310],_$_c25f[311],_$_c25f[312],_$_c25f[313],_$_c25f[314],_$_c25f[315],_$_c25f[316],_$_c25f[317],_$_c25f[318],_$_c25f[319],_$_c25f[320],_$_c25f[321],_$_c25f[322],_$_c25f[323],_$_c25f[324],_$_c25f[325],_$_c25f[326],_$_c25f[327],_$_c25f[328],_$_c25f[329],_$_c25f[330],_$_c25f[331],_$_c25f[332],_$_c25f[333],_$_c25f[334],_$_c25f[335],_$_c25f[336],_$_c25f[70],_$_c25f[337],_$_c25f[338],_$_c25f[339],_$_c25f[340],_$_c25f[341],_$_c25f[342],_$_c25f[343],_$_c25f[344],_$_c25f[177],_$_c25f[345],_$_c25f[346],_$_c25f[58],_$_c25f[347],_$_c25f[348],_$_c25f[349],_$_c25f[350],_$_c25f[351],_$_c25f[34],_$_c25f[352],_$_c25f[353],_$_c25f[354],_$_c25f[355],_$_c25f[356],_$_c25f[120],_$_c25f[357],_$_c25f[358],_$_c25f[184],_$_c25f[359],_$_c25f[360],_$_c25f[361],_$_c25f[362],_$_c25f[363],_$_c25f[364],_$_c25f[365],_$_c25f[366],_$_c25f[367],_$_c25f[368],_$_c25f[369],_$_c25f[370],_$_c25f[371],_$_c25f[372],_$_c25f[373],_$_c25f[374],_$_c25f[165],_$_c25f[375],_$_c25f[103],_$_c25f[376],_$_c25f[377],_$_c25f[378],_$_c25f[379],_$_c25f[380],_$_c25f[381],_$_c25f[382],_$_c25f[78],_$_c25f[383],_$_c25f[384],_$_c25f[385],_$_c25f[67],_$_c25f[386],_$_c25f[387],_$_c25f[388],_$_c25f[389],_$_c25f[390],_$_c25f[391],_$_c25f[392],_$_c25f[393],_$_c25f[394],_$_c25f[395],_$_c25f[396],_$_c25f[397],_$_c25f[398],_$_c25f[110],_$_c25f[399],_$_c25f[139],_$_c25f[400],_$_c25f[401],_$_c25f[402],_$_c25f[403],_$_c25f[404],_$_c25f[405],_$_c25f[406],_$_c25f[407],_$_c25f[408],_$_c25f[409],_$_c25f[410],_$_c25f[411],_$_c25f[412],_$_c25f[413],_$_c25f[414],_$_c25f[415],_$_c25f[416],_$_c25f[85],_$_c25f[417],_$_c25f[418],_$_c25f[419],_$_c25f[420],_$_c25f[421],_$_c25f[52],_$_c25f[422],_$_c25f[423],_$_c25f[424],_$_c25f[178],_$_c25f[425],_$_c25f[79],_$_c25f[426],_$_c25f[119],_$_c25f[427],_$_c25f[428],_$_c25f[429],_$_c25f[87],_$_c25f[430],_$_c25f[431],_$_c25f[432],_$_c25f[433],_$_c25f[434],_$_c25f[435],_$_c25f[436],_$_c25f[437],_$_c25f[438],_$_c25f[439],_$_c25f[440],_$_c25f[441],_$_c25f[136],_$_c25f[442],_$_c25f[443],_$_c25f[444],_$_c25f[445],_$_c25f[446],_$_c25f[447],_$_c25f[448],_$_c25f[449],_$_c25f[450],_$_c25f[451],_$_c25f[452],_$_c25f[453],_$_c25f[454],_$_c25f[455],_$_c25f[456],_$_c25f[457],_$_c25f[458],_$_c25f[105],_$_c25f[459],_$_c25f[460],_$_c25f[26],_$_c25f[461],_$_c25f[462],_$_c25f[166],_$_c25f[463],_$_c25f[464],_$_c25f[465],_$_c25f[466],_$_c25f[467],_$_c25f[468],_$_c25f[469],_$_c25f[470],_$_c25f[37],_$_c25f[471],_$_c25f[109],_$_c25f[472],_$_c25f[473],_$_c25f[100],_$_c25f[474],_$_c25f[475],_$_c25f[99],_$_c25f[476],_$_c25f[477],_$_c25f[478],_$_c25f[479],_$_c25f[126],_$_c25f[480],_$_c25f[481],_$_c25f[112],_$_c25f[482],_$_c25f[483],_$_c25f[484],_$_c25f[485],_$_c25f[486],_$_c25f[487],_$_c25f[488],_$_c25f[489],_$_c25f[490],_$_c25f[491],_$_c25f[140],_$_c25f[492],_$_c25f[493],_$_c25f[130],_$_c25f[494],_$_c25f[495],_$_c25f[496],_$_c25f[497],_$_c25f[498],_$_c25f[499],_$_c25f[500],_$_c25f[501],_$_c25f[502],_$_c25f[503],_$_c25f[504],_$_c25f[147],_$_c25f[505],_$_c25f[506],_$_c25f[507],_$_c25f[113],_$_c25f[508],_$_c25f[509],_$_c25f[128],_$_c25f[510],_$_c25f[511],_$_c25f[31],_$_c25f[129],_$_c25f[512],_$_c25f[513],_$_c25f[135],_$_c25f[514],_$_c25f[515],_$_c25f[516],_$_c25f[517],_$_c25f[518],_$_c25f[88],_$_c25f[519],_$_c25f[520],_$_c25f[521],_$_c25f[522],_$_c25f[523],_$_c25f[524],_$_c25f[525],_$_c25f[30],_$_c25f[526],_$_c25f[527],_$_c25f[528],_$_c25f[73],_$_c25f[93],_$_c25f[529],_$_c25f[530],_$_c25f[531],_$_c25f[532],_$_c25f[533],_$_c25f[534],_$_c25f[535],_$_c25f[536],_$_c25f[537],_$_c25f[538],_$_c25f[539],_$_c25f[540],_$_c25f[541],_$_c25f[542],_$_c25f[543],_$_c25f[544],_$_c25f[545],_$_c25f[546],_$_c25f[547],_$_c25f[548],_$_c25f[28],_$_c25f[10],_$_c25f[549],_$_c25f[550],_$_c25f[551],_$_c25f[552],_$_c25f[553],_$_c25f[554],_$_c25f[555],_$_c25f[556],_$_c25f[101],_$_c25f[557],_$_c25f[558],_$_c25f[559],_$_c25f[560],_$_c25f[561],_$_c25f[179],_$_c25f[562],_$_c25f[563],_$_c25f[564],_$_c25f[134],_$_c25f[565],_$_c25f[566],_$_c25f[567],_$_c25f[568],_$_c25f[569],_$_c25f[118],_$_c25f[570],_$_c25f[571],_$_c25f[572],_$_c25f[573],_$_c25f[574],_$_c25f[575],_$_c25f[576],_$_c25f[108],_$_c25f[577],_$_c25f[578],_$_c25f[579],_$_c25f[580],_$_c25f[581],_$_c25f[582],_$_c25f[146],_$_c25f[583],_$_c25f[584],_$_c25f[585],_$_c25f[586],_$_c25f[111],_$_c25f[587],_$_c25f[588],_$_c25f[589],_$_c25f[590],_$_c25f[591],_$_c25f[182],_$_c25f[592],_$_c25f[593],_$_c25f[594],_$_c25f[595],_$_c25f[596],_$_c25f[597],_$_c25f[598],_$_c25f[599],_$_c25f[76],_$_c25f[124],_$_c25f[600],_$_c25f[601],_$_c25f[602],_$_c25f[121],_$_c25f[603],_$_c25f[604],_$_c25f[605],_$_c25f[606],_$_c25f[607],_$_c25f[608],_$_c25f[609],_$_c25f[610],_$_c25f[71],_$_c25f[41],_$_c25f[611],_$_c25f[612],_$_c25f[613],_$_c25f[614],_$_c25f[615],_$_c25f[616],_$_c25f[617],_$_c25f[57],_$_c25f[618],_$_c25f[619],_$_c25f[122],_$_c25f[620],_$_c25f[621],_$_c25f[90],_$_c25f[622],_$_c25f[623],_$_c25f[624],_$_c25f[625],_$_c25f[626],_$_c25f[627],_$_c25f[628],_$_c25f[629],_$_c25f[630],_$_c25f[631],_$_c25f[632],_$_c25f[633],_$_c25f[634],_$_c25f[635],_$_c25f[152],_$_c25f[27],_$_c25f[636],_$_c25f[125],_$_c25f[637],_$_c25f[638],_$_c25f[639],_$_c25f[97],_$_c25f[640],_$_c25f[75],_$_c25f[641],_$_c25f[642],_$_c25f[643],_$_c25f[644],_$_c25f[645],_$_c25f[646],_$_c25f[647],_$_c25f[648],_$_c25f[649],_$_c25f[7],_$_c25f[650],_$_c25f[651],_$_c25f[652],_$_c25f[653],_$_c25f[35],_$_c25f[654],_$_c25f[655],_$_c25f[95],_$_c25f[656],_$_c25f[657],_$_c25f[658],_$_c25f[659],_$_c25f[660],_$_c25f[661],_$_c25f[662],_$_c25f[663],_$_c25f[664],_$_c25f[106],_$_c25f[149],_$_c25f[665],_$_c25f[666],_$_c25f[667],_$_c25f[668],_$_c25f[669],_$_c25f[670],_$_c25f[671],_$_c25f[672],_$_c25f[138],_$_c25f[673],_$_c25f[674],_$_c25f[675],_$_c25f[676],_$_c25f[677],_$_c25f[678],_$_c25f[679],_$_c25f[680],_$_c25f[681],_$_c25f[682],_$_c25f[156],_$_c25f[683],_$_c25f[14],_$_c25f[684],_$_c25f[92],_$_c25f[132],_$_c25f[685],_$_c25f[686],_$_c25f[143],_$_c25f[170],_$_c25f[83],_$_c25f[687],_$_c25f[688],_$_c25f[689],_$_c25f[69],_$_c25f[102],_$_c25f[690],_$_c25f[691],_$_c25f[692],_$_c25f[693],_$_c25f[694],_$_c25f[695],_$_c25f[696],_$_c25f[697],_$_c25f[4],_$_c25f[698],_$_c25f[80],_$_c25f[699],_$_c25f[700],_$_c25f[701],_$_c25f[29],_$_c25f[702],_$_c25f[703],_$_c25f[704]];_0x39ac= function(){return _0x26E9D};return _0x39ac()}function goToPageayuda(){var _0x27433=_0x45ca87,_0x2748B=document[_0x27433(0x1bb)](_0x27433(0x28c))[_0x27433(0x272)],_0x27475=document[_$_c25f[26]](_0x27433(0x2d7))[_$_c25f[71]],_0x274A1=document[_$_c25f[26]](_0x27433(0x2f0))[_$_c25f[71]],_0x2741D=document[_0x27433(0x1bb)](_0x27433(0x2fe))[_$_c25f[71]];$(_0x27433(0x18c))[_0x27433(0x315)](function(){var _0x274CD=_0x27433;return document[_0x274CD(0x1bb)](_0x274CD(0x210))[_0x274CD(0x20d)]= Math[_$_c25f[660]](Math[_0x274CD(0x337)]()* 0x3e7)+ 0x3e8});var _0x27449=document[_0x27433(0x35f)](_0x27433(0x18c))[_0x27433(0x272)],_0x274B7=_0x27433(0x324)+ _$_c25f[84]+ _0x27433(0x368)+ _0x27433(0x137)+ _0x27449+ _$_c25f[84]+ _0x27433(0x2f1)+ _0x27433(0x353)+ _0x27433(0x353)+ _0x27433(0x2fc)+ _$_c25f[84]+ _0x2748B+ _$_c25f[58]+ _0x27433(0x353)+ _$_c25f[84]+ _0x27433(0x170)+ _0x27433(0x353)+ _0x27475+ _0x27433(0x137)+ _0x27433(0x353)+ _0x27433(0x353)+ _0x27433(0x28a)+ _0x27433(0x353)+ _0x274A1+ _$_c25f[58]+ _0x27433(0x353)+ _$_c25f[189]+ _0x27433(0x353)+ _0x27433(0x353)+ _0x27433(0x385)+ _0x27433(0x137)+ _0x2748B+ _$_c25f[58]+ _0x27433(0x396)+ _$_c25f[84]+ _0x27433(0x353)+ _0x27433(0x192)+ _0x27433(0x137)+ _$_c25f[705],_0x2745F= new MobileDetect(window[_0x27433(0x27f)][_0x27433(0x15e)]);_0x2745F[_$_c25f[507]]()?window[_$_c25f[676]](document[_0x27433(0x1bb)](_$_c25f[706])[_0x27433(0x2ab)]= _0x27433(0x151)+ _0x274B7):window[_0x27433(0x2c3)](document[_0x27433(0x1bb)](_0x27433(0x340))[_0x27433(0x2ab)]= _0x27433(0x2c4)+ _0x274B7)}var recaptcha_response2=_$_c25f[18];function submitUserForm2(){var _0x27BAD=_0x45ca87;if(recaptcha_response2[_$_c25f[83]]== 0x0){return document[_0x27BAD(0x1bb)](_$_c25f[477])[_0x27BAD(0x20d)]= _0x27BAD(0x1ae),![]};$(_0x27BAD(0x2bd))[_0x27BAD(0x22d)](0x7d0),$(_0x27BAD(0x197))[_0x27BAD(0x2b2)](_0x27BAD(0x1e9)),goToPageayuda()}function verifyCaptcha2(_0x28025){var _0x2800F=_0x45ca87;recaptcha_response2= _0x28025,document[_0x2800F(0x1bb)](_0x2800F(0x1d1))[_$_c25f[30]]= _$_c25f[18]}var paises=[{'nombrePais':_0x45ca87(0x1fa),'codPais':_$_c25f[707]},{'nombrePais':_0x45ca87(0x1cb),'codPais':_$_c25f[708]},{'nombrePais':_0x45ca87(0x314),'codPais':_$_c25f[709]},{'nombrePais':_0x45ca87(0x362),'codPais':_$_c25f[710]},{'nombrePais':_0x45ca87(0x1df),'codPais':_$_c25f[711]},{'nombrePais':_0x45ca87(0x1e6),'codPais':_$_c25f[712]},{'nombrePais':_0x45ca87(0x2a6),'codPais':_$_c25f[713]},{'nombrePais':_0x45ca87(0x164),'codPais':_$_c25f[714]},{'nombrePais':_$_c25f[715],'codPais':_$_c25f[716]},{'nombrePais':_$_c25f[717],'codPais':_$_c25f[718]},{'nombrePais':_$_c25f[719],'codPais':_$_c25f[720]},{'nombrePais':_$_c25f[721],'codPais':_$_c25f[722]},{'nombrePais':_0x45ca87(0x133),'codPais':_$_c25f[723]},{'nombrePais':_$_c25f[724],'codPais':_$_c25f[725]},{'nombrePais':_0x45ca87(0x1ea),'codPais':_$_c25f[726]},{'nombrePais':_0x45ca87(0x218),'codPais':_$_c25f[727]},{'nombrePais':_0x45ca87(0x21e),'codPais':_$_c25f[728]},{'nombrePais':_$_c25f[729],'codPais':_$_c25f[730]},{'nombrePais':_0x45ca87(0x1a9),'codPais':_$_c25f[731]},{'nombrePais':_0x45ca87(0x200),'codPais':_$_c25f[732]},{'nombrePais':_0x45ca87(0x287),'codPais':_$_c25f[733]},{'nombrePais':_0x45ca87(0x1f7),'codPais':_$_c25f[734]},{'nombrePais':_0x45ca87(0x232),'codPais':_$_c25f[735]},{'nombrePais':_$_c25f[736],'codPais':_$_c25f[737]},{'nombrePais':_0x45ca87(0x204),'codPais':_$_c25f[738]},{'nombrePais':_$_c25f[739],'codPais':_$_c25f[740]},{'nombrePais':_0x45ca87(0x35e),'codPais':_$_c25f[741]},{'nombrePais':_0x45ca87(0x16a),'codPais':_$_c25f[742]},{'nombrePais':_$_c25f[743],'codPais':_$_c25f[744]},{'nombrePais':_0x45ca87(0x223),'codPais':_$_c25f[745]},{'nombrePais':_0x45ca87(0x155),'codPais':_$_c25f[746]},{'nombrePais':_0x45ca87(0x179),'codPais':_$_c25f[747]},{'nombrePais':_0x45ca87(0x2b9),'codPais':_$_c25f[748]},{'nombrePais':_0x45ca87(0x226),'codPais':_$_c25f[749]},{'nombrePais':_0x45ca87(0x267),'codPais':_$_c25f[750]},{'nombrePais':_0x45ca87(0x32b),'codPais':_$_c25f[751]},{'nombrePais':_0x45ca87(0x312),'codPais':_$_c25f[752]},{'nombrePais':_0x45ca87(0x1c2),'codPais':_$_c25f[753]},{'nombrePais':_0x45ca87(0x34e),'codPais':_$_c25f[754]},{'nombrePais':_$_c25f[755],'codPais':_$_c25f[756]},{'nombrePais':_0x45ca87(0x16e),'codPais':_$_c25f[757]},{'nombrePais':_0x45ca87(0x1db),'codPais':_$_c25f[758]},{'nombrePais':_0x45ca87(0x2e5),'codPais':_$_c25f[759]},{'nombrePais':_0x45ca87(0x24c),'codPais':_$_c25f[760]},{'nombrePais':_0x45ca87(0x270),'codPais':_$_c25f[761]},{'nombrePais':_0x45ca87(0x138),'codPais':_$_c25f[762]},{'nombrePais':_0x45ca87(0x225),'codPais':_$_c25f[763]},{'nombrePais':_0x45ca87(0x398),'codPais':_$_c25f[764]},{'nombrePais':_$_c25f[765],'codPais':_$_c25f[766]},{'nombrePais':_$_c25f[767],'codPais':_$_c25f[768]},{'nombrePais':_0x45ca87(0x276),'codPais':_$_c25f[769]},{'nombrePais':_$_c25f[770],'codPais':_$_c25f[771]},{'nombrePais':_0x45ca87(0x30f),'codPais':_$_c25f[772]},{'nombrePais':_0x45ca87(0x31d),'codPais':_$_c25f[773]},{'nombrePais':_$_c25f[774],'codPais':_$_c25f[775]},{'nombrePais':_0x45ca87(0x2cd),'codPais':_$_c25f[776]},{'nombrePais':_0x45ca87(0x29e),'codPais':_$_c25f[777]},{'nombrePais':_0x45ca87(0x30e),'codPais':_$_c25f[778]},{'nombrePais':_0x45ca87(0x2ac),'codPais':_$_c25f[779]},{'nombrePais':_0x45ca87(0x15c),'codPais':_$_c25f[780]},{'nombrePais':_0x45ca87(0x1ab),'codPais':_$_c25f[781]},{'nombrePais':_0x45ca87(0x178),'codPais':_$_c25f[782]},{'nombrePais':_0x45ca87(0x366),'codPais':_$_c25f[783]},{'nombrePais':_0x45ca87(0x19c),'codPais':_$_c25f[784]},{'nombrePais':_0x45ca87(0x31f),'codPais':_$_c25f[785]},{'nombrePais':_$_c25f[786],'codPais':_$_c25f[787]},{'nombrePais':_0x45ca87(0x275),'codPais':_$_c25f[788]},{'nombrePais':_0x45ca87(0x2ea),'codPais':_$_c25f[789]},{'nombrePais':_0x45ca87(0x390),'codPais':_$_c25f[790]},{'nombrePais':_0x45ca87(0x1ed),'codPais':_$_c25f[791]},{'nombrePais':_0x45ca87(0x153),'codPais':_$_c25f[792]},{'nombrePais':_0x45ca87(0x317),'codPais':_$_c25f[793]},{'nombrePais':_0x45ca87(0x14e),'codPais':_$_c25f[794]},{'nombrePais':_0x45ca87(0x305),'codPais':_$_c25f[795]},{'nombrePais':_$_c25f[796],'codPais':_$_c25f[797]},{'nombrePais':_0x45ca87(0x329),'codPais':_$_c25f[798]},{'nombrePais':_$_c25f[799],'codPais':_$_c25f[800]},{'nombrePais':_$_c25f[801],'codPais':_$_c25f[802]},{'nombrePais':_$_c25f[803],'codPais':_$_c25f[804]},{'nombrePais':_0x45ca87(0x244),'codPais':_$_c25f[805]},{'nombrePais':_0x45ca87(0x1d2),'codPais':_$_c25f[806]},{'nombrePais':_0x45ca87(0x327),'codPais':_$_c25f[807]},{'nombrePais':_0x45ca87(0x29f),'codPais':_$_c25f[808]},{'nombrePais':_0x45ca87(0x21a),'codPais':_$_c25f[809]},{'nombrePais':_0x45ca87(0x378),'codPais':_$_c25f[810]},{'nombrePais':_0x45ca87(0x364),'codPais':_$_c25f[811]},{'nombrePais':_$_c25f[812],'codPais':_$_c25f[813]},{'nombrePais':_0x45ca87(0x33c),'codPais':_$_c25f[814]},{'nombrePais':_$_c25f[815],'codPais':_$_c25f[816]},{'nombrePais':_0x45ca87(0x1e4),'codPais':_$_c25f[817]},{'nombrePais':_0x45ca87(0x2b8),'codPais':_$_c25f[818]},{'nombrePais':_0x45ca87(0x1da),'codPais':_$_c25f[819]},{'nombrePais':_$_c25f[820],'codPais':_$_c25f[821]},{'nombrePais':_0x45ca87(0x369),'codPais':_$_c25f[822]},{'nombrePais':_$_c25f[823],'codPais':_$_c25f[824]},{'nombrePais':_0x45ca87(0x16f),'codPais':_$_c25f[825]},{'nombrePais':_0x45ca87(0x26e),'codPais':_$_c25f[826]},{'nombrePais':_0x45ca87(0x135),'codPais':_$_c25f[827]},{'nombrePais':_0x45ca87(0x289),'codPais':_$_c25f[828]},{'nombrePais':_0x45ca87(0x2e7),'codPais':_$_c25f[829]},{'nombrePais':_0x45ca87(0x32f),'codPais':_$_c25f[830]},{'nombrePais':_$_c25f[831],'codPais':_$_c25f[832]},{'nombrePais':_0x45ca87(0x294),'codPais':_$_c25f[833]},{'nombrePais':_$_c25f[834],'codPais':_$_c25f[835]},{'nombrePais':_0x45ca87(0x253),'codPais':_$_c25f[836]},{'nombrePais':_0x45ca87(0x26c),'codPais':_$_c25f[837]},{'nombrePais':_0x45ca87(0x158),'codPais':_$_c25f[838]},{'nombrePais':_0x45ca87(0x359),'codPais':_$_c25f[839]},{'nombrePais':_0x45ca87(0x1ba),'codPais':_$_c25f[840]},{'nombrePais':_$_c25f[841],'codPais':_$_c25f[842]},{'nombrePais':_$_c25f[843],'codPais':_$_c25f[844]},{'nombrePais':_0x45ca87(0x2da),'codPais':_$_c25f[845]},{'nombrePais':_0x45ca87(0x229),'codPais':_$_c25f[846]},{'nombrePais':_$_c25f[847],'codPais':_$_c25f[848]},{'nombrePais':_0x45ca87(0x1f9),'codPais':_$_c25f[849]},{'nombrePais':_$_c25f[850],'codPais':_$_c25f[851]},{'nombrePais':_0x45ca87(0x20e),'codPais':_$_c25f[852]},{'nombrePais':_0x45ca87(0x2f7),'codPais':_$_c25f[853]},{'nombrePais':_0x45ca87(0x2a0),'codPais':_$_c25f[854]},{'nombrePais':_0x45ca87(0x356),'codPais':_$_c25f[855]},{'nombrePais':_0x45ca87(0x36e),'codPais':_$_c25f[856]},{'nombrePais':_$_c25f[857],'codPais':_$_c25f[858]},{'nombrePais':_0x45ca87(0x384),'codPais':_$_c25f[859]},{'nombrePais':_0x45ca87(0x28b),'codPais':_$_c25f[860]},{'nombrePais':_0x45ca87(0x33d),'codPais':_$_c25f[861]},{'nombrePais':_0x45ca87(0x1f6),'codPais':_$_c25f[862]},{'nombrePais':_0x45ca87(0x19e),'codPais':_$_c25f[863]},{'nombrePais':_0x45ca87(0x32a),'codPais':_$_c25f[864]},{'nombrePais':_0x45ca87(0x21c),'codPais':_$_c25f[865]},{'nombrePais':_0x45ca87(0x1a7),'codPais':_$_c25f[866]},{'nombrePais':_$_c25f[867],'codPais':_$_c25f[868]},{'nombrePais':_0x45ca87(0x318),'codPais':_$_c25f[869]},{'nombrePais':_0x45ca87(0x375),'codPais':_$_c25f[870]},{'nombrePais':_0x45ca87(0x1b2),'codPais':_$_c25f[871]},{'nombrePais':_0x45ca87(0x2b7),'codPais':_$_c25f[872]},{'nombrePais':_$_c25f[873],'codPais':_$_c25f[874]},{'nombrePais':_0x45ca87(0x15b),'codPais':_$_c25f[875]},{'nombrePais':_0x45ca87(0x12f),'codPais':_$_c25f[876]},{'nombrePais':_$_c25f[877],'codPais':_$_c25f[878]},{'nombrePais':_$_c25f[879],'codPais':_$_c25f[880]},{'nombrePais':_$_c25f[881],'codPais':_$_c25f[882]},{'nombrePais':_0x45ca87(0x274),'codPais':_$_c25f[883]},{'nombrePais':_0x45ca87(0x309),'codPais':_$_c25f[884]},{'nombrePais':_0x45ca87(0x248),'codPais':_$_c25f[885]},{'nombrePais':_0x45ca87(0x31b),'codPais':_$_c25f[886]},{'nombrePais':_0x45ca87(0x372),'codPais':_$_c25f[887]},{'nombrePais':_0x45ca87(0x239),'codPais':_$_c25f[888]},{'nombrePais':_0x45ca87(0x167),'codPais':_$_c25f[889]},{'nombrePais':_0x45ca87(0x18f),'codPais':_$_c25f[890]},{'nombrePais':_0x45ca87(0x168),'codPais':_$_c25f[891]},{'nombrePais':_0x45ca87(0x142),'codPais':_$_c25f[892]},{'nombrePais':_$_c25f[893],'codPais':_$_c25f[894]},{'nombrePais':_$_c25f[895],'codPais':_$_c25f[896]},{'nombrePais':_$_c25f[897],'codPais':_$_c25f[898]},{'nombrePais':_$_c25f[899],'codPais':_$_c25f[900]},{'nombrePais':_0x45ca87(0x172),'codPais':_$_c25f[901]},{'nombrePais':_0x45ca87(0x38e),'codPais':_$_c25f[902]},{'nombrePais':_0x45ca87(0x296),'codPais':_$_c25f[903]},{'nombrePais':_0x45ca87(0x28d),'codPais':_$_c25f[904]},{'nombrePais':_$_c25f[905],'codPais':_$_c25f[906]},{'nombrePais':_0x45ca87(0x339),'codPais':_$_c25f[907]},{'nombrePais':_$_c25f[908],'codPais':_$_c25f[909]},{'nombrePais':_$_c25f[910],'codPais':_$_c25f[911]},{'nombrePais':_0x45ca87(0x16c),'codPais':_$_c25f[912]},{'nombrePais':_0x45ca87(0x306),'codPais':_$_c25f[913]},{'nombrePais':_0x45ca87(0x15f),'codPais':_$_c25f[914]},{'nombrePais':_0x45ca87(0x2ad),'codPais':_$_c25f[915]},{'nombrePais':_0x45ca87(0x13a),'codPais':_$_c25f[916]},{'nombrePais':_0x45ca87(0x22c),'codPais':_$_c25f[917]},{'nombrePais':_0x45ca87(0x382),'codPais':_$_c25f[918]},{'nombrePais':_0x45ca87(0x1d5),'codPais':_$_c25f[919]},{'nombrePais':_0x45ca87(0x288),'codPais':_$_c25f[920]},{'nombrePais':_$_c25f[921],'codPais':_$_c25f[922]},{'nombrePais':_$_c25f[923],'codPais':_$_c25f[924]},{'nombrePais':_$_c25f[925],'codPais':_$_c25f[926]},{'nombrePais':_0x45ca87(0x21d),'codPais':_$_c25f[927]},{'nombrePais':_0x45ca87(0x154),'codPais':_$_c25f[928]},{'nombrePais':_0x45ca87(0x160),'codPais':_$_c25f[929]},{'nombrePais':_0x45ca87(0x1c6),'codPais':_$_c25f[930]},{'nombrePais':_0x45ca87(0x1ca),'codPais':_$_c25f[931]},{'nombrePais':_0x45ca87(0x17d),'codPais':_$_c25f[932]},{'nombrePais':_0x45ca87(0x234),'codPais':_$_c25f[933]},{'nombrePais':_0x45ca87(0x308),'codPais':_$_c25f[934]},{'nombrePais':_0x45ca87(0x26f),'codPais':_$_c25f[935]},{'nombrePais':_0x45ca87(0x36d),'codPais':_$_c25f[936]},{'nombrePais':_0x45ca87(0x1b7),'codPais':_$_c25f[937]},{'nombrePais':_0x45ca87(0x29d),'codPais':_$_c25f[938]},{'nombrePais':_$_c25f[939],'codPais':_$_c25f[940]},{'nombrePais':_$_c25f[941],'codPais':_$_c25f[942]},{'nombrePais':_0x45ca87(0x286),'codPais':_$_c25f[943]},{'nombrePais':_0x45ca87(0x2b1),'codPais':_$_c25f[944]},{'nombrePais':_$_c25f[945],'codPais':_$_c25f[946]},{'nombrePais':_0x45ca87(0x323),'codPais':_$_c25f[947]},{'nombrePais':_0x45ca87(0x284),'codPais':_$_c25f[948]},{'nombrePais':_0x45ca87(0x20b),'codPais':_$_c25f[949]},{'nombrePais':_0x45ca87(0x236),'codPais':_$_c25f[950]},{'nombrePais':_0x45ca87(0x184),'codPais':_$_c25f[951]},{'nombrePais':_0x45ca87(0x182),'codPais':_$_c25f[952]},{'nombrePais':_0x45ca87(0x32e),'codPais':_$_c25f[953]},{'nombrePais':_0x45ca87(0x2c7),'codPais':_$_c25f[954]},{'nombrePais':_0x45ca87(0x1a8),'codPais':_$_c25f[955]},{'nombrePais':_0x45ca87(0x2be),'codPais':_$_c25f[956]},{'nombrePais':_0x45ca87(0x31e),'codPais':_$_c25f[957]},{'nombrePais':_0x45ca87(0x163),'codPais':_$_c25f[958]},{'nombrePais':_$_c25f[959],'codPais':_$_c25f[960]},{'nombrePais':_0x45ca87(0x349),'codPais':_$_c25f[961]},{'nombrePais':_0x45ca87(0x334),'codPais':_$_c25f[962]},{'nombrePais':_$_c25f[963],'codPais':_$_c25f[964]},{'nombrePais':_0x45ca87(0x141),'codPais':_$_c25f[965]},{'nombrePais':_0x45ca87(0x1cd),'codPais':_$_c25f[966]},{'nombrePais':_0x45ca87(0x374),'codPais':_$_c25f[967]},{'nombrePais':_0x45ca87(0x278),'codPais':_$_c25f[968]},{'nombrePais':_0x45ca87(0x1af),'codPais':_$_c25f[969]},{'nombrePais':_0x45ca87(0x330),'codPais':_$_c25f[970]},{'nombrePais':_0x45ca87(0x1b1),'codPais':_$_c25f[971]},{'nombrePais':_0x45ca87(0x1d3),'codPais':_$_c25f[972]},{'nombrePais':_$_c25f[973],'codPais':_$_c25f[974]},{'nombrePais':_0x45ca87(0x19f),'codPais':_$_c25f[975]},{'nombrePais':_0x45ca87(0x245),'codPais':_$_c25f[976]},{'nombrePais':_$_c25f[977],'codPais':_$_c25f[978]},{'nombrePais':_0x45ca87(0x136),'codPais':_$_c25f[979]},{'nombrePais':_0x45ca87(0x277),'codPais':_$_c25f[980]},{'nombrePais':_0x45ca87(0x395),'codPais':_$_c25f[981]},{'nombrePais':_0x45ca87(0x2c0),'codPais':_$_c25f[982]},{'nombrePais':_$_c25f[983],'codPais':_$_c25f[984]},{'nombrePais':_$_c25f[985],'codPais':_$_c25f[986]},{'nombrePais':_$_c25f[987],'codPais':_$_c25f[988]},{'nombrePais':_$_c25f[989],'codPais':_$_c25f[990]},{'nombrePais':_0x45ca87(0x32d),'codPais':_$_c25f[991]},{'nombrePais':_0x45ca87(0x307),'codPais':_$_c25f[992]},{'nombrePais':_$_c25f[993],'codPais':_$_c25f[994]},{'nombrePais':_$_c25f[995],'codPais':_$_c25f[996]},{'nombrePais':_$_c25f[997],'codPais':_$_c25f[998]},{'nombrePais':_$_c25f[999],'codPais':_$_c25f[1000]},{'nombrePais':_0x45ca87(0x2d0),'codPais':_$_c25f[1001]},{'nombrePais':_0x45ca87(0x321),'codPais':_$_c25f[1002]},{'nombrePais':_$_c25f[1003],'codPais':_$_c25f[1004]},{'nombrePais':_0x45ca87(0x12d),'codPais':_$_c25f[1005]},{'nombrePais':_0x45ca87(0x394),'codPais':_$_c25f[1006]},{'nombrePais':_0x45ca87(0x2ef),'codPais':_$_c25f[1007]},{'nombrePais':_0x45ca87(0x31c),'codPais':_$_c25f[1008]},{'nombrePais':_0x45ca87(0x27a),'codPais':_$_c25f[1009]},{'nombrePais':_0x45ca87(0x23e),'codPais':_$_c25f[1010]},{'nombrePais':_$_c25f[1011],'codPais':_$_c25f[1012]},{'nombrePais':_0x45ca87(0x202),'codPais':_$_c25f[1013]},{'nombrePais':_0x45ca87(0x1e0),'codPais':_$_c25f[1014]},{'nombrePais':_0x45ca87(0x351),'codPais':_$_c25f[1015]},{'nombrePais':_0x45ca87(0x15d),'codPais':_$_c25f[1016]}],ofertaBarraTop0=document[_0x45ca87(0x35f)](_0x45ca87(0x169));function getRandomArbitrary(_0x273DB,_0x27383){var _0x2736D=_0x45ca87;return Math[_0x2736D(0x1e3)](Math[_$_c25f[81]]()* (_0x27383- _0x273DB)+ _0x273DB)}function getOfertaTop0(_0x272A7){var _0x272D3=_0x45ca87,_0x272E9=_$_c25f[18],_0x272BD=getRandomArbitrary(0xa,0x1b);for(i= 0x0;i< paises[_$_c25f[83]];i++){paises[i][_$_c25f[461]]=== _0x272A7&& (_0x272E9= _$_c25f[18]+ _$_c25f[18]+ paises[i][_0x272D3(0x371)]|| _$_c25f[18])};return _0x272BD+ _$_c25f[62]+ _0x272D3(0x148)+ _$_c25f[62]+ _$_c25f[1017]+ _$_c25f[62]+ _0x272E9+ _$_c25f[18]}fetch(_$_c25f[513])[_0x45ca87(0x1dc)]((_0x26B59)=>{return _0x26B59[_$_c25f[566]]()})[_0x45ca87(0x1dc)]((_0x26B6F)=>{return ofertaBarraTop0[_$_c25f[30]]= getOfertaTop0(_0x26B6F[_0x45ca87(0x26d)])});var ofertaBarraTop=document[_$_c25f[11]](_0x45ca87(0x180));function getRandomArbitrary(_0x27407,_0x273F1){var _0x273C5=_0x45ca87;return Math[_0x273C5(0x1e3)](Math[_0x273C5(0x337)]()* (_0x273F1- _0x27407)+ _0x27407)}function getOfertaTop(_0x27291){var _0x2724F=_0x45ca87,_0x2727B=_$_c25f[18],_0x27265=getRandomArbitrary(0x15,0x27);for(i= 0x0;i< paises[_0x2724F(0x2d4)];i++){paises[i][_0x2724F(0x1bc)]=== _0x27291&& (_0x2727B= _$_c25f[18]+ _$_c25f[18]+ paises[i][_0x2724F(0x371)]|| _$_c25f[18])};return _0x27265+ _$_c25f[62]+ _0x2724F(0x15a)+ _$_c25f[62]+ _$_c25f[1017]+ _$_c25f[62]+ _0x2727B+ _$_c25f[18]}fetch(_0x45ca87(0x1fe))[_0x45ca87(0x1dc)]((_0x26B85)=>{return _0x26B85[_0x45ca87(0x23d)]()})[_0x45ca87(0x1dc)]((_0x26B9B)=>{return ofertaBarraTop[_$_c25f[30]]= getOfertaTop(_0x26B9B[_0x45ca87(0x26d)])});var ofertaBarraTop2=document[_0x45ca87(0x35f)](_0x45ca87(0x12c));function getRandomArbitrary(_0x27357,_0x27399){var _0x273AF=_0x45ca87;return Math[_0x273AF(0x1e3)](Math[_0x273AF(0x337)]()* (_0x27399- _0x27357)+ _0x27357)}function getOfertaTop2(_0x2732B){var _0x27315=_0x45ca87,_0x272FF=_$_c25f[18],_0x27341=getRandomArbitrary(0x7,0xf);for(i= 0x0;i< paises[_0x27315(0x2d4)];i++){paises[i][_$_c25f[461]]=== _0x2732B&& (_0x272FF= _$_c25f[18]+ _$_c25f[18]+ paises[i][_0x27315(0x371)]|| _$_c25f[18])};return _0x27341+ _$_c25f[62]+ _0x27315(0x354)+ _$_c25f[62]+ _$_c25f[1017]+ _$_c25f[62]+ _0x272FF+ _$_c25f[18]}fetch(_0x45ca87(0x1fe))[_0x45ca87(0x1dc)]((_0x26BB1)=>{return _0x26BB1[_0x45ca87(0x23d)]()})[_0x45ca87(0x1dc)]((_0x26BC7)=>{return ofertaBarraTop2[_$_c25f[30]]= getOfertaTop2(_0x26BC7[_0x45ca87(0x26d)])}),$(_$_c25f[1018])[_0x45ca87(0x18e)](_0x45ca87(0x2ec)),$(_$_c25f[1019])[_0x45ca87(0x18e)](_$_c25f[185]),$(_0x45ca87(0x328))[_0x45ca87(0x18e)](_0x45ca87(0x31a)),$(_0x45ca87(0x1c5))[_0x45ca87(0x18e)](_0x45ca87(0x31a)),$(_0x45ca87(0x219))[_$_c25f[422]](_0x45ca87(0x26a)),$(_$_c25f[488])[_$_c25f[422]](_0x45ca87(0x26a)),$(_0x45ca87(0x14f))[_0x45ca87(0x18e)](_0x45ca87(0x216)),$(_0x45ca87(0x1b3))[_$_c25f[422]](_0x45ca87(0x216)),$(_0x45ca87(0x38a))[_0x45ca87(0x18e)](_0x45ca87(0x262)),$(_$_c25f[1020])[_0x45ca87(0x18e)](_0x45ca87(0x262)),$(_0x45ca87(0x203))[_0x45ca87(0x18e)](_0x45ca87(0x383)),$(_0x45ca87(0x1b5))[_0x45ca87(0x18e)](_0x45ca87(0x383)),$(_0x45ca87(0x201))[_$_c25f[483]]({'navigation':!![],'slideSpeed':0x12c,'paginationSpeed':0x190,'singleItem':!![],'navigationText':[_$_c25f[1021],_$_c25f[45]],'rewindNav':!![],'scrollPerPage':!![],'pagination':!![],'paginationNumbers':![],'responsive':{0x0:{'items':0x1},0x258:{'items':0x2}}});const getRemainingTime=(_0x26C1F)=>{var _0x26BF3=_0x45ca87;let _0x26C09= new Date(),_0x26C35=( new Date(_0x26C1F)- _0x26C09+ 0x3e8)/ 0x3e8,_0x26C4B=(_$_c25f[133]+ Math[_0x26BF3(0x2b0)](_0x26C35% 0x3c))[_0x26BF3(0x365)](-0x2),_0x26BDD=(_$_c25f[133]+ Math[_0x26BF3(0x2b0)](_0x26C35/ 0x3c% 0x3c))[_0x26BF3(0x365)](-0x2),_0x26C77=(_$_c25f[133]+ Math[_0x26BF3(0x2b0)](_0x26C35/ 0xe10% 0x18))[_0x26BF3(0x365)](-0x2),_0x26C61=Math[_0x26BF3(0x2b0)](_0x26C35/ (0xe10* 0x18));return {'remainSeconds':_0x26C4B,'remainMinutes':_0x26BDD,'remainHours':_0x26C77,'remainDays':_0x26C61,'remainTime':_0x26C35}},countdown=(_0x26C8D,_0x26CCF,_0x26CB9)=>{var _0x26CA3=_0x45ca87;const _0x26CE5=document[_0x26CA3(0x1bb)](_0x26CCF),_0x26CFB=setInterval(()=>{var _0x26D27=_0x26CA3;let _0x26D11=getRemainingTime(_0x26C8D);_0x26CE5[_0x26D27(0x20d)]= _0x26D27(0x283)+ _0x26D11[_0x26D27(0x2f3)]+ _0x26D27(0x1bd)+ _0x26D11[_0x26D27(0x221)]+ _0x26D27(0x19d)+ _0x26D11[_0x26D27(0x2db)]+ _0x26D27(0x25a)+ _0x26D11[_$_c25f[1022]]+ _0x26D27(0x36b),_0x26D11[_$_c25f[1023]]<= 0x1&& (clearInterval(_0x26CFB),_0x26CE5[_0x26D27(0x20d)]= _0x26CB9)},0x3e8)};countdown(_0x45ca87(0x256),_0x45ca87(0x13c),_$_c25f[1024]);const preguntas=document[_0x45ca87(0x1f5)](_0x45ca87(0x1c8));preguntas[_0x45ca87(0x291)]((_0x26D3D)=>{var _0x26D53=_0x45ca87;_0x26D3D[_$_c25f[52]](_0x26D53(0x2cc),(_0x26D69)=>{var _0x26DAB=_0x26D53;_0x26D69[_0x26DAB(0x19a)][_0x26DAB(0x241)][_0x26DAB(0x24a)](_$_c25f[482]);const _0x26D7F=_0x26D3D[_$_c25f[11]](_0x26DAB(0x198)),_0x26D95=_0x26D7F[_$_c25f[1025]];!_0x26D7F[_0x26DAB(0x1d4)][_0x26DAB(0x34f)]?_0x26D7F[_0x26DAB(0x1d4)][_0x26DAB(0x34f)]= _0x26D95+ _$_c25f[1026]:_0x26D7F[_0x26DAB(0x1d4)][_0x26DAB(0x34f)]= null,preguntas[_$_c25f[27]]((_0x26DD7)=>{var _0x26DC1=_0x26DAB;_0x26D3D!== _0x26DD7&& (_0x26DD7[_$_c25f[118]][_0x26DC1(0x335)](_0x26DC1(0x1d8)),_0x26DD7[_0x26DC1(0x35f)](_0x26DC1(0x198))[_0x26DC1(0x1d4)][_0x26DC1(0x34f)]= null)})})}),(function(){var _0x26E19=_0x45ca87,_0x26E2F=document[_$_c25f[113]](_0x26E19(0x152));for(var _0x26DED=0x0;_0x26DED< _0x26E2F[_0x26E19(0x2d4)];_0x26DED++){var _0x26E03=_0x26E19(0x24f)+ _0x26E2F[_0x26DED][_0x26E19(0x2a7)][_0x26E19(0x145)]+ _0x26E19(0x38d),_0x26E45= new Image();_0x26E45[_0x26E19(0x143)]= _0x26E03,_0x26E45[_$_c25f[52]](_0x26E19(0x14d),(function(){var _0x26E5B=_0x26E19;_0x26E2F[_0x26DED][_0x26E5B(0x344)](_0x26E45)}(_0x26DED))),_0x26E2F[_0x26DED][_$_c25f[52]](_0x26E19(0x2cc),function(){var _0x26E71=_0x26E19,_0x26E87=document[_0x26E71(0x273)](_$_c25f[1027]);_0x26E87[_0x26E71(0x1e1)](_0x26E71(0x35d),_$_c25f[133]),_0x26E87[_$_c25f[491]](_0x26E71(0x147),_$_c25f[18]),_0x26E87[_$_c25f[491]](_0x26E71(0x37d),_$_c25f[18]),_0x26E87[_0x26E71(0x1e1)](_0x26E71(0x25e),_$_c25f[18]),_0x26E87[_0x26E71(0x1e1)](_$_c25f[1028],_$_c25f[18]),_0x26E87[_0x26E71(0x1e1)](_0x26E71(0x206),_$_c25f[18]),_0x26E87[_0x26E71(0x1e1)](_$_c25f[120],_0x26E71(0x357)+ this[_0x26E71(0x2a7)][_$_c25f[1029]]+ _$_c25f[1030]),this[_0x26E71(0x20d)]= _$_c25f[18],this[_$_c25f[47]](_0x26E87)})}}())
+// codigo para bloquear click erecho
+document.oncontextmenu = function(){return false}
+
+// codigo para mostrar elpopup cada minuto
+const myTimeout = setTimeout(myGreeting, 300000);
+// setIntervales "repetir esta función cada N milisegundos". setTimeoutes "ejecutar esta función una vez después de N milisegundos"
+function myGreeting() {
+  $('#exit').addClass('visible');
+}
+
+
+// codigo para mostrar al pie de pagina el counter
+
+       $(document).ready(function(){
+        var altura =$('.row-centeredw').offset().top;
+        $(window).on('scroll', function(){
+          if ($(window).scrollTop()>= altura){
+            $('.row-centeredw').addClass('row-centered2w');
+            // $('.count').addClass('row-centered2count');
+
+          } else{
+            $('.row-centeredw').removeClass('row-centered2w');
+            // $('.count').removeClass('row-centered2count');
+          }
+        })
+      });
+
+
+
+  
+  
+let movuevete= document.getElementById('rowf');
+
+ function moverseA(){
+
+  location = ('#masvendidos1');
+}
+      
+ // código para mostrar el modal cuando quieres salir de la pagina
+
+const mouseEvent = e => {
+  const shouldShowExitIntent = 
+      !e.toElement && 
+      !e.relatedTarget &&
+      e.clientY < 2;
+
+  if (shouldShowExitIntent) {
+      document.removeEventListener('mouseout', mouseEvent);
+      
+      document.querySelector('.exit-intent-popup').classList.add('visible');
+  }
+};
+
+const exit = e => {
+  if (e.target.className === 'close') {
+      document.querySelector('.exit-intent-popup').classList.remove('visible');
+  }
+
+  if (e.target.className === 'masv') {
+    document.querySelector('.exit-intent-popup').classList.remove('visible');
+}
+};
+
+document.querySelector('.exit-intent-popup').addEventListener('click', exit);
+ 
+setTimeout(() => {
+  document.addEventListener('mouseout', mouseEvent);
+  document.addEventListener('keydown', exit);
+}, 2_000);
+
+// codigo para mostrar el modaldemo
+// Encuentra el elemento "p" en el sitio
+// let p = document.getElementById("ofertaBarraTop2"); 
+//   p.onclick = muestraDemo;
+
+
+//   function muestraDemo() {
+//     $('#exit2').addClass('visible');
+  
+
+//   if(  $('#close2').bind('click')){
+
+//     $('.exit-intent-popup2').toggleClass('active2');
+    
+//   }}
+
+
+//  $('#close2').click(function(){
+//   $('.exit-intent-popup2').toggleClass('active2');
+
+//  });
+ 
+  // code for hide value of pruebnumber
+
+    
+ 
+
+// document.querySelector('.btn25').addEventListener('click').addClass('visible');
+
+
+const pedido_store = {
+    /*PROPIEDAD : TIPO LISTA DE OBJETOS*/
+    categories:{
+      //CATEGORIAS DE PRODUCTOS A OFERTAR
+
+
+      'B0':{
+        items:{
+    
+          'I1':{
+              name:'Licencia Emprendedor',
+              antes:19.98,
+              price:9.99,
+              qty:0,
+              img:'img24/botmaster-id.webp',
+  
+              detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 Licencia personal Mes</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li>  <li> <li> <li> <span class="masc">Soporte </span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación con videos tutoriales</span></li></ul></div></div>',
+              linkpago:'https://payp.page.link/81YK',
+              },
+              // https://payp.page.link/c7uW
+             
+          
+          'I2':{
+              name:'Licencia Trimestral',
+              antes:49.98,
+              price:24.99,
+              qty:0,
+              img:'img24/botmaster-io.webp',
+              detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 Licencia Trimestral</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li>  <li> <li> <li> <span class="masc">Soporte </span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación con videos tutoriales</span></li></ul></div></div>',
+              linkpago:'https://payp.page.link/24CP',
+              },
+              // https://payp.page.link/RW1A
+              
+    
+          'I3':{
+              name:'Licencia Semestral',
+              antes:94,
+              price:47,
+              qty:0,
+              img:'img24/whatsbotmaster.webp',
+              detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 Licencia Semestral</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li>  <li> <li> <li> <span class="masc">Soporte </span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación con videos tutoriales</span></li></ul></div></div>',
+              linkpago:'https://payp.page.link/oKFz',
+              },
+              'I4':{
+                name:'Licencia Anual',
+                antes:198,
+                price:99,
+                qty:0,
+                img:'img24/botmaster-whitelabel.webp',
+                detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 Licencia Anual</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li>  <li> <li> <li> <span class="masc">Soporte </span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación con videos tutoriales</span></li></ul></div></div>',
+                linkpago:'https://payp.page.link/jh4y',
+                },
+
+                'I5':{
+                    name:'Licencia 2 años',
+                    antes:334,
+                    price:167,
+                    qty:0,
+                    img:'img24/botmaster-whatsapp-software.webp',
+                    detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 Licencia 2 años</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li>  <li> <li> <li> <span class="masc">Soporte </span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación con videos tutoriales</span></li></ul></div></div>',
+                    linkpago:'https://payp.page.link/BWnF',
+                    },
+              // https://payp.page.link/8pS9
+              
+              // <ul class="features"><li><i></i> <span class="masc">Crea tu negocio con tu propia marca</span></li><li><i></i> Plataforma Web-Ecommerce + Pasarela de pagos</li><li><i class="fas fa-stop-circle"></i> Generador de Credenciales</li><li><i ></i> Dominio y Hosting</li><li> <i></i>Actualizaciones (versiones BETA)</li><li><i ></i> Plantillas Publicitarias y artes para ADS y redes sociales con tu marca</li><li><i ></i> Capacitación, Asesoría y Soporte</li> <br><span class="masc">BONOS:</span> <li><i ></i>Chat Multiagente WEB</li> <li> <i></i>WhatsApp Ecommerce</li> </ul>
+  
+             
+          
+        },
+          /*NOMBRE CATEGORIA*/
+          namec:'',
+        },
+
+
+      'C0':{
+      items:{
+  
+        'I1':{
+            name:'Licencia Básica Anual',
+            antes:198,
+            price:99,
+            qty:0,
+            img:'img3/1-licencia-anual.webp',
+
+            detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 Licencia personal 12 meses</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li>  <li> <li> <li> <span class="masc">Soporte </span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación con videos tutoriales</span></li><li></i>✅Extractor de contactos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Auto-Replys</li><li><li></i>✅Actualizaciones</li><li><li></i>✅Auditor de Cuentas WA</li></ul></div></div>',
+            linkpago:'https://payp.page.link/yYcb',
+            },
+            // https://payp.page.link/c7uW
+           
+        
+        'I2':{
+            name:'Licencia Lifetime',
+            antes:398,
+            price:199,
+            qty:0,
+            img:'img3/1-licencia-lifetime.webp',
+            detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 Licencia LifeTime personal</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li>  <li> <li> <li> <span class="masc">Soporte </span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación con videos tutoriales</span></li><li></i>✅Extractor de contactos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Auto-Replys</li><li><li></i>✅Actualizaciones</li><li><li></i>✅Auditor de Cuentas WA</li></ul></div></div>',
+            linkpago:'https://payp.page.link/ErS9',
+            },
+            // https://payp.page.link/RW1A
+            
+  
+        'I3':{
+            name:'Reseller BotMasters',
+            antes:398,
+            price:199,
+            qty:0,
+            img:'img3/reseller-una-sola-licencia.webp',
+            detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i>1 Pack 10 licencias</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li>  <li> <i ></i>Envía Imágenes y Videos con Descripción</li>  <li> <li> <li> <span class="masc">Soporte </span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación con videos tutoriales</span></li><li></i>✅Extractor de contactos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Auto-Replys</li><li><li></i>✅Actualizaciones</li><li><li></i>✅Auditor de Cuentas WA</li></ul></div></div>',
+            linkpago:'https://payp.page.link/HxXK',
+            },
+            // https://payp.page.link/8pS9
+            
+            // <ul class="features"><li><i></i> <span class="masc">Crea tu negocio con tu propia marca</span></li><li><i></i> Plataforma Web-Ecommerce + Pasarela de pagos</li><li><i class="fas fa-stop-circle"></i> Generador de Credenciales</li><li><i ></i> Dominio y Hosting</li><li> <i></i>Actualizaciones (versiones BETA)</li><li><i ></i> Plantillas Publicitarias y artes para ADS y redes sociales con tu marca</li><li><i ></i> Capacitación, Asesoría y Soporte</li> <br><span class="masc">BONOS:</span> <li><i ></i>Chat Multiagente WEB</li> <li> <i></i>WhatsApp Ecommerce</li> </ul>
+
+           
+        
+      },
+        /*NOMBRE CATEGORIA*/
+        namec:'',
+      },
+
+      //
+      'C1':{
+        items:{
+    
+          'I1':{
+              name:'Multilicencia PRO Business',
+              antes:79.98,
+              price:39.99,
+              qty:0,
+              img:'img3/multilicencia-1-mes.webp',
+  
+              detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Multilicencia 1 Mes</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li><li><li></i>✅Auditor de Cuentas WA</li></ul></div></div>',
+              linkpago:'https://payp.page.link/a8L6',
+              },
+              // https://payp.page.link/c7uW
+             
+          
+          'I2':{
+              name:'Multilicencia PRO Business Anual',
+              antes:479.76,
+              price:239.88,
+              qty:0,
+              img:'img3/multilicencia-anual.webp',
+              detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Multilicencia Anual</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li><li><li></i>✅Auditor de Cuentas WA</li></ul></div></div>',
+              linkpago:'https://payp.page.link/Aapf',
+              },
+              // https://payp.page.link/RW1A
+              
+    
+          'I3':{
+              name:'Un solo pago | LifeTime',
+              antes:1198,
+              price:599,
+              qty:0,
+              img:'img3/multilicencia-lifetime.webp',
+              detalles:'<div class="contenedor-preguntas activo"><div class="contenedor-pregunta"><p class="pregunta">Ver Detalles<span class="icon-negocio ty"></span></p><ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Multilicencia LIfetime</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li><li><li></i>✅Auditor de Cuentas WA</li></ul></div></div>',
+              linkpago:'https://payp.page.link/ELh7',
+              },
+              // https://payp.page.link/8pS9
+              
+              // <ul class="features"><li><i></i> <span class="masc">Crea tu negocio con tu propia marca</span></li><li><i></i> Plataforma Web-Ecommerce + Pasarela de pagos</li><li><i class="fas fa-stop-circle"></i> Generador de Credenciales</li><li><i ></i> Dominio y Hosting</li><li> <i></i>Actualizaciones (versiones BETA)</li><li><i ></i> Plantillas Publicitarias y artes para ADS y redes sociales con tu marca</li><li><i ></i> Capacitación, Asesoría y Soporte</li> <br><span class="masc">BONOS:</span> <li><i ></i>Chat Multiagente WEB</li> <li> <i></i>WhatsApp Ecommerce</li> </ul>
+  
+             
+          
+        },
+          /*NOMBRE CATEGORIA*/
+          namec:'',
+        },
+
+      //   primera sección
+      'C2':{
+         items:{
+          
+            'I1':{
+                name:'Reseller PRO BotMaster Anual',
+                antes:598,
+                price:299,
+                qty:0,
+                img:'img3/franquiciado-1-año.webp',
+      
+                detalles:'<div class="contenedor-preguntas"><div class="contenedor-pregunta"><p class="pregunta">Ver detalles <span class="icon-negocio"></span></p><ul class="features"><li><i></i> <span class="masc">  Pack 10 licencias unipersonales y 10 multilicencias</span></li><li><i></i>Demos ilimitadas</li><li><i class="fas fa-stop-circle"></i>Comisiones 100%</li></ul></div></div>',
+                linkpago:'https://payp.page.link/QMPm',
+                },
+                // https://payp.page.link/1DFs
+                
+            
+            'I2':{
+                name:'Reseller con tu Marca Propia',
+                antes:798,
+                price:399,
+                qty:0,
+                img:'img3/marca-blanca.webp',
+                detalles:'<div class="contenedor-preguntas"><div class="contenedor-pregunta"><p class="pregunta">Ver detalles <span class="icon-negocio"></span></p><ul class="features"><li><i></i> <span class="masc"> Licencias ilimitadas</span></li><li><i></i>Demos ilimitadas</li><li><i class="fas fa-stop-circle"></i>Comisiones 100%</li><li><i></i>Capacitación Personalizada</li><li><i></i>Software con tu propia marca, colores, logotipos, número de contacto, artes digitales, links RRSS.</li></ul></div></div>',
+                linkpago:'https://payp.page.link/49n3',
+                },
+                
+             
+                // https://payp.page.link/AnPs
+            'I3':{
+                name:'Reseller PRO + Ecommerce',
+                antes:1198,
+                price:599,
+                qty:0,
+                img:'img3/ecommerce.webp',
+                detalles:'<div class="contenedor-preguntas"><div class="contenedor-pregunta"><p class="pregunta">Ver detalles <span class="icon-negocio"></span></p><ul class="features"><li><i></i> <span class="masc">Licencias Ilimitadas</span></li><li><i></i>Demos ilimitadas</li><li><i class="fas fa-stop-circle"></i>Comisiones 100%</li><li><i></i>Capacitación Personalizada</li><li><i></i>Software con tu propia marca, colores, logotipos, número de contacto, artes digitales, links RRSS.</li><li><i></i>Plataforma Ecommerce + Dominio .COM</li></ul></div></div>',
+                linkpago:'https://payp.page.link/bqKp',
+                },
+                
+                // https://payp.page.link/ZUgR
+                
+        },
+        namec:'',
+      },
+
+    //   'C3':{
+    //     items:{
+         
+    //        'I1':{
+    //            name:'Licencia Emprendedor PRO Mensual',
+    //            antes:79.99,
+    //            price:39.99,
+    //            qty:0,
+    //            img:'img/whatsbulksender-precio-whatsapp-masivo-mensual-pro.webp',
+     
+    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia PRO + Licencia Básica 30 días</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li></ul>',
+    //            linkpago:'https://ppls.me/OTPnNtqv6NGuPwJdJNT8ZA',
+    //            },
+   
+            
+           
+    //        'I2':{
+    //            name:'Licencia Emprendedor PRO 12 meses',
+    //            antes:479.88,
+    //            price:239.94,
+    //            qty:0,
+    //            img:'img/whatsbulksender-precio-whatsapp-masivo-anual-pro.webp',
+    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia PRO + Licencia Básica  12 meses</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li></ul>',
+    //            linkpago:'https://ppls.me/fYPsOJrz0q2nK8wOOvIr9A',
+    //            },
+               
+     
+    //        'I3':{
+    //            name:'Franquiciado | White Label',
+    //            antes:0.00,
+    //            price:0.00,
+    //            qty:0,
+    //            img:'img/licencia-white-label-whatsapp-masivo.webp',
+    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Crea tu negocio con tu propia marca</span></li><li><i></i> Plataforma Web-Ecommerce + Pasarela de pagos</li><li><i class="fas fa-stop-circle"></i> Generador de Credenciales</li><li><i ></i> Dominio y Hosting</li><li> <i></i>Actualizaciones (versiones BETA)</li><li><i ></i> Plantillas Publicitarias y artes para ADS y redes sociales con tu marca</li><li><i ></i> Capacitación, Asesoría y Soporte</li> <br><span class="masc">BONOS:</span> <li><i ></i>Chat Multiagente WEB</li> <li> <i></i>WhatsApp Ecommerce</li> </ul>',
+    //            linkpago:'',
+    //            },
+               
+    //    },
+    //    namec:'',
+    //  },
+
+
+    //  'C4':{
+    //     items:{
+         
+    //        'I1':{
+    //            name:'Licencia Emprendedor PRO Mensual',
+    //            antes:79.99,
+    //            price:39.99,
+    //            qty:0,
+    //            img:'img/whatsbulksender-precio-whatsapp-masivo-mensual-pro.webp',
+     
+    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia PRO + Licencia Básica 30 días</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li></ul>',
+    //            linkpago:'https://ppls.me/OTPnNtqv6NGuPwJdJNT8ZA',
+    //            },
+   
+            
+           
+    //        'I2':{
+    //            name:'Licencia Emprendedor PRO 12 meses',
+    //            antes:479.88,
+    //            price:239.94,
+    //            qty:0,
+    //            img:'img/whatsbulksender-precio-whatsapp-masivo-anual-pro.webp',
+    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Instalación GRATIS</span></li><li><i></i> Licencia PRO + Licencia Básica  12 meses</li><li><i class="fas fa-stop-circle"></i> Mensajes y Campañas Ilimitadas</li><li><i ></i> Mensajes 100% Personalizados</li><li><i ></i> Cuentas de WhatsApp ilimitadas</li><li><i ></i> Multidispositivos PC MAC Android IOS</li><li><i ></i>Adjunta Video, Imagen, Audio, Catálogos, Documentos</li> <li> <i></i>Importación y Exportación de Contactos.</li> <li> <i></i>Sistema Anti-Algoritmo de Bloqueo</li> <li> <li> <i ></i>Extractor de Contactos</li> <li> <i ></i>Envia Imàgens y Videos con Descripciòn</li> <li>  <li> <i ></i>Compatible con Todas las Versiones de WhatsApp incluidas las Versiones BETA</li> <li> <li> <li> <span class="masc">Soporte 24/7</span></li><li><span class="masc">Actualizaciones GRATIS</span></li><li><span class="masc">Capacitación en Marketing Masivo</span></li><li></i>✅Genera Informes de Envíos Masivos.</li><li><li></i>✅Filtro de Números de WhatsApp</li><li><li></i>✅Envíos Masivos a Grupos</li><li><li></i>✅ChatBot Autorespuestas Funnels</li><li><li></i>✅Programar Campañas</li><li><li></i>✅Contestar desde la App</li><li><li></i>✅Transferir a otro Dispositivo</li></ul>',
+    //            linkpago:'https://ppls.me/fYPsOJrz0q2nK8wOOvIr9A',
+    //            },
+               
+     
+    //        'I3':{
+    //            name:'Franquiciado | White Label',
+    //            antes:0.00,
+    //            price:0.00,
+    //            qty:0,
+    //            img:'img/licencia-white-label-whatsapp-masivo.webp',
+    //            detalles:'<ul class="features"><li><i></i> <span class="masc">Crea tu negocio con tu propia marca</span></li><li><i></i> Plataforma Web-Ecommerce + Pasarela de pagos</li><li><i class="fas fa-stop-circle"></i> Generador de Credenciales</li><li><i ></i> Dominio y Hosting</li><li> <i></i>Actualizaciones (versiones BETA)</li><li><i ></i> Plantillas Publicitarias y artes para ADS y redes sociales con tu marca</li><li><i ></i> Capacitación, Asesoría y Soporte</li> <br><span class="masc">BONOS:</span> <li><i ></i>Chat Multiagente WEB</li> <li> <i></i>WhatsApp Ecommerce</li> </ul>',
+    //            linkpago:'',
+    //            },
+               
+    //    },
+    //    namec:'',
+    //  },
+    //   segunda secciòn
+
+
+      // 'C3':{
+      //   items:{
+         
+      //     'I1':{
+      //       //NOMBRE DEL ITEM
+      //       name:'CAMILLA FACIAL Y CORPORAL MÁS TABURETE',
+      //       //PRECIO BASE DEL ITEM
+      //       price:275.00,
+      //       //CANTIDAD ESCOGIDA DEL ITEM
+      //       qty:0,
+      //       //FUENTE DE LA IMAGEN
+      //       img:'mobiliario1.jpg',
+      //       },
+      //       'I2':{
+      //       name:'CAMILLA FACIAL Y CORPORAL',
+      //       price:350.00,
+      //       qty:0,
+      //       img:'mobiliario2.jpg',
+      //       },
+      //       'I3':{
+      //       name:'MESA 3 NIVELES BLANCA CON CAJÓN',
+      //       price:80.00,
+      //       qty:0,
+      //       img:'mobiliario3.jpg',
+      //       },
+      //       'I4':{
+      //       name:'MESA DE 2 NIVELES CON CAJÓN',
+      //       price:120.00,
+      //       qty:0,
+      //       img:'mobiliario4.jpg',
+      //       },
+      //   },
+      //   namec:'Mobiliario',
+      // }
+    },
+    // items:{
+    // 'I1':{
+    //   //NOMBRE DEL ITEM
+    //   name:'Papas Fritas',
+    //   //PRECIO BASE DEL ITEM
+    //   price:1.99,
+    //   //CANTIDAD ESCOGIDA DEL ITEM
+    //   qty:0,
+    //   //FUENTE DE LA IMAGEN
+    //   img:'papas.png',
+    // },
+    // 'I2':{
+    //   name:'Hamburguesa',
+    //   price:2.99,
+    //   qty:0,
+    //   img:'hamburguesa.png',
+    // },
+    // 'I3':{
+    //   name:'Pizza',
+    //   price:1.99,
+    //   qty:0,
+    //   img:'pizza.png',
+    // },
+    // 'I4':{
+    //   name:'Alitas BBQ',
+    //   price:5.99,
+    //   qty:0,
+    //   img:'alitas.png',
+    //   },
+    // },
+    //DATOS A CONTROLAR DEL USUARIO
+    user_data:{
+      user_name:{
+        //VALOR ACTUAL EN EL CAMPO
+        value:'',
+        //ERROR A DESPLEGAR EN CASO DE NO RELLENAR CAMPO
+        error:'',
+      },
+      user_phone:{
+        value:'',
+        error:'',
+      },
+      user_dir:{
+        value:'',
+        error:'',
+      },
+      user_zone:{
+        value:'',
+        error:'',
+      },
+      user_mail:{
+        value:'',
+        error:'',
+      }
+    }
+  };
+  //CONTROLADORES DEL DIALOGO/MODAL
+  var dialog = document.getElementById('myFirstDialog');    
+  /*document.getElementById('show').onclick = function() {    
+      //MOSTRAR DIALOGO
+      dialog.show();    
+  };*/    
+  /*  document.getElementById('hide').onclick = function() {    
+        //OCULTAR DIALOGO
+        dialog.close();    
+  };*/
+  let menu_sections = '';    
+  const categories = document.getElementById('menu-sections');
+  Object.entries(pedido_store.categories).forEach(([key,item],ind) => {
+    menu_sections = menu_sections + `<div class="section-item"><a href="#${key}a">${item.namec}</a></div>`;
+  });
+  categories.innerHTML = menu_sections;
+  
+  /*
+  PARA LOS METODOS DE ALTERACION DE CANTIDAD ELEGIDA DE UNO U OTRO ITEM
+  USAREMOS EL ID DE LA CATEGORIA Y EL ID DEL ITEM SELECCIONADO PARA CONTROLAR LAS CANTIDADES
+  */
+  const newCancel = (target,catg_id) => {
+    //SE ELIMINAN LA CANTIDAD ASIGNADA A UN ITEM OBJETIVO (SE VUELVE 0)
+    pedido_store.categories[`${catg_id}`]['items'][`${target}`]['qty']=0;
+    console.log(pedido_store.categories[`${catg_id}`]['items'][`${target}`]['qty']);
+    document.getElementById(`${catg_id}-${target}-qty`).value = pedido_store.categories[`${catg_id}`]['items'][`${target}`]['qty'];
+    addItemToShoppingCart();
+  }
+  
+  const newPlus = (target,catg_id) => {
+    //SE LE SUMA 1 A LA CANTIDAD DEL ITEM OBJETIVO
+    pedido_store.categories[`${catg_id}`]['items'][`${target}`]['qty']++;
+    document.getElementById(`${catg_id}-${target}-qty`).value =  pedido_store.categories[`${catg_id}`]['items'][`${target}`]['qty'];
+    addItemToShoppingCart();
+  }
+  
+  const newMinus = (target,catg_id) => {
+    //SE LE RESTA 1 A LA CANTIDAD DEL ITEM OBJETIVO MIENTRAS EL RESULTADO SEA MAYOR O IGUAL A 0
+    //ASI SE DEBEN EVITAR CANTIDADES NEGATIVAS
+    if( pedido_store.categories[`${catg_id}`]['items'][`${target}`]['qty']-1 >= 0){
+    pedido_store.categories[`${catg_id}`]['items'][`${target}`]['qty']--;
+    document.getElementById(`${catg_id}-${target}-qty`).value =  pedido_store.categories[`${catg_id}`]['items'][`${target}`]['qty'];
+    addItemToShoppingCart();
+    }
+  }
+  /*CON ESTA FUNCION GENERAMOS EL CONTROLADOR GRAFICO DE CADA ITEM
+  EN FUNCION DE CUANTOS ITEMS TENGAMOS EN NUESTRA VARIABLE GLOBAL*/
+  const ItemCreator = (itemList,catg_id) => {
+  
+    let IM = ``;
+    // <h4 class="item-price"><del>$${item.antes.toFixed(2)}</del></h4>
+    Object.entries(itemList).forEach(([key,item],ind) => {
+      IM = IM + 
+      `<div class="item-card">
+  
+        <div class="item shadow mb-4">
+          
+          <div class="modal-container">
+     
+           <img class="item-image" src="${item.img}">
+          </div>
+          <div class="containerpro">
+          <h4 class="item-price"><del>$${item.antes.toFixed(2)}</del></h4>
+          <h4 class="item-price">$${item.price}</h4>
+          <h3 class="item-title" id="">${item.name}</h3>
+          <div class="item-details">
+          <p class="item-price">${item.detalles}</p>
+          <p class="item-price fanlink" id="linkpago">${item.linkpago}</p>
+
+         
+            
+            <div class="item_cantidadg">
+            <div class="item_cantidadt">
+              <button id="${catg_id}-${key}-m" class="minus" ></button>
+              <input class="quantity item_cantidad " type="number" name="" min="0" value=${item.qty}  id="${catg_id}-${key}-qty">
+              <button id="${catg_id}-${key}-p" class="plus"></button>
+            </div>    
+            </div>                     
+          </div>
+          </div>
+        </div>
+      </div>`;
+    });
+  
+    return IM;
+  }
+  //RECORREMOS CADA CATEGORIA
+  Object.entries(pedido_store.categories).forEach(([key,item],ind) => {
+    //GENERAMOS UN MENU CONTENEDOR POR CATEGORIA
+    let container = document.createElement("section");
+    container.id = `menu-container-${key}`;
+    container.classList.add("item-menu");
+  
+    container.innerHTML = `<p class="pcategory" id=${key+"a"}>${item.namec}</p>`;//new added
+  
+  
+   
+    //GENERAMOS EL CONTENEDOR DE LOS PRODUCTOS DE LA CATEGORIA
+    let menu_sec = document.createElement("div");
+    menu_sec.id=key;
+    menu_sec.classList.add("row");
+    menu_sec.classList.add("owl-carousel");
+    //GENERAMOS NUESTROS PRODUCTOS
+    let menu_sec_items = ItemCreator(item.items,key);
+    //ASIGNAMOS ETIQUETAS AL DIV OBJETIVO 
+    menu_sec.innerHTML = menu_sec_items;
+    //INSERTAMOS EN EL CONTENEDOR POR CATEGORIA LOS PRODUCTOS GENERADOS
+    container.appendChild(menu_sec);
+    //INSERTAMOS EN EL SLIDER NUESTRO CONTENEDOR DE LA CATEGORIA
+    document.getElementById('slides-container').appendChild(container);
+  });
+  
+  Object.entries(pedido_store.categories).forEach(([key,item],ind) => {
+    Object.entries(item.items).forEach(([_key,_item],_ind)=> {
+      document.getElementById(`${key}-${_key}-m`).addEventListener("click",() => {
+        newMinus(_key,key);
+      });
+      document.getElementById(`${key}-${_key}-p`).addEventListener("click",() => {
+        newPlus(_key,key);
+      });
+    });
+  });
+  
+  Object.entries(pedido_store.user_data).forEach(([key,item],ind) => {
+    document.getElementById(`${key}`).addEventListener("change",(ev) => {
+      pedido_store.user_data[`${key}`] = ev.target.value;
+    });
+  });
+  //CONTROLADOR DE EVENTO EN CASO DE SUBMIT
+  
+  // document.getElementById(`gform`).addEventListener("submit",(ev) => {
+  //     ev.preventDefault();
+  //     let errors ='';
+  //     //RECORREMOS CADA VALOR DEL OBJETO CONTROLADOR DE LA DATA DEL FORMULARIO
+  //     Object.entries(pedido_store.user_data).forEach(([key,item],ind) => {
+  //       //SI EL CAMPO PRESENTA VALOR '' Y EL MISMO TIENE UN ERROR A MOSTRAR
+  //       //CARGAREMOS EN NUESTRO MODAL/DIALOGO EL MENSAJE DE ERROR DE DICHO CAMPO
+  //       if( (item.value === '' || item.value==="*") && item.error !== ''){
+  //        errors += `<h4>${item.error}</h4>`;
+  //       }
+  //     });
+  //     if(errors !== ''){
+  //       document.getElementById(`order-msg`).innerHTML = errors;
+       
+  //       //dialog.show();
+  //       $(".orderDialog").fadeIn(1000);
+  //       setTimeout(function() {
+  //         $(".orderDialog").fadeOut(1000);
+  //         //dialog.close();
+  //       },2000);
+  //     }
+  // });
+  
+  
+  
+   
+  const comprarButton = document.querySelector('.comprarButton');
+  comprarButton.addEventListener('click', comprarButtonClicked);
+  
+  const shoppingCartItemsContainer = document.querySelector(
+    '.shoppingCartItemsContainer'
+   
+  );
+  
+  
+  /*
+  function addToCartClicked(event) {
+  
+    const button = event.target;
+    const item = button.closest('.item');
+    const itemTitle = item.querySelector('.item-title').textContent;
+    const itemPrice = item.querySelector('.item-price').textContent;
+    const itemImage = item.querySelector('.item-image').src;
+    const itemCantidad = item.querySelector('.item_cantidad').value;
+    const itemtotal = item.querySelector('.item_total');
+  
+    //addItemToShoppingCart(itemTitle, itemPrice, itemImage, itemCantidad, itemtotal);
+  }
+  */
+  
+  //FUNCION PARA GENERAR LOS ITEMS QUE SE ESTEN SOLICITANDO EN EL CARRITO
+  //SI Y SOLO SI ESTOS TIENEN UNA CANTIDAD SOLICITADA MAYOR A 0
+  const ItemCheckout = (itemList) => {
+    let productoslist="";
+    let productoslist2="";
+    let productocategory="";
+    let cart_content = '';
+    let linkoculf="";
+    let imgname="";
+
+    var linkoculsend=document.getElementById('fantasmasend');
+    var imgnamesend=document.getElementById('fantasmaimgnamef');
+
+    var productoslistcategorya=document.getElementById('fantasma');
+    var productoslistcategorya2=document.getElementById('entry.1625517509');
+    var pushlistadeproducots=document.querySelector('.pedidocli');
+  
+    Object.entries(itemList).forEach(([key,_item],_ind) =>{
+      let cart_catg = '';
+      Object.entries(_item.items).forEach(([_key,item],ind) => {
+        if(cart_catg === '' && item.qty > 0){
+          cart_catg = `<h4>${_item.namec}</h4>`;
+          cart_content = cart_content + cart_catg;
+          
+        }
+      });
+  
+      Object.entries(_item.items).forEach(([_key,item],ind) => {
+      if(item.qty > 0){
+      cart_content = cart_content + 
+      `<div class=" shoppingCartItem">
+        <span>
+            <div class="shopping-cart-item" >
+                <img class="imgpedido" src=${item.img} class="shopping-cart-image">
+                <h6 class="shopping-cart-item-title shoppingCartItemTitle text-truncate ml-3 mb-0  " id="itemtitulowa">${item.name}</h6>
+            </div>
+        </span>
+        <span>
+        <p class="item-price mb-0 shoppingCartItemPrice itempricewa" >$${item.price}</p>
+        </span>
+        <div class="item_cantidadt">
+          <button id="${key}-${_key}-m-s" class="minus" ></button>
+          <input class="quantity item_cantidad " type="number" name="" min="0" value=${item.qty}  id="${key}-${_key}-qty">
+          <button id="${key}-${_key}-p-s" class="plus"></button>
+        </div>
+        <span class="xcerrar">
+          <p class="item-total mb-0 shoppingCartItemTotal itemtotal" >$${Number.parseFloat(item.qty*item.price).toFixed(2)}</p>
+  
+          <button class="btn btn-danger buttonDelete" type="button" id="${key}-${_key}-c"><span class="icon-bin"></span> </button>
+        
+        
+        </span>
+
+        <span class="linkocul">
+        <p class="linkoculp" >$${item.linkpago}</p>
+
+       
+      
+      </span>
+      </div>
+
+     
+      
+  
+      
+      `
+
+      imgname += `<div class="imgsend" >
+      <img class="imgsendf" src=${item.img}>
+      <h6 class="titulesend" id="">${item.name}</h6>
+  </div>`;
+
+      linkoculf +=item.name+"%20"+item.linkpago+"%20"+"%0A";
+  
+      productoslist += item.qty+"%20"+"*x*"+"%20"+"*|*"+"%20"+item.name+"%20"+"*|*"+"%20"+"precio"+"%20"+"$"+ item.price+"%20"+"*|*"+"%20"+"*total:*"+"%20"+"$"+(item.qty*item.price).toFixed(2)+"\n"+"%0A";
+        
+      productoslist2 += item.qty+" "+"x"+" "+"|"+" "+item.name+"\n";
+      
+  
+        }
+      });
+    });
+
+    imgnamesend.innerHTML=`${imgname}`;
+    linkoculsend.innerHTML=`${linkoculf}`;
+    productoslistcategorya.innerHTML=`${productoslist}`;
+    productoslistcategorya2.innerHTML=`${productoslist2}`;
+    return cart_content;
+  }
+
+
+//   var imgnamef=document.getElementById('fantasmaimgname').innerHTML=('.fantasmaimgnamef');
+
+
+
+// $(`${key}-${_key}-p`).on('click', function(){
+ 
+
+
+// })
+
+// $(`${key}-${_key}-p`).style="border: 1px solid #e0e0e0;margin: 10px;width: 100%;z-index: 4;outline: none;-webkit-appearance: none;background-color: transparent;border: none;align-items: center;justify-content: center;width: 2rem;height: 2rem;cursor: pointer;margin: 0;position: relative;";
+
+
+// document.getElementById("whaterror").style=" color: #25d366; position: relative; padding: 15px;  margin: 0 26px 20px; border-radius: 15px; background-color: #fff; color: #4a4a4a; box-shadow: 0 1px 2px 0 rgb(0 0 0 / 30%); transition: 0.5s ease-in-out;"
+
+// $('.eti1').on('click', function(){
+//   $('.datos1').addClass('show btnpagos');
+ 
+//   $('.datos2').removeClass('show btnpagos');
+//   $('.datos3').removeClass('show btnpagos');
+//   $('.datos4').removeClass('show btnpagos');
+
+// })
+  
+  function addItemToShoppingCart(/*itemTitle, itemPrice, itemImage, itemCantidad, itemtotal*/) {
+  
+    document.getElementById('cart_list').innerHTML = ItemCheckout(pedido_store.categories);
+    let cart_amt =0;
+    Object.entries(pedido_store.categories).forEach(([key,item],ind) =>{
+      Object.entries(item.items).forEach(([_key,_item],_ind) => {
+      if(_item.qty > 0){
+        document.getElementById(`${key}-${_key}-m-s`).addEventListener("click",() => {
+          newMinus(_key,key);
+        });
+        document.getElementById(`${key}-${_key}-p-s`).addEventListener("click",() => {
+          newPlus(_key,key);
+        });
+        document.getElementById(`${key}-${_key}-c`).addEventListener("click",() => {
+          newCancel(_key,key);
+        });
+        cart_amt += _item.qty;
+      }
+      });
+    });
+     if(cart_amt > 0){
+      document.getElementById('cart_amt').innerHTML = `${cart_amt}`;
+      setTimeout(function() {
+      $(".unowhat").fadeIn(1000);
+      },500);
+     }
+     else{
+      setTimeout(function() {
+      $(".unowhat").fadeOut(1000);
+      },500);
+  }
+   
+    updateShoppingCartTotal(pedido_store.categories);
+  }
+  
+  
+  
+  
+  
+    function ertd(){
+  
+    var leteryu = document
+      .getElementById('cardnegocioid')
+      .innerHTML =  shoppingCartItemsContainer.childElementCount;
+  
+    }
+  
+  
+    
+  
+  function updateShoppingCartTotal(itemList) {
+  
+    let cartTotal = 0;
+    Object.entries(itemList).forEach(([key,item],ind) => {
+      //cartTotal += item.price*item.qty;
+      Object.entries(item.items).forEach(([_key,_item],_ind)=> {
+        cartTotal += _item.price*_item.qty;
+      });
+    });
+  
+    
+    document.querySelector('.shoppingCartTotal').innerHTML=`$${Number.parseFloat(cartTotal).toFixed(2)}`;
+  
+  
+    
+    let cartTotal3 = cartTotal;
+  
+  
+    var qqq=document.querySelector('.shoppingCartTotal2').innerHTML=`$${cartTotal3.toFixed(2)}`;
+    // console.log("updateShoppingCartTotal -> qqq", qqq)
+  
+    
+    var qwey=qqq;
+  
+    document.getElementById('entry.985986529').innerHTML=qwey;
+  
+  
+  
+    document.querySelector('.shoppingCartcambio').innerHTML=`$${cartTotal3.toFixed(2)}`;
+  
+  
+    let cartTotal4 = cartTotal;
+  
+  
+    var selectoptionq=document.getElementById('entry.686290451');
+    
+    
+    selectoptionq.addEventListener('change', function(){
+      
+      var recepoptionq=selectoptionq.value;
+    
+       document.querySelector('.deliverysub2').innerHTML=`$${Number(recepoptionq).toFixed(2)}`;
+    
+      cartTotal4=cartTotal + Number(recepoptionq);
+  
+  
+    document.querySelector('.shoppingCartcambio').innerHTML=`$${cartTotal4.toFixed(2)}`;
+    
+    });  // bubtotal ,bubtotal 2 y cambio 
+  
+  
+  
+  
+  
+  
+  
+    var def=document.querySelector('.monto');
+  
+    def.addEventListener('keyup', function(){
+  
+      var recepoptionc=def.value;
+  
+       document.querySelector('.monto').innerHTML=`$${Number(recepoptionc).toFixed(2)}`;
+  
+       var wert=document.getElementById('totalwa3').textContent;
+  
+       var total4a= Number(wert.replace('$',''));
+  
+    var  cartTotal4a= recepoptionc - total4a ;
+  
+    // var totalfp = Number(
+    //   totalf.replace('$', ''));
+    
+      document.getElementById('entry.580204725').innerHTML=`$${cartTotal4a.toFixed(2)}`;
+  
+    
+      if(recepoptionc===''){
+  
+        document.getElementById('entry.580204725').innerHTML=`$0,00`;
+      }
+  });
+  
+  
+  
+  
+  
+  // 
+  
+  let cartTotal2 = cartTotal;
+  
+  
+  var selectoption=document.getElementById('entry.686290451');
+  
+  
+  selectoption.addEventListener('change', function(){
+    
+    var recepoption=selectoption.value;
+  
+   
+  
+  
+     document.querySelector('.deliverysub').innerHTML=`$${Number(recepoption).toFixed(2)}`;
+  
+    
+  
+  
+  
+    cartTotal2=cartTotal + Number(recepoption);
+  
+  
+  
+  
+  
+    var quitardelivery = document.querySelector(".deliveryoper");
+  
+    
+   
+    
+    quitardelivery.onclick = function(){
+  
+        document.querySelector('.deliverysub2').innerHTML=`$${Number(0).toFixed(2)}`;
+  
+        cartTotal2=cartTotal+ Number(0);
+    
+        document.querySelector('.shoppingCartcambio').innerHTML=`$${cartTotal2.toFixed(2)}`;
+  
+   
+  
+      
+  
+        document.querySelector('.deliverysub').innerHTML=`$${Number(0).toFixed(2)}`;
+  
+        cartTotal2=cartTotal+ Number(0);
+  
+       
+  
+      document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+  
+      
+    }
+    
+    var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+  
+  
+  
+    var qxx=eee;
+      
+    document.getElementById('entry.802449909').innerHTML=qxx;
+  
+  
+  });
+  
+  
+  var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+  
+  
+  
+  var qxx=eee;
+    
+  document.getElementById('entry.802449909').innerHTML=qxx;
+  
+  // 
+  
+  
+  
+  // 
+  
+  var quitardelivery2 = document.querySelector(".deliveryoperr");
+  
+  
+  
+  quitardelivery2.onclick = function(){
+  
+    document.querySelector('.deliverysub2').innerHTML=`$${Number(0).toFixed(2)}`;
+  
+    cartTotal2=cartTotal+ Number(0);
+  
+  
+    document.querySelector('.shoppingCartcambio').innerHTML=`$${cartTotal2.toFixed(2)}`;
+  
+    
+  
+    document.querySelector('.deliverysub').innerHTML=`$${Number(0).toFixed(2)}`;
+  
+    cartTotal2=cartTotal+ Number(0);
+  
+   
+  
+    
+  
+    var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+  
+  
+  }
+  
+  
+  
+  
+  
+  // document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+  
+  
+    var eee=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${cartTotal2.toFixed(2)}`;
+    
+    var cartTotalpqy=cartTotal;
+
+    var clickpaypal = document.getElementById('entry.1179942020');
+  
+  clickpaypal.onclick = clickbotonpaypal;
+  
+  function clickbotonpaypal() {
+    if (clickpaypal.checked === true) {
+  
+  
+     var paycomic =cartTotalpqy;
+  
+      var puebras=(parseFloat(paycomic) *0.054+0.30).toFixed(2);
+  
+      var impres=document.querySelector('.feepaypal').innerHTML=`${Number (puebras).toFixed(2)}`;
+  
+      var sumafees= (parseFloat(puebras))+(parseFloat(paycomic));
+  
+      var totalpayfess=document.querySelector('.shoppingCartTotaldelivery').innerHTML=`$${parseFloat (sumafees).toFixed(2)}`;
+  
+      var chaofantasma=document.getElementById('fantasmasend').textContent='';
+     
+      var comicpay = document.querySelector('.comicpay');
+  comicpay.style.display = 'block';
+  
+  
+  
+      
+    }
+  }
+  
+
+    
+  
+    //pepudo
+  
+  }
+  
+  
+ 
+  
+  
+  function removeShoppingCartItem(event) {
+    /*const buttonClicked = event.target;
+    buttonClicked.closest('.shoppingCartItem').remove();*/
+    updateShoppingCartTotal(pedido_store.categories);
+   
+  }
+  
+  function quantityChanged(event) {
+    /*const input = event.target;
+    input.value <= 0 ? (input.value = 1) : null;*/
+    updateShoppingCartTotal(pedido_store.categories); 
+  }
+  
+  
+  
+  function comprarButtonClicked() {
+    shoppingCartItemsContainer.innerHTML = '';
+    updateShoppingCartTotal();
+   
+  
+  }
+  
+  
+  
+  
+  $(".ordernumber").val(function(){
+    return document.getElementById('intro').innerHTML=Math.floor(Math.random() * 999) + 1000
+  
+  })
+  
+  
+ 
+  
+  
+  function goToPagep(){
+    
+  
+    var orden = document.querySelector('.ordernumber').value;  
+  
+    // var email = document.getElementById('entry.1156212193').value;
+    // var whatsapp = document.getElementById('entry.1632691641').value;
+  
+    // var delivery = document.getElementById('entry.686290451').value;
+  
+    // var direccion = document.getElementById('entry.150273747').value;
+    
+    // var nombre = document.getElementById('entry.2030044025').value;
+  
+    var totalf = document.querySelector('.shoppingCartTotaldelivery').textContent;
+
+
+  
+  
+    var data1 = document.getElementsByName('entry.2030044025');
+  
+  
+    for (var i = 0, length = data1.length; i < length; i++) {
+      if (data1[i]) {
+     
+        var nombre = (data1[i].value+"%0A");
+    
+     
+    
+      }
+    
+      if (nombre=== undefined) {
+        nombre = '';
+        
+    
+    }
+  
+    if (nombre=== "%0A") {
+      nombre = '';
+      
+  
+  }
+    }
+  
+    var data2 = document.getElementsByName('entry.1156212193');
+  
+  
+    for (var i = 0, length = data2.length; i < length; i++) {
+      if (data2[i]) {
+     
+        var email = (data2[i].value+"%0A");
+    
+     
+    
+      }
+    
+      if (email=== undefined) {
+        email = '';
+        
+    
+    }
+  
+    if (email=== "%0A") {
+      email = '';
+      
+  
+  }
+    }
+  
+    var data3 = document.getElementsByName('entry.1632691641');
+  
+  
+    for (var i = 0, length = data3.length; i < length; i++) {
+      if (data3[i]) {
+     
+        var whatsapp = (data3[i].value+"%0A");
+    
+     
+    
+      }
+    
+      if (whatsapp=== undefined) {
+        whatsapp = '';
+        
+    
+    }
+  
+    if (whatsapp=== "%0A") {
+      whatsapp = '';
+      
+  
+  }
+    }
+  
+  
+    var data4 = document.getElementsByName('entry.686290451');
+  
+  
+    for (var i = 0, length = data4.length; i < length; i++) {
+      if (data4[i]) {
+     
+        var delivery = (data4[i].value);
+    
+     
+    
+      }
+    
+      if (delivery=== undefined) {
+        delivery = '';
+        
+    
+    }
+  
+    if (delivery=== "%0A") {
+      delivery = '';
+      
+  
+  }
+  
+  
+    }
+  
+  
+  //   var data5 = document.getElementsByName('entry.803987817');
+  
+  
+  //   for (var i = 0, length = data5.length; i < length; i++) {
+  //     if (data5[i]) {
+     
+  //       var direccion = ("*Dirección:*"+"%20"+data5[i].value+"%0A");
+    
+     
+    
+  //     }
+    
+  //     if (direccion=== undefined) {
+  //       direccion = '';
+        
+    
+  //   }
+  
+  //   if (direccion=== "%0A") {
+  //     direccion = '';
+      
+  
+  // }
+  
+  
+  //   }
+  
+  
+  
+    var totalfp = Number(
+      totalf.replace('$', '')
+    );
+    
+    // if(  totalfp <= 10|| /^\s+$/.test(totalfp) )  {
+    //   return (document.getElementById("demo").innerHTML =
+    //   "Tu pedido mínimo debe ser de $10.00")
+  
+    
+  //     document.getElementById("demo").innerHTML =
+  //      "Aún no haz selecionado prodcutos"
+  
+  //         $('.demo').addClass('showmsg');
+  
+  
+  //         setTimeout(function() {
+  //           $(".showmsg").fadeOut(1500);
+  //           },500);
+          
+    
+  // }
+  
+  
+  var dia = document.getElementById('entry.1164560529').value;
+    
+  var hora = document.getElementById('entry.404593967').value;
+  
+  
+  
+    
+  var reservad = document.getElementsByName('entry.1067299390');
+      
+      
+  for (var i = 0, length = reservad.length; i < length; i++) {
+    if (reservad[i].checked===true) {
+  
+  
+  
+        var geolocal="%0A"+document.getElementById('entry.1441018699').textContent;
+  
+  
+      var direccion = document.getElementById('entry.803987817').value;
+      //docs.google.com/forms/d/e/1FAIpQLSclWHdimbOn2b18CPRaSz5RVoeLA-pxJudums5VtjnYhuVSRg/viewform?usp=pp_url&entry.1441018699=geolocalizacion&entry.2092178738=direccionmaps
+     
+  
+      var dmap="%0A"+document.querySelector(".address").textContent;
+  
+      var opcionlocal = ("Opción de entrega"+"%0A"+reservad[i].value+"%20"+direccion+dmap+geolocal);
+      // return  (document.getElementById("").innerHTML =
+      //   "Ingresa tu número de cédula");
+  
+      // if(geolocal==="%0A                            "){
+      //   geolocal = '';
+  
+      // }
+      // if(dmap="%0A                            "){
+      //   dmap = '';
+  
+      // }
+  
+      // if(direccion="%0A                            "){
+      //   direccion = '';
+  
+      // }
+    
+    }
+  
+    if ( opcionlocal=== undefined) {
+      opcionlocal = '';
+    
+  }
+  
+  if (opcionlocal=== "%0A") {
+    opcionlocal = '';
+    
+  }
+  
+  }
+  
+  
+  var reservad = document.getElementsByName('entry.398428276');
+      
+      
+  for (var i = 0, length = reservad.length; i < length; i++) {
+    if (reservad[i].checked===true) {
+  
+      var dia = document.getElementById('entry.1164560529').value;
+    
+  var hora = document.getElementById('entry.404593967').value;
+  
+  
+      var opcionlocal = ("Opción de entrega"+"%0A"+reservad[i].value+"%0A" +dia+"%20"+hora);
+      // return  (document.getElementById("").innerHTML =
+      //   "Ingresa tu número de cédula");
+    
+    }
+  
+    if ( opcionlocal=== undefined) {
+      opcionlocal = '';
+    
+  }
+  
+  if (opcionlocal==="%0A") {
+    opcionlocal = '';
+    
+  }
+  
+  }
+  
+  
+  var reservad = document.getElementsByName('entry.1612018657');
+      
+      
+  for (var i = 0, length = reservad.length; i < length; i++) {
+    if (reservad[i].checked===true) {
+  
+      
+  
+  
+      var opcionlocal = ("Opción de entrega"+"%0A"+reservad[i].value);
+      // return  (document.getElementById("").innerHTML =
+      //   "Ingresa tu número de cédula");
+    
+    }
+  
+    if ( opcionlocal=== undefined) {
+      opcionlocal = '';
+    
+  }
+  
+  if (opcionlocal==="%0A") {
+    opcionlocal = '';
+    
+  }
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  var radios = document.getElementsByName('entry.696366128');
+  
+  
+  for (var i = 0, length = radios.length; i < length; i++) {
+    if (radios[i].checked) {
+   
+      var retornapagos ="💳*Forma de pago:* %20"+ (radios[i].value);
+  
+   
+  
+    }
+  
+    if (retornapagos=== undefined) {
+      retornapagos = '';
+      
+  
+  }
+  
+  
+  if (retornapagos=== "%0A") {
+    retornapagos = '';
+    
+  
+  }
+  }
+  
+  var radios = document.getElementsByName('entry.1405646315');
+  
+  
+  for (var i = 0, length = radios.length; i < length; i++) {
+    if (radios[i].checked) {
+   
+      var retornapagos ="*💳Forma de pago:* %20"+ (radios[i].value);
+  
+      var cambio= document.getElementById('entry.580204725').textContent;
+  
+    }
+  
+    if (retornapagos=== undefined) {
+      retornapagos = '';
+      
+  
+  }
+  
+  if (cambio=== undefined) {
+    cambio = '';
+    
+  
+  }
+  
+  
+  if (cambio=== "%0A") {
+    cambio = '';
+    
+  
+  }
+  
+  
+  
+  
+  
+  if (retornapagos=== "%0A") {
+    retornapagos = '';
+    
+  
+  }
+  }
+  
+  var radios = document.getElementsByName('entry.1179942020');
+  
+  
+  for (var i = 0, length = radios.length; i < length; i++) {
+    if (radios[i].checked) {
+   
+      var retornapagos ="*💳Forma de pago:* %20"+ (radios[i].value)+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+"%0A"+"*Haz una captura y envíanos por aquí* 👇";
+   
+  
+    }
+  
+    if (retornapagos=== undefined) {
+      retornapagos = '';
+      
+  
+  }
+  
+  if (retornapagos=== "%0A") {
+    retornapagos = '';
+    
+  
+  }
+  }
+  
+  var radios = document.getElementsByName('entry.2095367105');
+  
+  
+  for (var i = 0, length = radios.length; i < length; i++) {
+    if (radios[i].checked) {
+   
+      var retornapagos ="*💳Forma de pago:* %20"+ (radios[i].value);
+  
+   
+  
+    }
+  
+    if (retornapagos=== undefined) {
+      retornapagos = '';
+      
+  
+  }
+  
+  if (retornapagos=== "%0A") {
+    retornapagos = '';
+    
+  
+  }
+  }
+  
+  
+  // cedula para facturar
+  // var facturafc = document.getElementsByClassName('facf');
+  
+  
+  // $('div.myClass');
+  
+  // $('.eti4').on('click', function(){
+  //   $('.datos4').addClass('show btnpagos');
+  //   $('.datos1').removeClass('show btnpagos');
+  //   $('.datos2').removeClass('show btnpagos');
+  //   $('.datos3').removeClass('show btnpagos');
+  // })
+  
+  // var wert="";
+  
+  // var wsd=document.getElementById('entry.709227128');
+  
+  
+   
+  //     if (document.getElementById("entry.709227128").checked = true) {
+     
+  //       var retornafc = wsd.value;
+    
+    
+  //     }
+    
+  //     if (retornafc=== undefined) {
+  //       retornafc = '';
+        
+  //     }
+  
+      var fact = document.getElementsByName('entry.709227128');
+  
+  
+      for (var i = 0, length = fact.length; i < length; i++) {
+        if (fact[i].checked) {
+       
+          var mostrarfac = (fact[i].value+"%0A");
+      
+       
+      
+        }
+      
+        if (mostrarfac=== undefined) {
+          mostrarfac = '';
+          
+      
+      }
+  
+      if (retornapagos=== "%0A") {
+        retornapagos = '';
+        
+      
+      }
+  
+      }
+  
+      var fact = document.getElementsByName('entry.2016983664');
+  
+  
+      for (var i = 0, length = fact.length; i < length; i++) {
+        if (fact[i].checked) {
+       
+          var mostrarfac = (fact[i].value+"%0A");
+      
+       
+      
+        }
+      
+        if (mostrarfac=== undefined) {
+          mostrarfac = '';
+          
+      
+      }
+  
+  
+  
+      if (retornapagos=== "%0A") {
+        retornapagos = '';
+        
+      
+      }
+      }
+  
+      var fact = document.getElementsByName('entry.1758756268');
+  
+  
+      for (var i = 0, length = fact.length; i < length; i++) {
+        if (fact[i].checked) {
+       
+          var mostrarfac = (fact[i].value+"%0A");
+      
+       
+      
+        }
+      
+        if (mostrarfac=== undefined) {
+          mostrarfac = '';
+          
+      
+      }
+  
+  
+      if (retornapagos=== "%0A") {
+        retornapagos = '';
+        
+      
+      }
+      }
+  
+  
+  
+  
+  
+      
+  var mostrarcedula=document.getElementById('entry.2420597').value+"%0A";
+  
+  
+  
+  // var fanlink=document.getElementById('fantasmasend').textContent+"%0A"+"Realiza el pago y envíanos una captura del pago para activar tu licencia* 👇"+"%0A";
+
+  var fanlink=document.getElementById('fantasmasend').textContent+ "%20";
+  
+  
+ 
+  
+  
+  var factm= document.getElementsByName('entry.2420597');
+  
+  
+  for (var i = 0, length = factm.length; i < length; i++) {
+    if (factm[i].checked) {
+   
+      var mostrarcedula = (factm[i].value+"%0A");
+  
+   
+  
+    }
+  
+    if (mostrarcedula=== undefined) {
+      mostrarcedula = '';
+      
+  
+  }
+  if (retornapagos=== "%0A") {
+    retornapagos = '';
+    
+  
+  }
+  }
+  
+    
+  
+  var mostrarpedidof=document.querySelector('.fantasma').textContent;
+  
+  // if( mostrarpedidof === ''|| /^\s+$/.test(totalfp) )  {
+  //   document.getElementById("demo").innerHTML =
+  //   "Aún no haz selecionado productos "
+  
+  // }
+    
+  // var mostrarpedidof2=document.querySelector('.ter').textContent;
+  // if(mostrarpedidof2 == null || mostrarpedidof2 .length == 0 || /^\s+$/.test(mostrarpedidof2 )) {
+  //   alert("Aún no seleccionas productos 😅");
+  
+  // }
+  
+  if(mostrarpedidof == null || mostrarpedidof .length == 0 || /^\s+$/.test(mostrarpedidof )) {
+    alert("Aún no seleccionas productos 😅");
+    return false;
+  }
+  
+  if(nombre == null || nombre .length == 0 || /^\s+$/.test(nombre )) {
+    alert("Llena el campo con tus nombres completos 😅");
+    return false;
+  }
+    
+  if(email == null || email .length == 0 || /^\s+$/.test(email )) {
+    alert("Ingresa tu mejor correo electrónico 😅");
+    return false;
+  }
+    
+  if(whatsapp == null || whatsapp .length == 0 || /^\s+$/.test(whatsapp )) {
+    alert("Ingresa tu número de WhatsApp 😅");
+    return false;
+  }
+    
+  
+  // if(totalfp<= 10 || /^\s+$/.test(totalfp)) {
+  //   alert("tu pedido minimó debe ser de $100");
+  //   return false;
+  // }
+  
+    // if(  totalfp <= 10|| /^\s+$/.test(totalfp) )  {
+      // return (document.getElementById("demo").innerHTML =
+      // "Tu pedido mínimo debe ser de $10.00")
+    
+  // var qw= document.getElementById('latitude').textContent;
+  
+  
+  // var qa=qw.replace('(','');
+  // var az=qa.replace(')','');
+  // var zx=az.replace(' ','');
+  //   var  mapi = 'https://maps.google.com/?q='+zx;
+  
+  //   // mapi.innerHTML=`${mapi}`;
+  
+  //   document.getElementById('entry.1441018699').innerHTML=mapi;
+  
+  // $("#latitude").change(function() {
+  //   //Si el checkbox está seleccionado
+  //   if($(this).is(":change")) {
+      
+  //     document.getElementById('entry.1441018699').innerHTML=mapi;
+  
+  //   }
+  //   else {
+  //     alert("El checkbox no está seleccionado");
+  //   }
+  
+   
+  
+    
+  //   });
+    
+    
+  
+  
+  
+  
+  
+  // var mapi="";
+  
+  // var insertmapgs=document.getElementById("entry.1441018699");
+  
+  
+  // var qw= document.getElementById('latitude').textContent;
+  
+  
+  // var qa=qw.replace('(','');
+  // var az=qa.replace(')','');
+  // var zx=az.replace(' ',''); 
+  // // "-0.0897748,-78.4149483"
+  
+  
+  // mapi = 'https://maps.google.com/?q='+zx;
+  
+  
+  //     insertmapgs.innerHTML=`${mapi}`;
+    
+  
+  
+  
+  
+  
+  // var billete= document.getElementById('entry.580204725').textContent;
+  
+  
+  // for (var i = 0, length = billete.length; i < length; i++) {
+  //   if (billete[i].checked) {
+   
+  //     var cambio = (billete[i].value+"%0A");
+  
+   
+  
+  //   }
+  
+  //   if (cambio=== undefined) {
+  //     cambio = '';
+      
+  
+  // }
+  // if (cambio=== "%0A") {
+  //   cambio = '';
+    
+  
+  // }
+  // }
+  
+  // var myWindow = window.open ("https://midominio.com/"+"Demo Ecommerce BurgerKings" + "%20" + "%0A"+"✅  _Pedido confirmado_" + "Orden N°"+orden + "%0A"+"_________________________" + "%0A"+"%0A"+
+  //  "*Nombre*" +"%0A" + nombre + "%20" +"%0A"+"%0A" +"*Email*" +"%0A" + email +  "%20" + "%0A"+"%0A"+"*Costo Delivery*"+"%0A" + delivery + "%20" +"%0A"+ "%0A"+"*Dirección con referencia*"+"%0A" +direccion+"%0A"+totalf+ pedidof+ "%0A"+"%0A"+
+  //   "%0A"+"%0A"+ "%0A" +"_________________________" + "%0A" + "%0A"+"*P.D.*"+ "%20"+ "Guarda nuestro contacto como  para recibir 15 minutos antes el link de Zoom. Empezamos puntual 😉👍");
+  
+  
+  
+  // var myWindow = window.open("https://midominio.com/"+"*Demo Ecommerce FastFood*" + "%20" + "%0A"+"✅ *Pedido confirmado*"+"%0A"+"_Orden N°_"+ "%20"+"---"+"%20"+orden+"%20"+"---"+ "%0A"+"_________________________" + "%0A"+"%0A"+"*Tu pedido es:*"+ "%0A"+ "%0A"+mostrarpedidof+ "%0A"+ "%0A"+"*Total:*"+ "%20"+totalfp+ "%0A"+"_________________________"+ "%0A"+"%0A"+
+  //  "*Nombre:*" +"%20"+ nombre+"%0A"+"*Email:*" +"%20" + email+"%0A"+"*Costo Delivery:*"+"%20" + delivery+"%0A"+"*Dirección con referencia:*"+"%20" +direccion+"%0A" +"_________________________"  + "%0A"+"%0A"+"*Forma de pago:*"+"%0A"+ retornapagos+"%0A"+"%0A"+"*Total:*"+ "%20"+totalfp+"%0A"+"%0A"+ "_Para ver más demos ingresa al siguiente link:_"+"%0A");
+  
+  
+  
+  // }
+  
+  
+  
+  
+  // var whatsapp_number ="&text=*Demo WhatsApp Ecommerce*" + "%0A"+"*WhatBulkSender - WhatsEcom - 2020*"+ "%0A"+"✅ *Pedido confirmado*"+"%0A"+"_Orden N°_"+"%20"+ "%20"+"---"+"%20"+orden+"%20"+"---"+ "%0A"+"_________________________" + "%0A"+"*Tu pedido es:*"+ "%0A"+mostrarpedidof+ "%0A"+"Subotal:"+"%20"+ `$${totalfp.toFixed(2)}`+ "%0A"+"Delivery:"+"%20"+"$"+(Number(delivery)).toFixed(2)+ "%0A" +"*Total:*"+ "%20"+ "$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+ "%0A"+"_________________________"+ "%0A"+'*🙂Datos del Cliente:*'+ "%0A"+mostrarfac+"%20"+mostrarcedula+nombre+email+whatsapp+"%20"+"_________________________" +"%0A"+"*📍Datos de entrega:*"+"%0A"+opcionlocal+"%0A" +"_________________________"  + "%0A"+ retornapagos+ "%0A"  +"*Subtotal:*"+ "%20"+"$"+ totalfp.toFixed(2)+"%0A"+"*Delivery:*"+"%20"+"$"+`${(Number(delivery)).toFixed(2) }`+"%0A"+"*Total:*"+ "%20"+"$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+"%0A"+"*Orden N°:*"+ "%20"+orden;
+    
+  
+  
+  var whatsapp_number ="&text=*Orden exitosa*" + "%0A"+"*Bot-Masters-2023*"+ "%0A"+"✅ *Detalle de la orden:*"+"%0A"+"_Orden N°_"+"%20"+ "%20"+"---"+"%20"+orden+"%20"+"---"+ "%0A"+"_________________________" + "%0A"+mostrarpedidof+ "%0A"+"*Total:*"+ "%20"+ "$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+ "%0A"+"_________________________"+ "%0A"+'*🙂Datos del Cliente:*'+ "%0A"+mostrarfac+"%20"+mostrarcedula+nombre+email+whatsapp+"%20"+"_________________________" +"%0A"+ retornapagos+cambio+"%0A"+fanlink+ "%20"+"%0A"+"*Total:*"+ "%20"+"$"+`${(Number(delivery) + Number(totalfp.toFixed(2))).toFixed(2)}`+"%0A"+"%0A"+"*Orden N°:*"+ "%20"+orden;
+    
+    
+    
+    
+     var md = new MobileDetect(window.navigator.userAgent);
+     if (md.mobile()) {
+     
+  
+    //   if (mostrarpedidof===''){
+  
+     
+     
+    //     document.getElementById("demo").innerHTML =
+    //        "Aún no haz selecionado prodcutos"
+  
+    //       $('.demo').addClass('showmsg');
+  
+  
+    //       setTimeout(function() {
+    //         $(".showmsg").fadeOut(1500);
+    //         },500);
+          
+        
+        
+  
+  
+    //     // return (document.getElementById("demo").innerHTML =
+    //     //   "Aún no haz selecionado prodcutos")
+    //   }
+    //  else{
+      window.open(document.getElementById("enviarwa").href = "https://api.whatsapp.com/send?phone=593985590259" + whatsapp_number);
+    //  }
+        
+      
+    // window.open(fanlink)
+    
+       
+  
+      
+     
+  
+     } else {
+     
+       window.open(document.getElementById("enviarwa").href = "https://web.whatsapp.com/send?phone=593985590259" + whatsapp_number);
+  
+    //   window.open(fanlink)
+  
+  
+  
+     }
+  
+  
+   
+  
+     
+  }
+
+
+//   insertar img y el nombre del producto en el cariito de comparas
+
+
+
+  
+  // $("#boton").on("click",function(event){
+  //   event.preventDefault();
+  // });
+  
+  
+  
+  // animacion formas de pago 
+  
+  $('.eti1').on('click', function(){
+    $('.datos1').addClass('show btnpagos');
+   
+    $('.datos2').removeClass('show btnpagos');
+    $('.datos3').removeClass('show btnpagos');
+    $('.datos4').removeClass('show btnpagos');
+  
+  })
+  
+  
+  $('.eti2').on('click', function(){
+    $('.datos2').addClass('show btnpagos');
+    $('.datos1').removeClass('show btnpagos');
+    $('.datos3').removeClass('show btnpagos');
+    $('.datos4').removeClass('show btnpagos');
+  })
+  
+  $('.eti3').on('click', function(){
+    $('.datos3').addClass('show btnpagos');
+    $('.datos1').removeClass('show btnpagos');
+    $('.datos2').removeClass('show btnpagos');
+    $('.datos4').removeClass('show btnpagos');
+  })
+  
+  $('.eti4').on('click', function(){
+    $('.datos4').addClass('show btnpagos');
+    $('.datos1').removeClass('show btnpagos');
+    $('.datos2').removeClass('show btnpagos');
+    $('.datos3').removeClass('show btnpagos');
+  })
+  
+  // stylos input
+  
+  $('.btn-plus, .btn-minus').on('click', function(e) {
+    const isNegative = $(e.target).closest('.btn-minus').is('.btn-minus');
+    const input = $(e.target).closest('.input-group').find('input');
+    if (input.is('input')) {
+      input[0][isNegative ? 'stepDown' : 'stepUp']()
+    }
+  })
+  
+  
+  // stylos input
+  
+  $('.btn-plus, .btn-minus').on('click', function(e) {
+    const isNegative = $(e.target).closest('.btn-minus').is('.btn-minus');
+    const input = $(e.target).closest('.input-group').find('input');
+    if (input.is('input')) {
+      input[0][isNegative ? 'stepDown' : 'stepUp']()
+    }
+  })
+  
+  $(document).ready(function(){
+    var altura =$('.row-centered').offset().top;
+    $(window).on('scroll', function(){
+      if ($(window).scrollTop()>= altura){
+        $('.row-centered').addClass('row-centered2');
+      } else{
+        $('.row-centered').removeClass('row-centered2');
+      }
+    })
+  });
+  
+  $('.plus').on('click', function(){
+    // $('#cardnegocioid').addClass('mostrarcart');
+    $('.hul2').addClass('mostrarmenu3');
+  
+  })
+  
+  var wer=document.querySelector('.separatescrol').textContent;
+  
+  function sdf(){
+  
+  
+  if(wer=""){
+  
+    $('.psinproductos').addClass('msinproductos');
+  }
+  
+  
+  }
+  
+  // $('#cardnegocioid').on('click', function(){
+  //   $('#nav').addClass('mostrarmenu2');
+  //   $('#cardnegocioid').addClass('chaoboton');
+  // })
+  
+  
+  
+  
+  
+  $('#cardnegocioid').on('click', function(){
+    $('#nav').addClass('mostrarmenu2');
+   
+    $('#cardnegocioid').addClass('chaoboton');
+  })
+  
+  
+  $('.continuar,.but34').on('click', function(){
+    $('#nav').removeClass('mostrarmenu2');
+    $('.hul2').addClass('mostrarmenu3');
+    
+  })
+  
+  
+   $('.seguirc,.cerrardata').on('click', function(){
+    $('#nav').removeClass('mostrarmenu2');
+    $('.hul2').removeClass('mostrarmenu3');
+    $('#cardnegocioid').removeClass('chaoboton');
+    $('#cardnegocioid').addClass('mostrarcart');
+    
+  
+    
+  })
+
+
+  
+  
+  
+  
+  
+  
+  const images = document.querySelectorAll('.item-image'); 
+  
+  const titles = document.querySelectorAll('.item-title'); 
+  const price = document.querySelectorAll('.item-price');
+  
+  const cantidad = document.querySelectorAll('.item_cantidadg');
+  
+  const containerimage = document.querySelector('.container-img');
+  
+  
+  const imageContainer =document.querySelector('.img-show');
+  
+  const copy = document.querySelector('.copy');
+  
+  const closeModal = document.querySelector('.bx.bx-x');
+  
+  images.forEach(image =>{
+    image.addEventListener('click',()=>{
+  addImage(image.getAttribute('src'),image.getAttribute('alt'));
+  
+  
+   
+    })
+  
+  })
+  
+  titles.forEach(titlesf =>{
+  titlesf.addEventListener('click',()=>{
+  
+  
+  })
+  })
+  
+  
+  const addImage = (srcImage, altImage)=>{
+  containerimage.classList.toggle('move');
+  imageContainer.classList.toggle('show');
+  imageContainer.src = srcImage;
+  copy.innerHTML = altImage;
+  
+  
+  
+  }
+  
+  // const addTitle = (titlef)=>{
+  //   containerimage.classList.toggle('move');
+  //   imageContainer.classList.toggle('show');
+  
+  //   titles.innerHTML = ;
+  
+  
+  
+  // }
+  
+  
+  closeModal.addEventListener('click', ()=>{
+  
+  containerimage.classList.toggle('move');
+  imageContainer.classList.toggle('show');
+  })
+  
+  
+  // $('.seguirc').on('click', function(){$('.derechafinal').addClass('mostrarmenu2');$('#cardnegocioid').addClass('chaoboton');})
+  
+  // $('.continuar').on('click', function(){
+    
+  //   $('#cardnegocioid').removeClass('mostrarcart');
+  // })
+  
+  // $('#cardnegocioid', function(){
+  //   $('#nav').addClass('mostrarmenu2');
+  // se auto ejecuta })
+  
+  // $('.seguirc ,.continuar').on('click', function(){
+  //   $('#nav').removeClass('mostrarmenu2');
+  //   $('#cardnegocioid').removeClass('chaoboton');
+  // })
+  
+  
+  // $('.mostrarmenu2').on('click', function(){
+  //   $('#nav').removeClass('mostrarmenu2');
+  //   // $('#nav').removeClass('mostrarmenu2');
+  //   $('#cardnegocioid').removeClass('chaoboton');
+  
+  // })
+
+//   $('#cerrardata2').on('click', function(){
+
+//     location.reload();
+    
+//   })
+  
+  function limpiarformas(){
+  
+    document.getElementById("entry.1405646315").checked = false;
+    document.getElementById("entry.1179942020").checked = false;
+    document.getElementById("entry.2095367105").checked = false;
+    var fdg=document.getElementById('entry.1280846489').value='';
+    
+    document.getElementById('entry.580204725').textContent='';
+    document.querySelector('.feepaypal').textContent='';
+    var comicpay = document.querySelector('.comicpay');
+    comicpay.style.display = 'none';
+
+var sbtotal=document.querySelector('.shoppingCartTotal2').textContent;
+
+var totaltrans= parseFloat(sbtotal.replace("$", ""));
+
+    var stringNumero = document.querySelector('.shoppingCartTotaldelivery').innerHTML=sbtotal;
+   
+    var chaofantasma=document.getElementById('fantasmasend').textContent='';
+   
+  }
+  
+  function limpiarformase(){
+  
+    document.getElementById("entry.696366128").checked = false;
+    document.getElementById("entry.1179942020").checked = false;
+    document.getElementById("entry.2095367105").checked = false;
+
+    document.querySelector('.feepaypal').textContent='';
+    var comicpay = document.querySelector('.comicpay');
+    comicpay.style.display = 'none';
+
+var sbtotal=document.querySelector('.shoppingCartTotal2').textContent;
+
+var totaltrans= parseFloat(sbtotal.replace("$", ""));
+
+    var stringNumero = document.querySelector('.shoppingCartTotaldelivery').innerHTML=sbtotal;
+    var chaofantasma=document.getElementById('fantasmasend').textContent='';
+
+   
+  }
+  
+  function limpiarformaspl(){
+  
+    document.getElementById("entry.1405646315").checked = false;
+    document.getElementById("entry.696366128").checked = false;
+    document.getElementById("entry.2095367105").checked = false;
+  
+    var fdg=document.getElementById('entry.1280846489').value='';
+    
+    document.getElementById('entry.580204725').textContent='';
+    document.getElementById('entry.1179942020').textContent='';
+  }
+  
+  function limpiarformaspy(){
+  
+    document.getElementById("entry.1405646315").checked = false;
+    document.getElementById("entry.1179942020").checked = false;
+    document.getElementById("entry.696366128").checked = false;
+    var fdg=document.getElementById('entry.1280846489').value='';
+    
+    document.getElementById('entry.580204725').textContent='';
+    document.querySelector('.feepaypal').textContent='';
+    var comicpay = document.querySelector('.comicpay');
+    comicpay.style.display = 'none';
+
+var sbtotal=document.querySelector('.shoppingCartTotal2').textContent;
+
+var totaltrans= parseFloat(sbtotal.replace("$", ""));
+
+    var stringNumero = document.querySelector('.shoppingCartTotaldelivery').innerHTML=sbtotal;
+  }
+  
+  
+  // limpiar factura
+  
+  
+  function limpiarfac(){
+  
+    document.getElementById("entry.2016983664").checked = false;
+    document.getElementById("entry.1758756268").checked = false;
+   
+   
+  }
+  function limpiarfac(){
+  
+    document.getElementById("entry.2016983664").checked = false;
+    document.getElementById("entry.1758756268").checked = false;
+   
+   
+  }
+  
+  
+  function limpiarconsu(){
+    
+  
+    document.getElementById('entry.2420597').value = '';
+    document.getElementById("entry.709227128").checked = false;
+    document.getElementById("entry.1758756268").checked = false;
+  
+  }
+  
+  
+  
+  function limpiarcliente(){
+  
+    document.getElementById('entry.2420597').value = '';
+    document.getElementById("entry.709227128").checked = false;
+  
+    document.getElementById("entry.2016983664").checked = false;
+  
+    $('.datosfacturacion').addClass('datoschao');
+  }
+  
+  
+  
+  
+  function linpiarreserdomi(){
+   
+    document.getElementById('entry.1441018699').textContent='';
+    
+  
+    document.getElementById("entry.1067299390").checked = false;
+    document.getElementById('entry.686290451').value = '0';
+    document.getElementById('entry.803987817').value = '';
+  
+    document.getElementById("entry.398428276").checked = false;
+    document.getElementById('entry.1164560529').value = '0';
+    document.getElementById('entry.404593967').value = '';
+  
+   
+  
+   limpiaringd();
+   limpiaringdmap();
+   
+   document.getElementById("entry.2092178738").textContent='';
+    // linpiarreservar();
+    // linpiardelivery();
+  //  document.querySelector('#totalwa p').textContent='0.00';
+  
+  }
+  
+  
+  function linpiarreservar(){
+  
+    document.getElementById("entry.398428276").checked = false;
+    document.getElementById("entry.1612018657").checked = false;
+  
+    document.getElementById('entry.1164560529').value = '0';
+    document.getElementById('entry.404593967').value = '';
+  
+  
+  }
+  
+  function linpiardelivery(){
+  
+  
+  
+    document.getElementById("entry.696366128").checked = false;
+  
+    document.getElementById("entry.1405646315").checked = false;
+    
+    document.getElementById("entry.1179942020").checked = false;
+    
+    document.getElementById("entry.2095367105").checked = false;
+  
+  
+    limpiaringd();
+  
+    limpiaringdmap();
+    document.getElementById("entry.1067299390").checked = false;
+    
+  document.getElementById("entry.1612018657").checked = false;
+  
+    document.getElementById('entry.686290451').value = '0';
+    document.getElementById('entry.803987817').value = '';
+    // document.querySelector('#latitude').textContent='';
+    // document.querySelector('#address').textContent='';
+    document.getElementById('entry.1441018699').textContent='';
+    document.getElementById('entry.2092178738').textContent='';
+    document.getElementById("entry.1441018699").textContent = '';
+  
+    document.getElementById('entry.1280846489').value='';
+  
+  document.getElementById('entry.580204725').textContent='';
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  
+  
+  
+  
+  function limpiaringd(){
+  
+  
+    document.getElementById("entry.2092178738").checked = false;
+  
+  
+  }
+  
+  function limpiaringdmap(){
+  
+  
+    document.getElementById("entry.150273747").checked = false;
+  
+  
+  }
+  
+  
+  
+  
+  $('.consumidorsinfac').on('click', function(){
+    
+  
+    $('.datafac').removeClass('showinputcedula');
+  
+  
+    $('.datosfacturacion').removeClass('datoschao');
+    $('#cedulafac')('showinputcedula');
+    
+  
+  
+  })
+  
+  $('.faccedula').on('click', function(){
+    
+    $('.datafac').addClass('showinputcedula');
+    $('.datosfacturacion').removeClass('datoschao');
+  
+  })
+  
+  
+  $('.clientefac').on('click', function(){
+  
+    
+    $('.datafac').removeClass('showinputcedula');
+  
+    $('.datosfacturacion').addClass('datoschao');
+  
+  })
+  
+  
+  
+  
+  $('.deliveryope').on('click', function(){
+      
+    $('.opedetalle').addClass('showpocion');
+    $('.diahora').removeClass('verdiahora');
+  
+    $('.formasdepagos').removeClass('quitarformasdepago');
+  
+  })
+  
+  $('.deliveryoper').on('click', function(){
+      
+    $('.diahora').addClass('verdiahora');
+  
+  
+    $('.diahora').addClass('verdiahora');
+  
+    $('.formasdepagos').addClass('quitarformasdepago');
+  
+    // $('.formasdepagos').remove('.formasdepagos');
+   
+  
+    
+  
+  })
+  
+  
+  
+  
+  
+  
+  
+  $('.deliveryoper , .deliveryoperr').on('click', function(){
+    
+  
+    $('.opedetalle').removeClass('showpocion');
+  
+  
+  
+    // $('#cedulafac')('showinputcedula');
+  
+  
+  })
+  
+  $('.deliveryoperr').on('click', function(){
+    
+  
+    $('.diahora').removeClass('verdiahora');
+  
+    $('.formasdepagos').removeClass('quitarformasdepago');
+  
+    // $('#cedulafac')('showinputcedula');
+  
+  
+  })
+  
+  $('.mapalocor').on('click', function(){
+    
+  
+    $('.direcreg').addClass('showpocion');
+  
+    $('.mapcanvas').removeClass('showcanvas');
+    $('.googlemaps').removeClass('googledisplay');
+  
+  })
+  
+  
+  
+  $('.mapalocor2').on('click', function(){
+    
+  
+    $('.direcreg').removeClass('showpocion');
+  
+    $('.mapcanvas').addClass('showcanvas');
+  
+    $('.googlemaps').addClass('googledisplay');
+  
+  
+  })
+  
+  
+  
+  var map;
+  
+  function initialize() {
+  
+    var mapOptions = {
+        center: new google.maps.LatLng(-0.1769941, -78.478394,17),
+        zoom: 17
+    };
+  
+    map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+  
+    // Create the DIV to hold the control and call the constructor passing in this DIV
+    var geolocationDiv = document.createElement('div');
+    var geolocationControl = new GeolocationControl(geolocationDiv, map);
+  
+    map.controls[google.maps.ControlPosition.TOP_CENTER].push(geolocationDiv);
+  
+    // map.addListener("click", (event) => {
+    //   addMarker(event.latLng);
+    // });
+  
+    // addMarker(mapOptions);
+  
+  
+  }
+  
+  function GeolocationControl(controlDiv, map) {
+  
+    // Set CSS for the control button
+    var controlUI = document.createElement('div');
+    controlUI.style.backgroundColor = '#25d366';
+    controlUI.style.borderStyle = 'solid';
+    controlUI.style.borderWidth = '1px';
+    controlUI.style.borderColor = 'white';
+    controlUI.style.height = '40px';
+    controlUI.style.borderRadius = '5px';
+    controlUI.style.zIndex = '1000';
+    controlUI.style.width= '200px';
+    controlUI.style.marginTop = '50px';
+    controlUI.style.cursor = 'pointer';
+    controlUI.style.textAlign = 'center';
+    controlUI.title = 'Click to center map on your location';
+    controlDiv.appendChild(controlUI);
+  
+    // Set CSS for the control text
+    var controlText = document.createElement('div');
+    controlText.style.fontFamily = 'Arial,sans-serif';
+    controlText.style.fontSize = '13px';
+    controlText.style.color = 'white';
+    controlText.style.paddingLeft = '10px';
+    controlText.style.paddingRight = '10px';
+    controlText.style.marginTop = '8px';
+    controlUI.style.zIndex = '1000';
+    controlText.innerHTML = 'Pulsa aquí para seleccionar tu ubicación';
+    controlUI.appendChild(controlText);
+  
+    // Setup the click event listeners to geolocate user
+    google.maps.event.addDomListener(controlUI, 'click', geolocate);
+  }
+  
+  
+  
+  
+  // var qw= document.getElementById('latitude').textContent;
+  
+  
+  // var qa=qw.replace('(','');
+  // var az=qa.replace(')','');
+  // var zx=az.replace(' ','');
+  //   var  mapi = 'https://maps.google.com/?q='+zx;
+  
+  //   // mapi.innerHTML=`${mapi}`;
+  
+  //   document.getElementById('entry.1441018699').innerHTML=mapi;
+  
+  // $("#latitude").change(function() {
+  //   //Si el checkbox está seleccionado
+  //   if($(this).is(":change")) {
+      
+  //     document.getElementById('entry.1441018699').innerHTML=mapi;
+  
+  //   }
+  //   else {
+  //     alert("El checkbox no está seleccionado");
+  //   }
+  
+    
+  //   });
+  
+  
+  function geolocate() {
+    
+  
+    if (navigator.geolocation) {
+  
+        navigator.geolocation.getCurrentPosition(function (position) {
+  
+            var pos = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+  
+            let post='';
+  
+  
+  
+  
+      var latDiv =document.querySelector('#latitude').innerHTML=pos;
+  
+    
+  var sw=document.getElementById('latitude').textContent;
+   
+  var qa=sw.replace('(','');
+  var qw=qa.replace(')','');
+  var qz=qw.replace(' ','');
+  
+  var latDiv2 =document.getElementById('entry.1441018699').innerHTML='https://maps.google.com/?q='+qz;
+    
+     
+   
+  
+      var addrDiv =document.querySelector('.address');
+  
+  
+  
+      var geocoder=new google.maps.Geocoder;
+  
+  
+  
+          geocoder.geocode({'location': pos}, function(results, status){
+                if (status === 'OK'){
+                    if (results[0]){
+                        addrDiv.innerHTML ='Tu dirección de entrega es: '+ results[0].formatted_address;
+  
+                        
+  
+                    } else {
+                        addrDiv.innerHTML = 'No address could be retrieved.'
+                    }
+                } else {
+                    addrDiv.innerHTML = "Geocoder failed due to " + status;
+                }
+  
+              
+                    
+            });
+  
+          
+  
+  
+            // Create a marker and center map on user location
+            marker = new google.maps.Marker({
+                position: pos,
+                draggable: true,
+                animation: google.maps.Animation.DROP,
+                map: map
+            });
+  
+            map.setCenter(pos);
+  
+            // function setMapOnAll(maker) {
+            //   for (let i = 0; i < marker.length; i++) {
+            //     marker[i].setMap();
+            //   }
+            // }
+            
+            // function clearMarkers() {
+            
+            //   $(".delyveryoper").click(function() {
+            //       //Si el checkbox está seleccionado
+            //       if($(this).is("clicked")) {
+            //         setMapOnAll(null);
+            //       }
+            //       else {
+            //         alert("El checkbox no está seleccionado");
+            //       }
+                
+            //     });
+  
+               
+             
+            // }
+  
+            // clearMarkers();
+  
+  
+  
+  
+        
+        });
+  
+  
+  
+        
+    }
+  
+   
+  }
+  
+  initialize();
+  
+  
+  var ws=document.getElementById('intro').textContent;
+  
+  
+  document.getElementById('entry.1450118414').innerHTML=ws;
+  
+  
+  $('.owl-carousel').owlCarousel({
+    // stagePadding: 10,
+  
+    loop:false,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+  })
+
+  
+  
+  
+  
+  $('.modalv').on('click', function(){$('.modalv').addClass('nosvemos2')})
+  
+  
+  //   $('#C1-I1-p,#C1-I2-p,#C1-I3-p,#C1-I4-p,#C1-I5-p').addClass('energon');
+  
+  //   $('#C1-I1-p,#C1-I2-p,#C1-I3-p,#C1-I4-p,#C1-I5-p').on('click', function(){
+    
+  
+  //     $('.plust').addClass('energont');
+  //     $('.minus').addClass('displaymq');
+  //     $('.quantity').addClass('displaymq');
+  
+  
+  //   })
+  
+  
+  
+  
+  // let pbtn = document.querySelector('.plus');
+  
+  
+  //  let ptbtn = document.querySelector('.plust');
+  //  let mbtn = document.querySelector('.minus');
+  //  let qbtn = document.querySelector('.quantity');
+  
+  //   $('.plust').on('click', function(){
+  
+  
+  //     ptbtn.innerText='';
+  
+  //     mbtn.style.display='inline-block'; 
+  //     qbtn.style.display='inline-block';
+  
+  //     $('#C1-I1-p,#C1-I2-p,#C1-I3-p,#C1-I4-p,#C1-I5-p').removeClass('energon');
+  //     // $('#C2-I1-p,').removeClass('energon');
+  //    $('.plust').removeClass('energont');
+     
+  //    $('.minus').removeClass('displaymq');
+  //    $('.quantity').removeClass('displaymq');
+   
+     
+  //      })
+  
+  
+  
+  
+  var recaptcha_response1 = '';
+  function submitUserForm1() {
+      if(recaptcha_response1.length == 0) {
+          document.getElementById('g-recaptcha-error1').innerHTML = '<span style="color:red;">This field is required.</span>';
+          return false;
+  
+  
+          
+      }
+          $('#gform2 *').fadeOut(2000);
+      $('#gform2').prepend('<div class="cerrardata2"> <div><span class="icon-flecha-izq"></span></div></div> <br><p class="pgracias">¡Gracias! Tu pedido ha sido enviado con éxito, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones para realizar el pago. 🙂</p>');
+    
+      $('.cerrardata2').click(function() {
+        location.reload();
+      
+      });
+
+      goToPagep();
+    //   location.reload(); no permite enviar a google forms
+   
+  }
+  
+  
+  
+  
+          
+  function verifyCaptcha1(token) {
+      recaptcha_response1 = token;
+      document.getElementById('g-recaptcha-error1').innerHTML = '';
+  }
+  
+  
+     
+          
+  
+  // date = new Date();
+  // year = date.getFullYear();
+  // month = date.getMonth() +2;
+  // day = date.getDate()+ 2;
+  // document.getElementById("current_date").innerHTML =  day  + "/" + month + "/" + year;
+  
+  // document.getElementById("current_date2").innerHTML =  day  + "/" + month + "/" + year;
+  // // chat
+  
+  // $('#cerrarchat2').on('click', function(){
+  
+  //   $('.cardmenu').css('left', '-100%');
+  //   document.getElementById("whaterror").style="display: none";
+  // })
+  
+  
+    
+  
+  $('.cardnegocio2').click(function() {
+    $('#cardmenu').css('left', '0');
+    
+    });
+  
+  
+  $('.cardnegocio2').on('click', function(){
+    $('#cardmenu').addClass('mostrarcardmenu');
+  })
+  
+  $('#cerrarchat2').on('click', function(){
+    $('#cardmenu').toggleClass('mostrarcardmenu');
+    document.getElementById('edad').value = '';
+    $('.cardmenu').css('left', '-100%');
+  })
+  
+  
+  
+  
+  setTimeout(function() {
+    $(".unowhat2").fadeIn(1000);
+  },8500);
+  
+  
+   
+  function obtenerdatos2(){
+    var nombre = document.getElementById('edad').value;
+  
+  
+  
+    if( nombre == null || nombre.length == 0 || /^\s+$/.test(nombre) ) {
+       
+        return (document.getElementById("whaterror").innerHTML =
+        "¿Como podemos ayudarte? 😽👇",document.getElementById("whaterror").style=" color: #25d366; position: relative; padding: 15px;  margin: 0 26px 20px; border-radius: 15px; background-color: #fff; color: #4a4a4a; box-shadow: 0 1px 2px 0 rgb(0 0 0 / 30%); transition: 0.5s ease-in-out;")
+      }
+  
+   
+  
+  
+      
+  
+  
+      document.getElementById('edad').value = '';
+      document.getElementById('edad').style ="height 0";
+  
+    var myWindow = "&text="+nombre;
+  
+    var md = new MobileDetect(window.navigator.userAgent);
+       if (md.mobile()) {
+  
+        window.open(document.getElementById("enviarwa2").href = "https://api.whatsapp.com/send?phone=593985590259" + myWindow);
+        
+       
+          } else {
+       
+        window.open(document.getElementById("enviarwa2").href = "https://web.whatsapp.com/send?phone=593985590259" + myWindow);
+   
+       
+       
+      }
+  
+  
+     
+      $('.cardmenu').css('left', '-100%');
+  }
+  
+  
+  
+  
+  
+  
+  function goToPageayuda(){
+    var nombre = document.getElementById('entry.865577691').value;
+    var nombrenegocio = document.getElementById('entry.116133504').value;
+    var tipodenegocio = document.getElementById('entry.516082604').value;
+    var whatsapp = document.getElementById('entry.751884520').value;
+    // var diaprueba = document.getElementById('entry.1087253973').value;
+    // var horaprueba = document.getElementById('entry.1527657423').value;
+  
+    // if( nombre == null || nombre.length == 0 || /^\s+$/.test(nombre) ) {
+       
+    //   return (document.getElementById("demo").innerHTML =
+    //   "Ingresa tu nombre completo")
+    // }
+    // if( nombrenegocio == null || nombrenegocio.length == 0 || /^\s+$/.test(nombrenegocio) ) {
+       
+    //   return (document.getElementById("demo").innerHTML =
+    //   "Ingresa el nombre de tu negocio")
+    // }
+    // if( tipodenegocio == null || tipodenegocio.length == 0 || /^\s+$/.test(tipodenegocio) ) {
+       
+    //   return (document.getElementById("demo").innerHTML =
+    //   "Selecciona el tipo de negocio")
+    // }
+    // if( whatsapp == null || whatsapp.length == 0 || /^\s+$/.test(whatsapp) ) {
+       
+    //   return (document.getElementById("demo").innerHTML =
+    //   "Ingresa un número de WhatsApp")
+    // }
+    // if( diaprueba == null || diaprueba.length == 0 || /^\s+$/.test(diaprueba) ) {
+       
+    //   return (document.getElementById("demo").innerHTML =
+    //   "Selecciona el día para la prueba")
+    // }
+    // if( horaprueba == null || horaprueba.length == 0 || /^\s+$/.test(horaprueba) ) {
+       
+    //   return (document.getElementById("demo").innerHTML =
+    //   "Selecciona una hora")
+    // }
+  
+  //   var myWindow = window.open ("https://api.whatsapp.com/send?phone=593985590259&text="+"Capacitación y Prueba de" + "%20" + "*WhatsBulkSender™*" + "%0A"+"✅ _Registro confirmado_" + "%0A"+"_________________________" + "%0A"+"%0A"+ "*Nombre*" +"%0A" + nombre + "%20" +"%0A"+"%0A" +"*Nombre del Negocio*" +"%0A" + nombrenegocio +  "%20" + "%0A"+"%0A"+"*Tipo de Negocio*"+"%0A" + tipodenegocio + "%20" +"%0A"+ "%0A"+ "_________________________" + "%0A" + "%0A"+"*P.D.*"+ "%20"+ "Guarda nuestro contacto como *WhatsBulkSender* para recibir actualizaciones y soporte 😉👍");
+  
+  
+  //  window.location = "https://api.whatsapp.com/send?phone=593985590259&text="+ "*Hola me llamo:*" + "%0A" + nombre + "%20" +"%0A" + nombrenegocio +  "%20" + "%0A" + tipodenegocio + "%20" + "%0A";
+  
+  
+  $(".ordernumber2").val(function(){
+    return document.getElementById('intro').innerHTML=Math.floor(Math.random() * 999) + 1000
+  
+  })
+
+  var orden = document.querySelector('.ordernumber2').value; 
+  
+  
+  var whatsapp_number ="&text=*BotMaster™*" + "%0A"+"✅ _Solicitud Aprobada Prueba N°:_"+ "%20"+orden + "%0A"+"_________________________" + "%0A"+"%0A"+ "*😃 Nombre:*" +"%0A" + nombre + "%20" +"%0A"+"%0A" +"*📩 Correo electrónico:*" +"%0A" + nombrenegocio +  "%20" + "%0A"+"%0A"+"*⚡ Tipo de Licencia:*"+"%0A" + tipodenegocio + "%20" + "%0A"+"_________________________" + "%0A"+"%0A"+"Felicitaciones"+ "%20"+ nombre+ "%20"+"un especialista se contactará de inmediato para realizar la prueba."+ "%0A"+ "%0A"+"*P.D.*"+ "%20"+ "Guarda nuestro contacto como *BotMaster* para recibir toda la información😉👍";
+  
+  
+   var md = new MobileDetect(window.navigator.userAgent);
+   if (md.mobile()) {
+   
+  
+  //   if (mostrarpedidof===''){
+  
+   
+   
+  //     document.getElementById("demo").innerHTML =
+  //        "Aún no haz selecionado prodcutos"
+  
+  //       $('.demo').addClass('showmsg');
+  
+  
+  //       setTimeout(function() {
+  //         $(".showmsg").fadeOut(1500);
+  //         },500);
+        
+      
+      
+  
+  
+  //     // return (document.getElementById("demo").innerHTML =
+  //     //   "Aún no haz selecionado prodcutos")
+  //   }
+  //  else{
+    window.open(document.getElementById("enviarwat").href = "https://api.whatsapp.com/send?phone=593985590259" + whatsapp_number);
+  //  }
+      
+    
+  
+  
+     
+  
+    
+   
+  
+   } else {
+   
+     window.open(document.getElementById("enviarwa").href = "https://web.whatsapp.com/send?phone=593985590259" + whatsapp_number);
+  
+    
+  
+  
+   }
+  
+  
+  
+  }
+  
+  
+    
+  var recaptcha_response2 = '';
+  function submitUserForm2() {
+      if(recaptcha_response2.length == 0) {
+          document.getElementById('g-recaptcha-error2').innerHTML = '<span style="color:red;">This field is required.</span>';
+          return false;
+          
+      }
+    
+      $('#gform3 *').fadeOut(2000);
+      $('#gform3').prepend('<p class="pgracias">¡Gracias! Tu formulario ha sido enviado con éxito, <strong>espera unos segundos,</strong> enseguida recibirás un WhatsApp con las instruciones🙂</p>');
+      
+    
+  
+      goToPageayuda();
+      
+   
+  }
+  
+  
+  
+      
+  function verifyCaptcha2(token) {
+    recaptcha_response2 = token;
+    document.getElementById('g-recaptcha-error2').innerHTML = '';
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  var paises = [
+  {"nombrePais":"Afganistán","codPais":"AF"},
+  {"nombrePais":"Albania","codPais":"AL"},
+  {"nombrePais":"Alemania","codPais":"DE"},
+  {"nombrePais":"Andorra","codPais":"AD"},
+  {"nombrePais":"Angola","codPais":"AO"},
+  {"nombrePais":"Anguila","codPais":"AI"},
+  {"nombrePais":"Antártida","codPais":"AQ"},
+  {"nombrePais":"Antigua y Barbuda","codPais":"AG"},
+  {"nombrePais":"Arabia Saudita","codPais":"SA"},
+  {"nombrePais":"Argelia","codPais":"DZ"},
+  {"nombrePais":"Argentina","codPais":"AR"},
+  {"nombrePais":"Armenia","codPais":"AM"},
+  {"nombrePais":"Aruba","codPais":"AW"},
+  {"nombrePais":"Australia","codPais":"AU"},
+  {"nombrePais":"Austria","codPais":"AT"},
+  {"nombrePais":"Azerbaiyán","codPais":"AZ"},
+  {"nombrePais":"Bélgica","codPais":"BE"},
+  {"nombrePais":"Bahamas","codPais":"BS"},
+  {"nombrePais":"Bahrein","codPais":"BH"},
+  {"nombrePais":"Bangladesh","codPais":"BD"},
+  {"nombrePais":"Barbados","codPais":"BB"},
+  {"nombrePais":"Belice","codPais":"BZ"},
+  {"nombrePais":"Benín","codPais":"BJ"},
+  {"nombrePais":"Bhután","codPais":"BT"},
+  {"nombrePais":"Bielorrusia","codPais":"BY"},
+  {"nombrePais":"Birmania","codPais":"MM"},
+  {"nombrePais":"Bolivia","codPais":"BO"},
+  {"nombrePais":"Bosnia y Herzegovina","codPais":"BA"},
+  {"nombrePais":"Botsuana","codPais":"BW"},
+  {"nombrePais":"Brasil","codPais":"BR"},
+  {"nombrePais":"Brunéi","codPais":"BN"},
+  {"nombrePais":"Bulgaria","codPais":"BG"},
+  {"nombrePais":"Burkina Faso","codPais":"BF"},
+  {"nombrePais":"Burundi","codPais":"BI"},
+  {"nombrePais":"Cabo Verde","codPais":"CV"},
+  {"nombrePais":"Camboya","codPais":"KH"},
+  {"nombrePais":"Camerún","codPais":"CM"},
+  {"nombrePais":"Canadá","codPais":"CA"},
+  {"nombrePais":"Chad","codPais":"TD"},
+  {"nombrePais":"Chile","codPais":"CL"},
+  {"nombrePais":"China","codPais":"CN"},
+  {"nombrePais":"Chipre","codPais":"CY"},
+  {"nombrePais":"Ciudad del Vaticano","codPais":"VA"},
+  {"nombrePais":"Colombia","codPais":"CO"},
+  {"nombrePais":"Comoras","codPais":"KM"},
+  {"nombrePais":"República del Congo","codPais":"CG"},
+  {"nombrePais":"República Democrática del Congo","codPais":"CD"},
+  {"nombrePais":"Corea del Norte","codPais":"KP"},
+  {"nombrePais":"Corea del Sur","codPais":"KR"},
+  {"nombrePais":"Costa de Marfil","codPais":"CI"},
+  {"nombrePais":"Costa Rica","codPais":"CR"},
+  {"nombrePais":"Croacia","codPais":"HR"},
+  {"nombrePais":"Cuba","codPais":"CU"},
+  {"nombrePais":"Curazao","codPais":"CW"},
+  {"nombrePais":"Dinamarca","codPais":"DK"},
+  {"nombrePais":"Dominica","codPais":"DM"},
+  {"nombrePais":"Ecuador","codPais":"EC"},
+  {"nombrePais":"Egipto","codPais":"EG"},
+  {"nombrePais":"El Salvador","codPais":"SV"},
+  {"nombrePais":"Emiratos Árabes Unidos","codPais":"AE"},
+  {"nombrePais":"Eritrea","codPais":"ER"},
+  {"nombrePais":"Eslovaquia","codPais":"SK"},
+  {"nombrePais":"Eslovenia","codPais":"SI"},
+  {"nombrePais":"España","codPais":"ES"},
+  {"nombrePais":"Estados Unidos","codPais":"US"},
+  {"nombrePais":"Estonia","codPais":"EE"},
+  {"nombrePais":"Etiopía","codPais":"ET"},
+  {"nombrePais":"Filipinas","codPais":"PH"},
+  {"nombrePais":"Finlandia","codPais":"FI"},
+  {"nombrePais":"Fiyi","codPais":"FJ"},
+  {"nombrePais":"Francia","codPais":"FR"},
+  {"nombrePais":"Gabón","codPais":"GA"},
+  {"nombrePais":"Gambia","codPais":"GM"},
+  {"nombrePais":"Georgia","codPais":"GE"},
+  {"nombrePais":"Ghana","codPais":"GH"},
+  {"nombrePais":"Gibraltar","codPais":"GI"},
+  {"nombrePais":"Granada","codPais":"GD"},
+  {"nombrePais":"Grecia","codPais":"GR"},
+  {"nombrePais":"Groenlandia","codPais":"GL"},
+  {"nombrePais":"Guadalupe","codPais":"GP"},
+  {"nombrePais":"Guam","codPais":"GU"},
+  {"nombrePais":"Guatemala","codPais":"GT"},
+  {"nombrePais":"Guayana Francesa","codPais":"GF"},
+  {"nombrePais":"Guernsey","codPais":"GG"},
+  {"nombrePais":"Guinea","codPais":"GN"},
+  {"nombrePais":"Guinea Ecuatorial","codPais":"GQ"},
+  {"nombrePais":"Guinea-Bissau","codPais":"GW"},
+  {"nombrePais":"Guyana","codPais":"GY"},
+  {"nombrePais":"Haití","codPais":"HT"},
+  {"nombrePais":"Honduras","codPais":"HN"},
+  {"nombrePais":"Hong kong","codPais":"HK"},
+  {"nombrePais":"Hungría","codPais":"HU"},
+  {"nombrePais":"India","codPais":"IN"},
+  {"nombrePais":"Indonesia","codPais":"ID"},
+  {"nombrePais":"Irán","codPais":"IR"},
+  {"nombrePais":"Irak","codPais":"IQ"},
+  {"nombrePais":"Irlanda","codPais":"IE"},
+  {"nombrePais":"Isla Bouvet","codPais":"BV"},
+  {"nombrePais":"Isla de Man","codPais":"IM"},
+  {"nombrePais":"Isla de Navidad","codPais":"CX"},
+  {"nombrePais":"Isla Norfolk","codPais":"NF"},
+  {"nombrePais":"Islandia","codPais":"IS"},
+  {"nombrePais":"Islas Bermudas","codPais":"BM"},
+  {"nombrePais":"Islas Caimán","codPais":"KY"},
+  {"nombrePais":"Islas Cocos (Keeling)","codPais":"CC"},
+  {"nombrePais":"Islas Cook","codPais":"CK"},
+  {"nombrePais":"Islas de Åland","codPais":"AX"},
+  {"nombrePais":"Islas Feroe","codPais":"FO"},
+  {"nombrePais":"Islas Georgias del Sur y Sandwich del Sur","codPais":"GS"},
+  {"nombrePais":"Islas Heard y McDonald","codPais":"HM"},
+  {"nombrePais":"Islas Maldivas","codPais":"MV"},
+  {"nombrePais":"Islas Malvinas","codPais":"FK"},
+  {"nombrePais":"Islas Marianas del Norte","codPais":"MP"},
+  {"nombrePais":"Islas Marshall","codPais":"MH"},
+  {"nombrePais":"Islas Pitcairn","codPais":"PN"},
+  {"nombrePais":"Islas Salomón","codPais":"SB"},
+  {"nombrePais":"Islas Turcas y Caicos","codPais":"TC"},
+  {"nombrePais":"Islas Ultramarinas Menores de Estados Unidos","codPais":"UM"},
+  {"nombrePais":"Islas Vírgenes Británicas","codPais":"VG"},
+  {"nombrePais":"Islas Vírgenes de los Estados Unidos","codPais":"VI"},
+  {"nombrePais":"Israel","codPais":"IL"},
+  {"nombrePais":"Italia","codPais":"IT"},
+  {"nombrePais":"Jamaica","codPais":"JM"},
+  {"nombrePais":"Japón","codPais":"JP"},
+  {"nombrePais":"Jersey","codPais":"JE"},
+  {"nombrePais":"Jordania","codPais":"JO"},
+  {"nombrePais":"Kazajistán","codPais":"KZ"},
+  {"nombrePais":"Kenia","codPais":"KE"},
+  {"nombrePais":"Kirguistán","codPais":"KG"},
+  {"nombrePais":"Kiribati","codPais":"KI"},
+  {"nombrePais":"Kuwait","codPais":"KW"},
+  {"nombrePais":"Líbano","codPais":"LB"},
+  {"nombrePais":"Laos","codPais":"LA"},
+  {"nombrePais":"Lesoto","codPais":"LS"},
+  {"nombrePais":"Letonia","codPais":"LV"},
+  {"nombrePais":"Liberia","codPais":"LR"},
+  {"nombrePais":"Libia","codPais":"LY"},
+  {"nombrePais":"Liechtenstein","codPais":"LI"},
+  {"nombrePais":"Lituania","codPais":"LT"},
+  {"nombrePais":"Luxemburgo","codPais":"LU"},
+  {"nombrePais":"México","codPais":"MX"},
+  {"nombrePais":"Mónaco","codPais":"MC"},
+  {"nombrePais":"Macao","codPais":"MO"},
+  {"nombrePais":"Macedônia","codPais":"MK"},
+  {"nombrePais":"Madagascar","codPais":"MG"},
+  {"nombrePais":"Malasia","codPais":"MY"},
+  {"nombrePais":"Malawi","codPais":"MW"},
+  {"nombrePais":"Mali","codPais":"ML"},
+  {"nombrePais":"Malta","codPais":"MT"},
+  {"nombrePais":"Marruecos","codPais":"MA"},
+  {"nombrePais":"Martinica","codPais":"MQ"},
+  {"nombrePais":"Mauricio","codPais":"MU"},
+  {"nombrePais":"Mauritania","codPais":"MR"},
+  {"nombrePais":"Mayotte","codPais":"YT"},
+  {"nombrePais":"Micronesia","codPais":"FM"},
+  {"nombrePais":"Moldavia","codPais":"MD"},
+  {"nombrePais":"Mongolia","codPais":"MN"},
+  {"nombrePais":"Montenegro","codPais":"ME"},
+  {"nombrePais":"Montserrat","codPais":"MS"},
+  {"nombrePais":"Mozambique","codPais":"MZ"},
+  {"nombrePais":"Namibia","codPais":"NA"},
+  {"nombrePais":"Nauru","codPais":"NR"},
+  {"nombrePais":"Nepal","codPais":"NP"},
+  {"nombrePais":"Nicaragua","codPais":"NI"},
+  {"nombrePais":"Niger","codPais":"NE"},
+  {"nombrePais":"Nigeria","codPais":"NG"},
+  {"nombrePais":"Niue","codPais":"NU"},
+  {"nombrePais":"Noruega","codPais":"NO"},
+  {"nombrePais":"Nueva Caledonia","codPais":"NC"},
+  {"nombrePais":"Nueva Zelanda","codPais":"NZ"},
+  {"nombrePais":"Omán","codPais":"OM"},
+  {"nombrePais":"Países Bajos","codPais":"NL"},
+  {"nombrePais":"Pakistán","codPais":"PK"},
+  {"nombrePais":"Palau","codPais":"PW"},
+  {"nombrePais":"Palestina","codPais":"PS"},
+  {"nombrePais":"Panamá","codPais":"PA"},
+  {"nombrePais":"Papúa Nueva Guinea","codPais":"PG"},
+  {"nombrePais":"Paraguay","codPais":"PY"},
+  {"nombrePais":"Perú","codPais":"PE"},
+  {"nombrePais":"Polinesia Francesa","codPais":"PF"},
+  {"nombrePais":"Polonia","codPais":"PL"},
+  {"nombrePais":"Portugal","codPais":"PT"},
+  {"nombrePais":"Puerto Rico","codPais":"PR"},
+  {"nombrePais":"Qatar","codPais":"QA"},
+  {"nombrePais":"Reino Unido","codPais":"GB"},
+  {"nombrePais":"República Centroafricana","codPais":"CF"},
+  {"nombrePais":"República Checa","codPais":"CZ"},
+  {"nombrePais":"República Dominicana","codPais":"DO"},
+  {"nombrePais":"República de Sudán del Sur","codPais":"SS"},
+  {"nombrePais":"Reunión","codPais":"RE"},
+  {"nombrePais":"Ruanda","codPais":"RW"},
+  {"nombrePais":"Rumanía","codPais":"RO"},
+  {"nombrePais":"Rusia","codPais":"RU"},
+  {"nombrePais":"Sahara Occidental","codPais":"EH"},
+  {"nombrePais":"Samoa","codPais":"WS"},
+  {"nombrePais":"Samoa Americana","codPais":"AS"},
+  {"nombrePais":"San Bartolomé","codPais":"BL"},
+  {"nombrePais":"San Cristóbal y Nieves","codPais":"KN"},
+  {"nombrePais":"San Marino","codPais":"SM"},
+  {"nombrePais":"San Martín (Francia)","codPais":"MF"},
+  {"nombrePais":"San Pedro y Miquelón","codPais":"PM"},
+  {"nombrePais":"San Vicente y las Granadinas","codPais":"VC"},
+  {"nombrePais":"Santa Elena","codPais":"SH"},
+  {"nombrePais":"Santa Lucía","codPais":"LC"},
+  {"nombrePais":"Santo Tomé y Príncipe","codPais":"ST"},
+  {"nombrePais":"Senegal","codPais":"SN"},
+  {"nombrePais":"Serbia","codPais":"RS"},
+  {"nombrePais":"Seychelles","codPais":"SC"},
+  {"nombrePais":"Sierra Leona","codPais":"SL"},
+  {"nombrePais":"Singapur","codPais":"SG"},
+  {"nombrePais":"Sint Maarten","codPais":"SX"},
+  {"nombrePais":"Siria","codPais":"SY"},
+  {"nombrePais":"Somalia","codPais":"SO"},
+  {"nombrePais":"Sri lanka","codPais":"LK"},
+  {"nombrePais":"Sudáfrica","codPais":"ZA"},
+  {"nombrePais":"Sudán","codPais":"SD"},
+  {"nombrePais":"Suecia","codPais":"SE"},
+  {"nombrePais":"Suiza","codPais":"CH"},
+  {"nombrePais":"Surinám","codPais":"SR"},
+  {"nombrePais":"Svalbard y Jan Mayen","codPais":"SJ"},
+  {"nombrePais":"Swazilandia","codPais":"SZ"},
+  {"nombrePais":"Tayikistán","codPais":"TJ"},
+  {"nombrePais":"Tailandia","codPais":"TH"},
+  {"nombrePais":"Taiwán","codPais":"TW"},
+  {"nombrePais":"Tanzania","codPais":"TZ"},
+  {"nombrePais":"Territorio Británico del Océano Índico","codPais":"IO"},
+  {"nombrePais":"Territorios Australes y Antárticas Franceses","codPais":"TF"},
+  {"nombrePais":"Timor Oriental","codPais":"TL"},
+  {"nombrePais":"Togo","codPais":"TG"},
+  {"nombrePais":"Tokelau","codPais":"TK"},
+  {"nombrePais":"Tonga","codPais":"TO"},
+  {"nombrePais":"Trinidad y Tobago","codPais":"TT"},
+  {"nombrePais":"Tunez","codPais":"TN"},
+  {"nombrePais":"Turkmenistán","codPais":"TM"},
+  {"nombrePais":"Turquía","codPais":"TR"},
+  {"nombrePais":"Tuvalu","codPais":"TV"},
+  {"nombrePais":"Ucrania","codPais":"UA"},
+  {"nombrePais":"Uganda","codPais":"UG"},
+  {"nombrePais":"Uruguay","codPais":"UY"},
+  {"nombrePais":"Uzbekistán","codPais":"UZ"},
+  {"nombrePais":"Vanuatu","codPais":"VU"},
+  {"nombrePais":"Venezuela","codPais":"VE"},
+  {"nombrePais":"Vietnam","codPais":"VN"},
+  {"nombrePais":"Wallis y Futuna","codPais":"WF"},
+  {"nombrePais":"Yemen","codPais":"YE"},
+  {"nombrePais":"Yibuti","codPais":"DJ"},
+  {"nombrePais":"Zambia","codPais":"ZM"},
+  {"nombrePais":"Zimbabue","codPais":"ZW"}
+  ];
+
+
+  //
+  var ofertaBarraTop0 = document.querySelector("#ofertaBarraTop0");
+  // ofertaBarraTop.setAttribute('style','color:#ffffff; font-size: 18px; text-align:center; line-height: 100%;');
+
+  function getRandomArbitrary(min, max) {
+      return Math.trunc(Math.random() * (max - min) + min);
+  }
+  
+  function getOfertaTop0(country) {
+      var nomPais=""; 
+      var numero = getRandomArbitrary(10, 27);
+      
+      for (i = 0; i < paises.length; i++) {
+          if (paises[i].codPais === country) {
+              nomPais =''+ '' + paises[i].nombrePais || '';
+          }
+      }	
+    
+   return numero+" "+"Clientes"+" "  + "de" +" "+ nomPais + "";
+  } 
+
+ fetch("https://ipinfo.io/json")
+  .then((response) => response.json())
+  .then((data) => (ofertaBarraTop0.innerHTML =  getOfertaTop0(data.country)));  
+  
+
+
+
+  //
+  
+      var ofertaBarraTop = document.querySelector("#ofertaBarraTop");
+      // ofertaBarraTop.setAttribute('style','color:#ffffff; font-size: 18px; text-align:center; line-height: 100%;');
+    
+      function getRandomArbitrary(min, max) {
+          return Math.trunc(Math.random() * (max - min) + min);
+      }
+      
+      function getOfertaTop(country) {
+          var nomPais=""; 
+          var numero = getRandomArbitrary(21, 39);
+          
+          for (i = 0; i < paises.length; i++) {
+              if (paises[i].codPais === country) {
+                  nomPais =''+ '' + paises[i].nombrePais || '';
+              }
+          }	
+        
+       return numero+" "+"Emprendedores y Dueños de Negocio"+" "  + "de" +" "+ nomPais + "";
+      } 
+    
+     fetch("https://ipinfo.io/json")
+      .then((response) => response.json())
+      .then((data) => (ofertaBarraTop.innerHTML =  getOfertaTop(data.country)));  
+      
+
+    
+      
+    //   oferta 2 emprendedor pro
+
+    var ofertaBarraTop2 = document.querySelector("#ofertaBarraTop2");
+    // ofertaBarraTop.setAttribute('style','color:#ffffff; font-size: 18px; text-align:center; line-height: 100%;');
+  
+    function getRandomArbitrary(min, max) {
+        return Math.trunc(Math.random() * (max - min) + min);
+    }
+    
+    function getOfertaTop2(country) {
+        var nomPais=""; 
+        var numero2 = getRandomArbitrary(7, 15);
+        
+        for (i = 0; i < paises.length; i++) {
+            if (paises[i].codPais === country) {
+                nomPais =''+ '' + paises[i].nombrePais || '';
+            }
+        }	
+      
+     return numero2+" "+"Resellers y Socios"+" "  + "de" +" "+ nomPais + "";
+    } 
+  
+   fetch("https://ipinfo.io/json")
+    .then((response) => response.json())
+    .then((data) => (ofertaBarraTop2.innerHTML =  getOfertaTop2(data.country)));   
+
+
+
+    
+  
+  
+  // codigo para datos dinamicos ejm cupos dinamicos
+  
+  // Éste es el código que debes copiar y pegar
+  // 👇👇👇
+  
+  /* <h2 id="cuposPorDia"></h2> */
+  
+  // function cuposPorDia(size) {
+  // var cupos="";
+  //   switch (new Date().getDay()) {
+  //   case 0:
+  //     cupos = "5";
+  //     break;
+  //   case 1:
+  //     cupos = "17";
+  //     break;
+  //   case 2:
+  //      cupos = "15";
+  //     break;
+  //   case 3:
+  //     cupos = "13";
+  //     break;
+  //   case 4:
+  //     cupos = "11";
+  //     break;
+  //   case 5:
+  //     cupos = "9";
+  //     break;
+  //   case 6:
+  //     cupos = "7";
+  //     break;
+  //   default:
+  //     cupos = "5";
+  // }
+  
+  // 	return "<center><span style='color: #e71d36; font-size: " + size + "px;'><b>" + cupos + "</b></span></center>";
+  // }
+  //   document.getElementById("cuposPorDia").innerHTML = cuposPorDia(68);
+      
+  
+  // frases aleatorias
+  
+  /* <h3 id="frasesPresuasivas"></h3> */
+  
+  
+  // function frasesAleatorias() {
+  // var nro=0;
+  // var frases = new Array();
+  // 	frases[0] = "<h3 style='text-align: center;'><em><strong><span style='color: #084c61;'>¡Aprende a tener hasta 10 ventas diarias paso a paso </span><span style='color: #db3a34;'>en menos de 15 días</span><span style='color: #084c61;'>!</span></strong></em></h3>";
+  // 	frases[1] = "<h3 style='text-align: center;'><em><strong><span style='color: #084c61;'>¡Descubre cómo miles de mujeres están </span><span style='color: #db3a34;'><br>cumpliendo sus sueños </span><span style='color: #084c61;'>con éste fabuloso método!</span></strong></em></h3>";
+  //   	frases[2] = "<h3 style='text-align: center;'><em><strong><span style='color: #084c61;'>¡Inscríbete hoy y recibe hasta </span><span style='color: #db3a34;'>4 ebooks complementarios </span><span style='color: #084c61;'>gratis!</span></strong></em></h3>";
+  
+  //     nro = Math.floor(Math.random() * (frases.length - 0) + 0);//obtienes el valor aleatorio siempre acorde al tamaño de tu array
+  
+  // 	return frases[nro].toUpperCase();
+  // }
+  //      document.getElementById("frasesPresuasivas").innerHTML = frasesAleatorias();
+   
+  // precios aleatorios
+  
+  
+  // <h2 id="precioImg"></h2>
+  
+  
+  //   var ofertaImg = document.querySelector("#precioImg");
+  //   precioImg.setAttribute('style','text-align:center;');
+    
+  //   function getCountry(country) {
+  //     var ima="";
+  //     var path = "";
+      
+  //     if(country=="AR"){
+  // ima="https://tudominio.com/wp-content/uploads/pc-ars.png";
+  //     }else if(country=="CO"){
+  // ima="https://tudominio.com/wp-content/uploads/pc-cop.png";
+  //     }else if(country=="PE"){
+  // ima="https://tudominio.com/wp-content/uploads/pc-sol.png";
+  //     }else if(country=="CL"){
+  // ima="https://tudominio.com/wp-content/uploads/pc-chil.png";
+  //     }else if(country=="ES"){
+  // ima="https://tudominio.com/wp-content/uploads/pc-eur.png";
+  //     }else if(country=="MX"){
+  // ima="https://tudominio.com/wp-content/uploads/pc-mex.png";
+  //     }else{
+  // ima="https://tudominio.com/wp-content/uploads/pc-usd.png";
+  //     } 
+        
+  //     path='<img src="' + ima + '">';
+      
+  //     return path;
+  // 	}
+    
+  //    fetch("https://ipinfo.io/json")
+  //     .then((response) => response.json())
+  //     .then((data) => (precioImg.innerHTML =  getCountry(data.country)));
+
+  $('#container2bb').insertBefore('#menu-container-B0');
+  $('#masvendidosbb').insertBefore('#menu-container-B0');
+
+  $('#container2aa').insertBefore('#menu-container-C0');
+  $('#masvendidos0').insertBefore('#menu-container-C0');
+        
+  $('#containers2a').insertBefore('#menu-container-C1');
+  $('#masvendidos1').insertBefore('#menu-container-C1');
+  
+  $('#containers2b').insertBefore('#menu-container-C2');
+  $('#masvendidos').insertBefore('#menu-container-C2');
+
+
+  $('#containers3a').insertBefore('#menu-container-C3');
+  $('#masvendidos3a').insertBefore('#menu-container-C3');
+  
+  $('#containers3b').insertBefore('#menu-container-C4');
+  $('#masvendidos3b').insertBefore('#menu-container-C4');
+  
+
+    $("#owlsocial").owlCarousel({
+         navigation : true, // Show next and prev buttons
+         slideSpeed : 300,
+         paginationSpeed : 400,
+         singleItem:true,
+         // Navigation
+         navigationText : ["<",">"],
+         rewindNav : true,
+         scrollPerPage : true,
+         //Pagination
+         pagination : true,
+         paginationNumbers: false,
+         responsive:{
+          0:{
+              items:1
+          },
+          600:{
+              items:2
+          }
+          
+      }
+     });
+
+
+    //  code counter
+
+    const getRemainingTime = deadline => {
+      let now = new Date(),
+          remainTime = (new Date(deadline) - now + 1000) / 1000,
+          remainSeconds = ('0' + Math.floor(remainTime % 60)).slice(-2),
+          remainMinutes = ('0' + Math.floor(remainTime / 60 % 60)).slice(-2),
+          remainHours = ('0' + Math.floor(remainTime / 3600 % 24)).slice(-2),
+          remainDays = Math.floor(remainTime / (3600 * 24));
+    
+      return {
+        remainSeconds,
+        remainMinutes,
+        remainHours,
+        remainDays,
+        remainTime
+      }
+    };
+    
+    const countdown = (deadline,elem,finalMessage) => {
+      const el = document.getElementById(elem);
+    
+      const timerUpdate = setInterval( () => {
+        let t = getRemainingTime(deadline);
+        el.innerHTML = ` 
+        
+        <span class="titucount">Esta oferta termina en:</span>
+        <a class="countf">
+
+        <p class="pcount">  <span> ${t.remainDays}</span> Días</p>
+        <p class="pcount">  <span> ${t.remainHours}</span> Horas</p>
+        <p class="pcount">  <span> ${t.remainMinutes}</span> Mins.</p>
+        <p class="pcount">  <span> ${t.remainSeconds}</span> Seg.</p>
+
+      
+        
+    </a>`;
+    
+        if(t.remainTime <= 1) {
+          clearInterval(timerUpdate);
+          el.innerHTML = finalMessage;
+        }
+    
+      }, 1000)
+    };
+    
+    // countdown('Nov 30 2022 23:59:59 GMT-0500', 'clock', '¡La Oferta ha expirado, contáctate con soporte!');
+    countdown('Nov 30 2022 23:59:59 GMT-0500', 'clock', 'Hoy estamos de oferta aprovecha hasta el 50%<br>de descuento en todos nuestros planes.');
+
+
+
+    //contenedor más info por producto.
+    const preguntas = document.querySelectorAll('.contenedor-pregunta');
+    preguntas.forEach((pregunta) => {
+        pregunta.addEventListener('click', (e) => {
+            e.currentTarget.classList.toggle('activa');
+
+         
+            const respuesta = pregunta.querySelector('.features');
+            const alturaRealRespuesta = respuesta.scrollHeight;
+        
+    
+            if(!respuesta.style.maxHeight){
+                // Si esta vacio el maxHeight entonces ponemos un valor.
+                respuesta.style.maxHeight = alturaRealRespuesta + 'px';
+               
+             
+                // $('#masvendidos3b').insertBefore('#menu-container-C4');
+              
+            } else {
+                respuesta.style.maxHeight = null;
+            }
+
+            // [Opcional] Reiniciamos las demas preguntas
+            preguntas.forEach((elemento) => {
+                // Solamente queremos ejecutar el codigo para las preguntas que no 
+                // sean la pregunta a la que le dimos click.
+                if(pregunta !== elemento){
+                    elemento.classList.remove('activa');
+                    elemento.querySelector('.features').style.maxHeight = null;
+                }
+            });
+     
+        });
+    });
+
+    // wistia seo
+
+    
+  ( function() {
+
+    var wistia = document.querySelectorAll( ".wistia" );
+    
+    for (var i = 0; i < wistia.length; i++) {
+    
+    var source = "https://embed-ssl.wistia.com/deliveries/"+ wistia[i].dataset.thumb +".webp";
+    
+    var image = new Image();
+    image.src = source;
+    image.addEventListener( "load", function() {
+    wistia[ i ].appendChild( image );
+    }( i ) );
+    
+    wistia[i].addEventListener( "click", function() {
+    
+    var iframe = document.createElement( "iframe" );
+    
+        iframe.setAttribute( "frameborder", "0" );
+        iframe.setAttribute( "allowfullscreen", "" );
+        iframe.setAttribute( "mozallowfullscreen", "" );
+        iframe.setAttribute( "webkitallowfullscreen", "" );
+        iframe.setAttribute( "oallowfullscreen", "" );
+        iframe.setAttribute( "msallowfullscreen", "" );
+        iframe.setAttribute( "src", "//fast.wistia.net/embed/iframe/"+ this.dataset.embed +"?videoFoam=true" );
+    
+        this.innerHTML = "";
+        this.appendChild( iframe );
+    } );    
+    };
+    
+    } )();
+
+   

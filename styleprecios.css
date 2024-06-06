@@ -9,7 +9,7 @@
     display: grid;
     grid-template-columns: auto;
     align-items: center;
-    bottom: 20px;
+    bottom: 40px;
     left: 20px;
     z-index: 997;
     background-position: center;
