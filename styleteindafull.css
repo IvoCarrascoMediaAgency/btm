@@ -2750,12 +2750,17 @@ align-items: center; */
 
 .imgwin{
   width: 200px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
  
+}
+.macano {
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 .imgmac{
   width: 50px;
+  margin-left: 10px;
 
 }
 
