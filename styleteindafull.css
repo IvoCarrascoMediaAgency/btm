@@ -2657,6 +2657,14 @@ img.bmlogo {
   
 }
 
+#menu-container-C2 .containerpro h4 {
+  display: none;
+}
+
+#menu-container-C2 .item_cantidadg{
+  display: none;
+}
+
 #clock p{
   margin: 0;
 }
